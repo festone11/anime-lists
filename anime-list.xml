@@ -29063,7 +29063,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="28"/>
     </mapping-list>
   </anime>
-  <anime anidbid="14013" tvdbid="movie" tmdbid="533514" imdbid="tt8652818">
+  <anime anidbid="14013" tvdbid="330139" defaulttvdbseason="0" episodeoffset="2" tmdbid="533514" imdbid="tt8652818">
     <name>Gekijouban Violet Evergarden</name>
   </anime>
   <anime anidbid="14017" tvdbid="306743" defaulttvdbseason="0" episodeoffset="2">
