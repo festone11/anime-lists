@@ -30621,10 +30621,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2">
+  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2" episodeoffset="6">
     <name>Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6728412,tt6903382,tt7092940">
+  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" imdbid="tt6728412,tt6903382,tt7092940">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
   </anime>
   <anime anidbid="12502" tvdbid="319998" defaulttvdbseason="1">
@@ -30659,6 +30662,9 @@
   </anime>
   <anime anidbid="12542" tvdbid="329823" defaulttvdbseason="1">
     <name>Vatican Kiseki Chousakan</name>
+  </anime>
+  <anime anidbid="12543" tvdbid="284263" defaulttvdbseason="0" episodeoffset="3">
+    <name>Yuuki Yuuna wa Yuusha Bu Shozoku</name>
   </anime>
   <anime anidbid="12545" tvdbid="337120" defaulttvdbseason="1">
     <name>Citrus</name>
@@ -32066,6 +32072,9 @@
   </anime>
   <anime anidbid="13718" tvdbid="327572" defaulttvdbseason="2">
     <name>Kakegurui XX</name>
+  </anime>
+  <anime anidbid="13728" tvdbid="284263" defaulttvdbseason="2">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou (2017)</name>
   </anime>
   <anime anidbid="13730" tvdbid="hentai">
     <name>Enkou JK Bitch Gal: Oji-san to Nama Pako Seikatsu</name>
@@ -34377,7 +34386,7 @@
   <anime anidbid="15576" tvdbid="380207" defaulttvdbseason="1">
     <name>Wan Sheng Jie</name>
   </anime>
-  <anime anidbid="15577" tvdbid="unknown">
+  <anime anidbid="15577" tvdbid="284263" defaulttvdbseason="0" episodeoffset="7">
     <name>Yuuki Yuuna wa Yuusha de Aru Churutto!</name>
   </anime>
   <anime anidbid="15578" tvdbid="400134" defaulttvdbseason="1">
