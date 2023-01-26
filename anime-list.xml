@@ -22967,7 +22967,7 @@
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
     <name>Kill la Kill</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;5-2;2-3;3-4;4-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9877" tvdbid="hentai" defaulttvdbseason="1">
