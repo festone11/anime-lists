@@ -21978,6 +21978,9 @@
   </anime>
   <anime anidbid="8181" tvdbid="247958" defaulttvdbseason="1">
     <name>Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="8182" tvdbid="253182" defaulttvdbseason="1">
     <name>DD Hokuto no Ken</name>
@@ -25027,7 +25030,7 @@
   <anime anidbid="9355" tvdbid="music video" defaulttvdbseason="1">
     <name>Touhou PVD 3</name>
   </anime>
-  <anime anidbid="9356" tvdbid="247958" defaulttvdbseason="0" imdbid="tt2323836">
+  <anime anidbid="9356" tvdbid="247958" defaulttvdbseason="0" episodeoffset="1" imdbid="tt2323836">
     <name>Gekijouban Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.</name>
   </anime>
   <anime anidbid="9357" tvdbid="267810" defaulttvdbseason="1">
@@ -30782,7 +30785,7 @@
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2">
     <name>Days: Touin Gakuensen!</name>
   </anime>
-  <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="1">
+  <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="0">
     <name>Nekopara</name>
   </anime>
   <anime anidbid="12625" tvdbid="275609" defaulttvdbseason="2">
@@ -32680,7 +32683,7 @@
   <anime anidbid="14205" tvdbid="361217" defaulttvdbseason="1">
     <name>Strike Witches: 501 Butai Hasshin Shimasu!</name>
   </anime>
-  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0">
+  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0" episodeoffset="1">
     <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
   <anime anidbid="14213" tvdbid="354170" defaulttvdbseason="1">
