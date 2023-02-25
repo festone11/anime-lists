@@ -15944,8 +15944,11 @@
   <anime anidbid="6786" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1525803">
     <name>Buddha Saitan</name>
   </anime>
-  <anime anidbid="6787" tvdbid="81830" defaulttvdbseason="2">
+  <anime anidbid="6787" tvdbid="81830" defaulttvdbseason="0" episodeoffset="13">
     <name>Kanokon: Manatsu no Daishanikusai</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="15"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6788" tvdbid="212551" defaulttvdbseason="1">
     <name>Anyamal Tantei Kiruminzoo</name>
