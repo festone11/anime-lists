@@ -18493,6 +18493,8 @@
   </anime>
   <anime anidbid="6787" tvdbid="81830" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Kanokon: Manatsu no Daishanikusai</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="15"/>
   </anime>
   <anime anidbid="6788" tvdbid="212551" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Anyamal Tantei Kiruminzoo</name>
