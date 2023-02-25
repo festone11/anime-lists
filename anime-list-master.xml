@@ -18491,7 +18491,7 @@
   <anime anidbid="6786" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1525803">
     <name>Buddha Saitan</name>
   </anime>
-  <anime anidbid="6787" tvdbid="81830" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6787" tvdbid="81830" defaulttvdbseason="0" episodeoffset="13" tmdbid="" imdbid="">
     <name>Kanokon: Manatsu no Daishanikusai</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="15"/>
