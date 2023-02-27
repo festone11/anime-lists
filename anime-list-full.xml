@@ -35373,6 +35373,9 @@
   <anime anidbid="16445" tvdbid="371437" defaulttvdbseason="0" episodeoffset="7">
     <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X: Unmei no Hito ni Deatte Shimatta...</name>
   </anime>
+  <anime anidbid="16446" tvdbid="420657" defaulttvdbseason="1">
+    <name>Kono Subarashii Sekai ni Bakuen o!</name>
+  </anime>
   <anime anidbid="16457" tvdbid="415240" defaulttvdbseason="1">
     <name>Mamahaha no Tsurego ga Motokano Datta</name>
   </anime>
@@ -35999,6 +36002,12 @@
   </anime>
   <anime anidbid="17428" tvdbid="420682" defaulttvdbseason="1">
     <name>Boku to Roboco</name>
+  </anime>
+  <anime anidbid="17431" tvdbid="303867" defaulttvdbseason="3">
+    <name>Kono Subarashii Sekai ni Shukufuku o! 3</name>
+  </anime>
+  <anime anidbid="17432" tvdbid="hentai">
+    <name>Kitsune Musume no Ecchi na Oyado</name>
   </anime>
   <anime anidbid="17433" tvdbid="395483" defaulttvdbseason="2">
     <name>Pui Pui Molcar: Driving School</name>
