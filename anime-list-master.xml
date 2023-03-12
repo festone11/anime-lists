@@ -31928,7 +31928,7 @@
     <name>Milpom</name>
   </anime>
   <anime anidbid="11636" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Deban Desu Yo! Onigirizu</name>
+    <name>Deban Desu yo! Onigirizu</name>
   </anime>
   <anime anidbid="11637" tvdbid="293088" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>One Punch Man: Road to Hero</name>
@@ -40808,8 +40808,8 @@
   <anime anidbid="14804" tvdbid="259675" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="tt10915840">
     <name>Uchuu Senkan Yamato 2205: Aratanaru Tabidachi</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="3">;1-0;2-0;</mapping>
       <mapping anidbseason="0" tvdbseason="3">;401-1;402-2;403-3;404-4;405-5;406-6;407-7;408-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="3">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14805" tvdbid="366358" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -47411,7 +47411,7 @@
     <name>Seijo no Maryoku wa Bannou Desu (2023)</name>
   </anime>
   <anime anidbid="17247" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Osomatsu-san (2023)</name>
+    <name>Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai</name>
   </anime>
   <anime anidbid="17248" tvdbid="417675" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita</name>
@@ -49248,5 +49248,41 @@
   </anime>
   <anime anidbid="17891" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sore Shikanai Wakenai Deshou</name>
+  </anime>
+  <anime anidbid="17892" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nico/Agony</name>
+  </anime>
+  <anime anidbid="17893" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wander Burabura Bakkamu</name>
+  </anime>
+  <anime anidbid="17894" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara</name>
+  </anime>
+  <anime anidbid="17895" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tsuru ga Mau Yoru ni</name>
+  </anime>
+  <anime anidbid="17896" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Boruto: Naruto Next Generations (Dai Ni Bu)</name>
+  </anime>
+  <anime anidbid="17897" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Naruto (2023)</name>
+  </anime>
+  <anime anidbid="17898" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tentai Kansoku</name>
+  </anime>
+  <anime anidbid="17899" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Himitsu no Hana no Niwa</name>
+  </anime>
+  <anime anidbid="17900" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Neko to Wakai Sena</name>
+  </anime>
+  <anime anidbid="17901" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Detarame na Sekai no Melodrama</name>
+  </anime>
+  <anime anidbid="17902" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Colors</name>
+  </anime>
+  <anime anidbid="17903" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nightmare X Deathscythe: Hangyaku No Resonance</name>
   </anime>
 </anime-list>
