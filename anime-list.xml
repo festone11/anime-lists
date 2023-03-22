@@ -1112,6 +1112,12 @@
       <studio>Gonzo Digimation</studio>
     </supplemental-info>
   </anime>
+  <anime anidbid="249" tvdbid="349691" defaulttvdbseason="1">
+    <name>Pia Carrot e Youkoso!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="250" tvdbid="120201" defaulttvdbseason="1">
     <name>Tokumu Sentai Shinesman</name>
   </anime>
