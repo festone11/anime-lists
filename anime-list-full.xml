@@ -34949,6 +34949,9 @@
       <mapping anidbseason="0" tvdbseason="0" start="2" end="14" offset="-1">;1-14;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="15990" tvdbid="267435" defaulttvdbseason="0" episodeoffset="2">
+    <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuite Iku.</name>
+  </anime>
   <anime anidbid="15993" tvdbid="399990" defaulttvdbseason="1">
     <name>Blue Period</name>
   </anime>
@@ -35699,6 +35702,9 @@
   <anime anidbid="16980" tvdbid="412579" defaulttvdbseason="1">
     <name>Shoot! Goal to the Future</name>
   </anime>
+  <anime anidbid="16981" tvdbid="412696" defaulttvdbseason="1">
+    <name>Skip to Loafer</name>
+  </anime>
   <anime anidbid="16983" tvdbid="movie" tmdbid="900667" imdbid="tt16183464">
     <name>One Piece Film: Red</name>
   </anime>
@@ -36017,6 +36023,12 @@
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1">
     <name>Yoru wa Neko to Issho</name>
   </anime>
+  <anime anidbid="17337" tvdbid="419126" defaulttvdbseason="1">
+    <name>Kaminaki Sekai no Kamisama Katsudou</name>
+  </anime>
+  <anime anidbid="17339" tvdbid="419490" defaulttvdbseason="1">
+    <name>Otonari ni Ginga</name>
+  </anime>
   <anime anidbid="17340" tvdbid="419500" defaulttvdbseason="1">
     <name>Yuusha ga Shinda!</name>
   </anime>
@@ -36161,7 +36173,7 @@
   <anime anidbid="17571" tvdbid="hentai">
     <name>Kisaku Reiwa Ban</name>
   </anime>
-  <anime anidbid="17573" tvdbid="movie">
+  <anime anidbid="17573" tvdbid="movie" tmdbid="1012652" imdbid="tt26224944">
     <name>Gekijouban Psycho-Pass: Providence</name>
   </anime>
   <anime anidbid="17578" tvdbid="418001" defaulttvdbseason="1">
@@ -36185,6 +36197,9 @@
   <anime anidbid="17599" tvdbid="316842" defaulttvdbseason="2">
     <name>Mahou Tsukai no Yome Season 2</name>
   </anime>
+  <anime anidbid="17612" tvdbid="424435" defaulttvdbseason="1">
+    <name>Megami no Cafe Terrace</name>
+  </anime>
   <anime anidbid="17615" tvdbid="357019" defaulttvdbseason="3">
     <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
   </anime>
@@ -36205,6 +36220,9 @@
   </anime>
   <anime anidbid="17639" tvdbid="426861" defaulttvdbseason="1">
     <name>UniteUp!</name>
+  </anime>
+  <anime anidbid="17640" tvdbid="movie" tmdbid="1056803" imdbid="tt27348312">
+    <name>Seishun Buta Yarou wa Odekake Sister no Yume o Minai</name>
   </anime>
   <anime anidbid="17643" tvdbid="391005" defaulttvdbseason="2">
     <name>Gokushufudou (2023)</name>
@@ -36268,6 +36286,9 @@
   </anime>
   <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
     <name>Oemo Jisang Juui</name>
+  </anime>
+  <anime anidbid="17825" tvdbid="429895" defaulttvdbseason="1">
+    <name>Rokudou no Onna-tachi</name>
   </anime>
   <anime anidbid="17850" tvdbid="425148" defaulttvdbseason="1">
     <name>Berserk: Ougon Jidai-hen - Memorial Edition</name>
