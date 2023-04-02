@@ -1436,13 +1436,13 @@
   <anime anidbid="337" tvdbid="80583" defaulttvdbseason="1">
     <name>Shin Tenchi Muyou!</name>
   </anime>
-  <anime anidbid="338" tvdbid="106641" defaulttvdbseason="1">
+  <anime anidbid="338" tvdbid="106641" defaulttvdbseason="0">
     <name>Sore Yuke! Uchuu Senkan Yamamoto Youko</name>
   </anime>
-  <anime anidbid="339" tvdbid="106641" defaulttvdbseason="2">
+  <anime anidbid="339" tvdbid="106641" defaulttvdbseason="0" episodeoffset="3">
     <name>Sore Yuke! Uchuu Senkan Yamamoto Youko II</name>
   </anime>
-  <anime anidbid="340" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="340" tvdbid="106641" defaulttvdbseason="1">
     <name>Sore Yuke! Uchuu Senkan Yamamoto Youko (1999)</name>
   </anime>
   <anime anidbid="343" tvdbid="72775" defaulttvdbseason="4">
