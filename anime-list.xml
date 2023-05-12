@@ -13918,6 +13918,9 @@
   </anime>
   <anime anidbid="5786" tvdbid="82807" defaulttvdbseason="1">
     <name>Sekirei</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5787" tvdbid="82788" defaulttvdbseason="1">
     <name>Natsume Yuujinchou</name>
