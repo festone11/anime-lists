@@ -1969,10 +1969,10 @@
     </mapping-list>
   </anime>
   <anime anidbid="462" tvdbid="71744" defaulttvdbseason="0">
-    <name>Vandread Taidouhen</name>
+    <name>VanDread Taidouhen</name>
   </anime>
   <anime anidbid="463" tvdbid="71744" defaulttvdbseason="0" episodeoffset="1">
-    <name>Vandread Gekitouhen</name>
+    <name>VanDread Gekitouhen</name>
   </anime>
   <anime anidbid="464" tvdbid="380653" defaulttvdbseason="1">
     <name>Digimon Frontier</name>
@@ -12656,7 +12656,7 @@
     <name>Majo demo Steady</name>
   </anime>
   <anime anidbid="5079" tvdbid="127151" defaulttvdbseason="2">
-    <name>UFO Senshi Dai Apolon 2</name>
+    <name>UFO Senshi Dai Apolon II</name>
   </anime>
   <anime anidbid="5080" tvdbid="245451" defaulttvdbseason="0" episodeoffset="2" imdbid="tt1043842">
     <name>Appleseed Saga Ex Machina</name>
@@ -13739,7 +13739,7 @@
     <name>Ramayana: Rama Ouji Densetsu</name>
   </anime>
   <anime anidbid="5694" tvdbid="84025" defaulttvdbseason="4">
-    <name>Maria-sama ga Miteru 4th</name>
+    <name>Maria-sama ga Miteru 4th Season</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="11" offset="18">;12-0;13-0;14-0;15-0;</mapping>
     </mapping-list>
@@ -14916,7 +14916,7 @@
     <name>Denpateki na Kanojo</name>
   </anime>
   <anime anidbid="6323" tvdbid="89311" defaulttvdbseason="1">
-    <name>Hatsukoi Limited</name>
+    <name>Hatsukoi Limited.</name>
   </anime>
   <anime anidbid="6324" tvdbid="143021" defaulttvdbseason="1">
     <name>Examurai Sengoku</name>
@@ -16664,7 +16664,7 @@
     <name>Gokkun Doll: Choujigen Pico-chan Toujou!!</name>
   </anime>
   <anime anidbid="7064" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Minami no Watashi no Heart ni Tacchi Shite...</name>
+    <name>Minami no Watashi no Heart ni Touch Shite...</name>
   </anime>
   <anime anidbid="7065" tvdbid="hentai" defaulttvdbseason="1">
     <name>Onmyouji Ayakashi no Megami: Inran Jubaku</name>
@@ -31926,7 +31926,7 @@
     <name>Tian Bao Fuyao Lu 2</name>
   </anime>
   <anime anidbid="16317" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Succubus Appli: Gakuen Sai*</name>
+    <name>Succubus Appli: Gakuen Sai***</name>
   </anime>
   <anime anidbid="16320" tvdbid="402893" defaulttvdbseason="1">
     <name>Mahou Shoujo Magical Destroyers</name>
