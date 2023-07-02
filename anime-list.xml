@@ -31823,6 +31823,9 @@
   <anime anidbid="16179" tvdbid="337284" defaulttvdbseason="4">
     <name>Dou Po Cangqiong Di Si Ji</name>
   </anime>
+  <anime anidbid="16182" tvdbid="401619" defaulttvdbseason="1">
+    <name>Liar Liar</name>
+  </anime>
   <anime anidbid="16183" tvdbid="401902" defaulttvdbseason="1">
     <name>Koi wa Sekai Seifuku no Ato de</name>
   </anime>
@@ -32399,6 +32402,9 @@
   <anime anidbid="17028" tvdbid="movie" tmdbid="955666" imdbid="tt16410438">
     <name>Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden</name>
   </anime>
+  <anime anidbid="17030" tvdbid="413333" defaulttvdbseason="1">
+    <name>Nanatsu no Maken ga Shihai Suru</name>
+  </anime>
   <anime anidbid="17038" tvdbid="413515" defaulttvdbseason="1">
     <name>Koukyuu no Karasu</name>
   </anime>
@@ -32531,6 +32537,9 @@
   <anime anidbid="17198" tvdbid="348545" defaulttvdbseason="4">
     <name>Kimetsu no Yaiba: Katanakaji no Sato Hen</name>
   </anime>
+  <anime anidbid="17199" tvdbid="416359" defaulttvdbseason="1">
+    <name>Helck</name>
+  </anime>
   <anime anidbid="17203" tvdbid="424563" defaulttvdbseason="1">
     <name>Sazanami Souji ni Junketsu o Sasagu</name>
   </anime>
@@ -32563,6 +32572,9 @@
   </anime>
   <anime anidbid="17226" tvdbid="419457" defaulttvdbseason="1">
     <name>Yuki Hodokishi Futaai</name>
+  </anime>
+  <anime anidbid="17236" tvdbid="371310" defaulttvdbseason="2">
+    <name>Mushoku Tensei II: Isekai Ittara Honki Dasu</name>
   </anime>
   <anime anidbid="17237" tvdbid="329822" defaulttvdbseason="3">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season</name>
@@ -32963,6 +32975,9 @@
   <anime anidbid="17628" tvdbid="395486" defaulttvdbseason="2">
     <name>Kanojo mo Kanojo (2023)</name>
   </anime>
+  <anime anidbid="17629" tvdbid="380654" defaulttvdbseason="3">
+    <name>Kanojo, Okarishimasu (2023)</name>
+  </anime>
   <anime anidbid="17630" tvdbid="401233" defaulttvdbseason="2">
     <name>Sono Bisque Doll wa Koi o Suru (Zokuhen)</name>
   </anime>
@@ -33077,6 +33092,9 @@
   <anime anidbid="17720" tvdbid="427276" defaulttvdbseason="1">
     <name>Jijou o Shiranai Tenkousei ga Guigui Kuru.</name>
   </anime>
+  <anime anidbid="17726" tvdbid="427358" defaulttvdbseason="1">
+    <name>Yumemiru Danshi wa Genjitsushugisha</name>
+  </anime>
   <anime anidbid="17733" tvdbid="hentai" defaulttvdbseason="1">
     <name>Imouto wa Gal Kawaii</name>
   </anime>
@@ -33104,6 +33122,9 @@
   <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
     <name>Oemo Jisang Juui</name>
   </anime>
+  <anime anidbid="17765" tvdbid="74796" defaulttvdbseason="17" episodeoffset="13">
+    <name>Bleach: Sennen Kessen Hen - Ketsubetsu Tan</name>
+  </anime>
   <anime anidbid="17777" tvdbid="76703" defaulttvdbseason="20">
     <name>Pocket Monsters (2023)</name>
   </anime>
@@ -33116,8 +33137,17 @@
   <anime anidbid="17802" tvdbid="429055" defaulttvdbseason="1">
     <name>16bit Sensation: Another Layer</name>
   </anime>
+  <anime anidbid="17806" tvdbid="429310" defaulttvdbseason="1">
+    <name>Zom 100: Zombie ni Naru made ni Shitai 100 no Koto</name>
+  </anime>
+  <anime anidbid="17820" tvdbid="429634" defaulttvdbseason="1">
+    <name>Suki na Ko ga Megane o Wasureta</name>
+  </anime>
   <anime anidbid="17825" tvdbid="429895" defaulttvdbseason="1">
     <name>Rokudou no Onna-tachi</name>
+  </anime>
+  <anime anidbid="17827" tvdbid="429896" defaulttvdbseason="1">
+    <name>Tenpuru</name>
   </anime>
   <anime anidbid="17846" tvdbid="430544" defaulttvdbseason="1">
     <name>Hametsu no Oukoku</name>
@@ -33185,10 +33215,22 @@
   <anime anidbid="17939" tvdbid="415138" defaulttvdbseason="1" episodeoffset="12">
     <name>Sugar Apple Fairy Tale (2023)</name>
   </anime>
+  <anime anidbid="17946" tvdbid="436124" defaulttvdbseason="1">
+    <name>Horimiya: Piece</name>
+  </anime>
   <anime anidbid="17957" tvdbid="404525" defaulttvdbseason="2">
     <name>High Card Season 2</name>
   </anime>
   <anime anidbid="17963" tvdbid="433088" defaulttvdbseason="1">
     <name>Wind Breaker</name>
+  </anime>
+  <anime anidbid="17968" tvdbid="355966" defaulttvdbseason="0" episodeoffset="1">
+    <name>Go-Toubun no Hanayome~</name>
+  </anime>
+  <anime anidbid="17979" tvdbid="415821" defaulttvdbseason="2">
+    <name>Spy Kyoushitsu (2023)</name>
+  </anime>
+  <anime anidbid="18057" tvdbid="hentai">
+    <name>Anette-san &amp; Liliana-san Best Selection</name>
   </anime>
 </anime-list>
