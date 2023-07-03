@@ -32183,6 +32183,9 @@
   <anime anidbid="16734" tvdbid="318271" defaulttvdbseason="2">
     <name>Getsuyoubi no Tawawa 2</name>
   </anime>
+  <anime anidbid="16755" tvdbid="398555" defaulttvdbseason="2">
+    <name>Shinigami Bocchan to Kuro Maid (2023)</name>
+  </anime>
   <anime anidbid="16776" tvdbid="352408" defaulttvdbseason="0" episodeoffset="8" tmdbid="876792" imdbid="tt15467380">
     <name>Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen</name>
   </anime>
@@ -32422,6 +32425,9 @@
   </anime>
   <anime anidbid="17064" tvdbid="393478" defaulttvdbseason="2">
     <name>Tokyo Revengers: Seiya Kessen Hen</name>
+  </anime>
+  <anime anidbid="17065" tvdbid="413578" defaulttvdbseason="1">
+    <name>Rurouni Kenshin: Meiji Kenkaku Romantan (2023)</name>
   </anime>
   <anime anidbid="17071" tvdbid="hentai" defaulttvdbseason="1">
     <name>Love Me: Kaede to Suzu The Animation</name>
@@ -33020,6 +33026,9 @@
   <anime anidbid="17648" tvdbid="418364" defaulttvdbseason="1" episodeoffset="12">
     <name>Kidou Senshi Gundam: Suisei no Majo (2023)</name>
   </anime>
+  <anime anidbid="17649" tvdbid="267441" defaulttvdbseason="3">
+    <name>Hataraku Maou-sama!! (2023)</name>
+  </anime>
   <anime anidbid="17651" tvdbid="425520" defaulttvdbseason="1">
     <name>Revenger</name>
   </anime>
@@ -33232,5 +33241,8 @@
   </anime>
   <anime anidbid="18057" tvdbid="hentai">
     <name>Anette-san &amp; Liliana-san Best Selection</name>
+  </anime>
+  <anime anidbid="18062" tvdbid="436087" defaulttvdbseason="1">
+    <name>Tonikaku Kawaii: Joshikou Hen</name>
   </anime>
 </anime-list>
