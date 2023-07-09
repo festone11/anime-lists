@@ -12036,7 +12036,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4772" tvdbid="75411" defaulttvdbseason="0" imdbid="tt0936323,tt0936320">
+  <anime anidbid="4772" tvdbid="75411" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0936323,tt0936320">
     <name>Rozen Maiden: Ouverture</name>
   </anime>
   <anime anidbid="4773" tvdbid="81651" defaulttvdbseason="1">
