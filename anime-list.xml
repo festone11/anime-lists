@@ -6617,6 +6617,9 @@
       <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="2060" tvdbid="362900" defaulttvdbseason="1">
+    <name>Shounan Bakusouzoku</name>
+  </anime>
   <anime anidbid="2061" tvdbid="76894" defaulttvdbseason="a">
     <name>Yuu Gi Ou: Duel Monsters</name>
     <mapping-list>
@@ -9297,6 +9300,9 @@
   </anime>
   <anime anidbid="3217" tvdbid="hentai" defaulttvdbseason="1">
     <name>Bakunyuu Shimai</name>
+  </anime>
+  <anime anidbid="3219" tvdbid="258907" defaulttvdbseason="1">
+    <name>Chouon Senshi Borgman</name>
   </anime>
   <anime anidbid="3225" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt2137684">
     <name>Hametsu no Mars</name>
@@ -24573,7 +24579,7 @@
   <anime anidbid="10672" tvdbid="OVA" defaulttvdbseason="1">
     <name>Nozo x Kimi</name>
   </anime>
-  <anime anidbid="10673" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="10673" tvdbid="290620" defaulttvdbseason="1">
     <name>Ane Log: Moyako Nee-san no Tomaranai Monologue</name>
   </anime>
   <anime anidbid="10674" tvdbid="OVA" defaulttvdbseason="1">
@@ -26002,6 +26008,9 @@
   </anime>
   <anime anidbid="11543" tvdbid="305100" defaulttvdbseason="1">
     <name>Shounen Maid</name>
+  </anime>
+  <anime anidbid="11544" tvdbid="306111" defaulttvdbseason="1">
+    <name>Manaria Friends</name>
   </anime>
   <anime anidbid="11547" tvdbid="304490" defaulttvdbseason="1">
     <name>Sekkou Boys</name>
@@ -28648,6 +28657,9 @@
   <anime anidbid="13597" tvdbid="339331" defaulttvdbseason="1">
     <name>25-sai no Joshikousei</name>
   </anime>
+  <anime anidbid="13599" tvdbid="339277" defaulttvdbseason="1">
+    <name>Nanatsu no Bitoku</name>
+  </anime>
   <anime anidbid="13602" tvdbid="hentai" defaulttvdbseason="1">
     <name>Nariyuki: Papakatsu Girls!! The Animation</name>
   </anime>
@@ -30484,6 +30496,9 @@
   <anime anidbid="15028" tvdbid="351953" defaulttvdbseason="2">
     <name>Zombie Land Saga Revenge</name>
   </anime>
+  <anime anidbid="15032" tvdbid="329564" defaulttvdbseason="1">
+    <name>BeyWarriors: Cyborg</name>
+  </anime>
   <anime anidbid="15033" tvdbid="370373" defaulttvdbseason="1">
     <name>Urashimasakatasen no Nichijou</name>
   </anime>
@@ -30843,6 +30858,9 @@
   </anime>
   <anime anidbid="15336" tvdbid="370891" defaulttvdbseason="2">
     <name>Shin Chuuka Ichiban! (2021)</name>
+  </anime>
+  <anime anidbid="15338" tvdbid="386577" defaulttvdbseason="1">
+    <name>Rail Romanesque</name>
   </anime>
   <anime anidbid="15339" tvdbid="402094" defaulttvdbseason="1">
     <name>Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore</name>
@@ -32249,8 +32267,14 @@
   <anime anidbid="16829" tvdbid="hentai" defaulttvdbseason="1">
     <name>Papa Katsu!</name>
   </anime>
+  <anime anidbid="16841" tvdbid="416846" defaulttvdbseason="1">
+    <name>Meitantei Conan: Hannin no Hanzawa-san</name>
+  </anime>
   <anime anidbid="16842" tvdbid="416843" defaulttvdbseason="1">
     <name>Meitantei Conan: Zero no Tea Time</name>
+  </anime>
+  <anime anidbid="16843" tvdbid="411106" defaulttvdbseason="1">
+    <name>Liehuo Jiao Chou</name>
   </anime>
   <anime anidbid="16848" tvdbid="411004" defaulttvdbseason="1">
     <name>Dou Shen Ji</name>
@@ -32467,6 +32491,9 @@
   </anime>
   <anime anidbid="17089" tvdbid="411329" defaulttvdbseason="2">
     <name>Kaginado (2022)</name>
+  </anime>
+  <anime anidbid="17090" tvdbid="415428" defaulttvdbseason="1">
+    <name>The Missing 8</name>
   </anime>
   <anime anidbid="17091" tvdbid="402227" defaulttvdbseason="1" episodeoffset="13">
     <name>Kyoukai Senki (2022)</name>
@@ -32770,6 +32797,9 @@
   </anime>
   <anime anidbid="17424" tvdbid="420639" defaulttvdbseason="1">
     <name>Kenda Master Ken (2022)</name>
+  </anime>
+  <anime anidbid="17425" tvdbid="420393" defaulttvdbseason="1">
+    <name>Zanting! Rang Wo Cha Gonglue</name>
   </anime>
   <anime anidbid="17427" tvdbid="420549" defaulttvdbseason="1">
     <name>Warau Arsnotoria Sun!</name>
@@ -33265,6 +33295,9 @@
   </anime>
   <anime anidbid="17979" tvdbid="415821" defaulttvdbseason="2">
     <name>Spy Kyoushitsu (2023)</name>
+  </anime>
+  <anime anidbid="17981" tvdbid="433560" defaulttvdbseason="1">
+    <name>Bang Dream! It's MyGo!!!!!</name>
   </anime>
   <anime anidbid="18057" tvdbid="hentai">
     <name>Anette-san &amp; Liliana-san Best Selection</name>
