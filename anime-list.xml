@@ -2571,7 +2571,7 @@
       <studio>Studio Deen</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="633" tvdbid="97781" defaulttvdbseason="1">
+  <anime anidbid="633" tvdbid="97781" defaulttvdbseason="1" tmdbid="97781">
     <name>Jikuu Bouken Nuumamonger</name>
   </anime>
   <anime anidbid="634" tvdbid="79205" defaulttvdbseason="1">
@@ -9432,7 +9432,7 @@
   <anime anidbid="3331" tvdbid="79049" defaulttvdbseason="1">
     <name>Prayers</name>
   </anime>
-  <anime anidbid="3333" tvdbid="262314" defaulttvdbseason="1">
+  <anime anidbid="3333" tvdbid="262314" defaulttvdbseason="1" tmdbid="262314">
     <name>Ginga no Uo Ursa Minor Blue</name>
   </anime>
   <anime anidbid="3335" tvdbid="hentai" defaulttvdbseason="1">
@@ -23554,7 +23554,7 @@
   <anime anidbid="10113" tvdbid="273002" defaulttvdbseason="0">
     <name>Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.: Yuusha ni Narenakatta Ore no Imouto ga Joukyou Shite Kimashita.</name>
   </anime>
-  <anime anidbid="10114" tvdbid="357271" defaulttvdbseason="1" imdbid="tt3306776">
+  <anime anidbid="10114" tvdbid="357271" defaulttvdbseason="1" tmdbid="357271" imdbid="tt3306776">
     <name>Bayonetta: Bloody Fate</name>
   </anime>
   <anime anidbid="10115" tvdbid="OVA" defaulttvdbseason="1">
