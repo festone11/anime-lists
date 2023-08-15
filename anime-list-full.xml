@@ -2586,7 +2586,7 @@
       <studio>Studio Deen</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="633" tvdbid="97781" defaulttvdbseason="1" tmdbid="97781">
+  <anime anidbid="633" tvdbid="97781" defaulttvdbseason="1" tmdbid="143833">
     <name>Jikuu Bouken Nuumamonger</name>
   </anime>
   <anime anidbid="634" tvdbid="79205" defaulttvdbseason="1">
@@ -8242,6 +8242,11 @@
   </anime>
   <anime anidbid="2429" tvdbid="76014" defaulttvdbseason="1">
     <name>Yakitate!! Japan</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="53" end="69" offset="-52"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2430" tvdbid="81115" defaulttvdbseason="1" imdbid="tt0808082">
     <name>Mahou Shoujo Lyrical Nanoha</name>
@@ -9427,9 +9432,9 @@
   <anime anidbid="2858" tvdbid="79282" defaulttvdbseason="1">
     <name>Solty Rei</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-25;2-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1+2;</mapping>
     </mapping-list>
-    <before>;1-25;2-26;</before>
+    <before>;1-25;</before>
   </anime>
   <anime anidbid="2859" tvdbid="235591" defaulttvdbseason="a">
     <name>Otogi-Juushi Akazukin (2006)</name>
@@ -9644,9 +9649,6 @@
   </anime>
   <anime anidbid="2972" tvdbid="82561" defaulttvdbseason="1" imdbid="tt0962762">
     <name>Genius Party</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;2-1;3-2;4-3;5-4;6-5;7-6;8-7;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2974" tvdbid="unknown" defaulttvdbseason="1">
     <name>Jarinko Chie (1981)</name>
@@ -10443,7 +10445,7 @@
   <anime anidbid="3331" tvdbid="79049" defaulttvdbseason="1">
     <name>Prayers</name>
   </anime>
-  <anime anidbid="3333" tvdbid="262314" defaulttvdbseason="1" tmdbid="262314">
+  <anime anidbid="3333" tvdbid="262314" defaulttvdbseason="1" tmdbid="305896">
     <name>Ginga no Uo Ursa Minor Blue</name>
   </anime>
   <anime anidbid="3335" tvdbid="hentai" defaulttvdbseason="1">
@@ -16556,9 +16558,6 @@
   </anime>
   <anime anidbid="6037" tvdbid="82561" defaulttvdbseason="2" imdbid="tt1305678">
     <name>Genius Party Beyond</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;2-1;3-5;4-2;5-3;6-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6039" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1512854">
     <name>Pica-don</name>
@@ -26782,7 +26781,7 @@
   <anime anidbid="10113" tvdbid="273002" defaulttvdbseason="0">
     <name>Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.: Yuusha ni Narenakatta Ore no Imouto ga Joukyou Shite Kimashita.</name>
   </anime>
-  <anime anidbid="10114" tvdbid="357271" defaulttvdbseason="1" tmdbid="357271" imdbid="tt3306776">
+  <anime anidbid="10114" tvdbid="357271" defaulttvdbseason="1" tmdbid="242546" imdbid="tt3306776">
     <name>Bayonetta: Bloody Fate</name>
   </anime>
   <anime anidbid="10115" tvdbid="OVA" defaulttvdbseason="1">
@@ -30869,6 +30868,9 @@
   </anime>
   <anime anidbid="12656" tvdbid="321503" defaulttvdbseason="1">
     <name>Ling Qi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1">;1-1;2-1;3-2;4-2;5-3;6-3;7-4;8-4;9-5;10-5;11-6;12-6;13-7;14-7;15-8;16-8;17-9;18-9;19-10;20-10;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12657" tvdbid="321869" defaulttvdbseason="1">
     <name>Re:Creators</name>
