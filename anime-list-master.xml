@@ -24959,7 +24959,7 @@
   <anime anidbid="9015" tvdbid="259649" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hagure Yuusha no Aesthetica</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" offset="1" start="1" end="6" />
+      <mapping anidbseason="0" tvdbseason="0" offset="1" start="1" end="6"/>
     </mapping-list>
   </anime>
   <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
