@@ -9020,7 +9020,7 @@
   <anime anidbid="3067" tvdbid="80759" defaulttvdbseason="1">
     <name>Ichigo 100%</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;3-0;4-0;5-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-6;3-0;4-0;5-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3068" tvdbid="80787" defaulttvdbseason="2">
@@ -11198,6 +11198,9 @@
   </anime>
   <anime anidbid="4325" tvdbid="81144" defaulttvdbseason="1">
     <name>True Tears</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="-1">;10-0;11-0;12-0;13-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4326" tvdbid="85458" defaulttvdbseason="1">
     <name>Gakuen Heaven</name>
@@ -31685,6 +31688,9 @@
   </anime>
   <anime anidbid="15964" tvdbid="402117" defaulttvdbseason="1">
     <name>Kawaii dake ja Nai Shikimori-san</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;2-0;3-0;4-5;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15966" tvdbid="381536" defaulttvdbseason="1">
     <name>Bai Yao Pu Di Yi Ce</name>
