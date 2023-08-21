@@ -19478,6 +19478,9 @@
   </anime>
   <anime anidbid="8319" tvdbid="252477" defaulttvdbseason="1">
     <name>Mashiro-iro Symphony: The Color of Lovers</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-4;3-5;4-0;5-0;6-0;7-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="2">
     <name>Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku</name>
@@ -27650,6 +27653,9 @@
   </anime>
   <anime anidbid="12665" tvdbid="331753" defaulttvdbseason="1">
     <name>Black Clover (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="16" offset="9">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12673" tvdbid="328826" defaulttvdbseason="1">
     <name>Nana Maru San Batsu</name>
@@ -28324,6 +28330,9 @@
   </anime>
   <anime anidbid="13309" tvdbid="337123" defaulttvdbseason="1">
     <name>Marchen Madchen</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1" start="1" end="2" offset="10"/>
+    </mapping-list>
   </anime>
   <anime anidbid="13310" tvdbid="303867" defaulttvdbseason="0" episodeoffset="4" tmdbid="532067" imdbid="tt9239552">
     <name>Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu</name>
@@ -28790,6 +28799,9 @@
   </anime>
   <anime anidbid="13637" tvdbid="347215" defaulttvdbseason="1">
     <name>Jashin-chan Dropkick</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13639" tvdbid="web" defaulttvdbseason="1" imdbid="tt4523696">
     <name>My Last Day</name>
@@ -31886,6 +31898,9 @@
   </anime>
   <anime anidbid="16104" tvdbid="267441" defaulttvdbseason="2">
     <name>Hataraku Maou-sama!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="16111" tvdbid="359095" defaulttvdbseason="0" episodeoffset="1">
     <name>Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru</name>
