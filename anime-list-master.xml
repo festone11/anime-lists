@@ -30253,7 +30253,7 @@
   <anime anidbid="11009" tvdbid="281949" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Grisaia no Rakuen</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="8" />
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="8"/>
     </mapping-list>
   </anime>
   <anime anidbid="11011" tvdbid="295892" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -39005,7 +39005,7 @@
   <anime anidbid="14172" tvdbid="358331" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mayonaka no Occult Koumuin</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1" />
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="14173" tvdbid="262954" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
