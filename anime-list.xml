@@ -13560,6 +13560,7 @@
     <name>Shigofumi</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="8" offset="-1"/>
     </mapping-list>
     <before>;1-13;</before>
   </anime>
@@ -21805,6 +21806,9 @@
   </anime>
   <anime anidbid="9304" tvdbid="262954" defaulttvdbseason="1">
     <name>JoJo no Kimyou na Bouken (2012)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9305" tvdbid="264052" defaulttvdbseason="1">
     <name>Ore no Kanojo to Osananajimi ga Shuraba Sugiru</name>
@@ -28174,6 +28178,9 @@
   </anime>
   <anime anidbid="13217" tvdbid="334706" defaulttvdbseason="1">
     <name>Boku no Kanojo ga Majime Sugiru Shobitch na Ken</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13219" tvdbid="271591" defaulttvdbseason="5">
     <name>Yami Shibai 5</name>
@@ -31086,6 +31093,9 @@
   </anime>
   <anime anidbid="15421" tvdbid="385077" defaulttvdbseason="1">
     <name>Tonikaku Kawaii</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="14" offset="-2">;1-13;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15423" tvdbid="388381" defaulttvdbseason="1">
     <name>Ura Sekai Picnic</name>
@@ -33519,7 +33529,7 @@
   <anime anidbid="17981" tvdbid="433560" defaulttvdbseason="1">
     <name>Bang Dream! It's MyGo!!!!!</name>
   </anime>
-  <anime anidbid="18062" tvdbid="436087" defaulttvdbseason="1">
+  <anime anidbid="18062" tvdbid="385077" defaulttvdbseason="0" episodeoffset="15">
     <name>Tonikaku Kawaii: Joshikou Hen</name>
   </anime>
 </anime-list>
