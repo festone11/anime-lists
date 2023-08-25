@@ -7850,6 +7850,9 @@
   <anime anidbid="2503" tvdbid="hentai" defaulttvdbseason="1">
     <name>Romance wa Tsurugi no Kagayaki II</name>
   </anime>
+  <anime anidbid="2504" tvdbid="160621" defaulttvdbseason="1">
+    <name>Time Bokan Series: Yatterman</name>
+  </anime>
   <anime anidbid="2505" tvdbid="hentai" defaulttvdbseason="1">
     <name>Guy</name>
   </anime>
@@ -7979,6 +7982,15 @@
   </anime>
   <anime anidbid="2545" tvdbid="hentai" defaulttvdbseason="1">
     <name>Battle Can2</name>
+  </anime>
+  <anime anidbid="2546" tvdbid="363417" defaulttvdbseason="1">
+    <name>Time Bokan</name>
+  </anime>
+  <anime anidbid="2547" tvdbid="405844" defaulttvdbseason="1">
+    <name>Time Bokan Series: Zendaman</name>
+  </anime>
+  <anime anidbid="2549" tvdbid="405890" defaulttvdbseason="1">
+    <name>Time Bokan Series: Gyakuten Ippatsuman</name>
   </anime>
   <anime anidbid="2552" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sei Michaela Gakuen Hyouryuuki II</name>
@@ -9753,7 +9765,7 @@
   <anime anidbid="3460" tvdbid="111011" defaulttvdbseason="0">
     <name>Kochira Katsushikaku Kameari Kouenmae Hashutsujo</name>
   </anime>
-  <anime anidbid="3461" tvdbid="111011" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="3461" tvdbid="111011" defaulttvdbseason="0" episodeoffset="1" imdbid="unknown">
     <name>Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen</name>
   </anime>
   <anime anidbid="3463" tvdbid="79139" defaulttvdbseason="1">
@@ -13270,6 +13282,9 @@
   </anime>
   <anime anidbid="5375" tvdbid="120141" defaulttvdbseason="1">
     <name>Naisho no Tsubomi</name>
+  </anime>
+  <anime anidbid="5376" tvdbid="157691" defaulttvdbseason="0" episodeoffset="1">
+    <name>Mahou no Star Magical Emi Semishigure</name>
   </anime>
   <anime anidbid="5377" tvdbid="other" defaulttvdbseason="1">
     <name>The Five Killers</name>
@@ -18632,6 +18647,9 @@
   <anime anidbid="7961" tvdbid="hentai" defaulttvdbseason="1" imdbid="unknown">
     <name>Choujin Densetsu Urotsukidouji: Inferno Road Jain Kanzenban</name>
   </anime>
+  <anime anidbid="7963" tvdbid="19243" defaulttvdbseason="0" episodeoffset="1">
+    <name>Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de</name>
+  </anime>
   <anime anidbid="7964" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Gongitsune</name>
   </anime>
@@ -22962,6 +22980,9 @@
   <anime anidbid="9830" tvdbid="273006" defaulttvdbseason="1">
     <name>Gaist Crusher</name>
   </anime>
+  <anime anidbid="9833" tvdbid="74504" defaulttvdbseason="0" episodeoffset="2">
+    <name>Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special</name>
+  </anime>
   <anime anidbid="9836" tvdbid="273003" defaulttvdbseason="1">
     <name>Gingitsune</name>
   </anime>
@@ -25919,6 +25940,9 @@
   <anime anidbid="11350" tvdbid="102261" defaulttvdbseason="4">
     <name>Owarimonogatari</name>
   </anime>
+  <anime anidbid="11351" tvdbid="hentai">
+    <name>Watashi ga Toriko ni Natte Yaru</name>
+  </anime>
   <anime anidbid="11352" tvdbid="332994" defaulttvdbseason="1">
     <name>Imouto sae Ireba Ii.</name>
   </anime>
@@ -26508,6 +26532,9 @@
   </anime>
   <anime anidbid="11851" tvdbid="307111" defaulttvdbseason="1">
     <name>Berserk</name>
+  </anime>
+  <anime anidbid="11852" tvdbid="275609" defaulttvdbseason="0" episodeoffset="4">
+    <name>Wake Up, Girls! no Miyagi PR Yarasete Kudasai!</name>
   </anime>
   <anime anidbid="11854" tvdbid="303867" defaulttvdbseason="0" episodeoffset="2">
     <name>Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!</name>
@@ -27332,6 +27359,9 @@
   <anime anidbid="12396" tvdbid="hentai" defaulttvdbseason="1">
     <name>Bokura no Sex</name>
   </anime>
+  <anime anidbid="12398" tvdbid="71863" defaulttvdbseason="0" episodeoffset="43">
+    <name>Lupin the IIIrd: Chikemuri no Ishikawa Goemon</name>
+  </anime>
   <anime anidbid="12400" tvdbid="320004" defaulttvdbseason="1">
     <name>Idol Jihen</name>
   </anime>
@@ -27754,6 +27784,9 @@
   <anime anidbid="12700" tvdbid="327014" defaulttvdbseason="1">
     <name>Ballroom e Youkoso</name>
   </anime>
+  <anime anidbid="12701" tvdbid="81110" defaulttvdbseason="3">
+    <name>Soukyuu no Fafner: The Beyond</name>
+  </anime>
   <anime anidbid="12703" tvdbid="301920" defaulttvdbseason="2">
     <name>Monster Strike Anime</name>
     <mapping-list>
@@ -27916,6 +27949,9 @@
   <anime anidbid="12915" tvdbid="306407" defaulttvdbseason="0" episodeoffset="3">
     <name>Happy Party Train</name>
   </anime>
+  <anime anidbid="12919" tvdbid="26796" defaulttvdbseason="0" episodeoffset="14">
+    <name>Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down</name>
+  </anime>
   <anime anidbid="12921" tvdbid="327261" defaulttvdbseason="1">
     <name>Ani ni Tsukeru Kusuri wa Nai!</name>
   </anime>
@@ -27999,6 +28035,9 @@
   </anime>
   <anime anidbid="13005" tvdbid="329528" defaulttvdbseason="1">
     <name>The King of Fighters: Destiny</name>
+  </anime>
+  <anime anidbid="13006" tvdbid="321820" defaulttvdbseason="0" episodeoffset="1">
+    <name>Eiga Kirakira Precure A La Mode: Paris to! Omoide no Mille-Feuille!</name>
   </anime>
   <anime anidbid="13017" tvdbid="329827" defaulttvdbseason="1">
     <name>Youkai Apaato no Yuuga na Nichijou</name>
@@ -28305,6 +28344,9 @@
   <anime anidbid="13266" tvdbid="71863" defaulttvdbseason="5">
     <name>Lupin Sansei: Part 5</name>
   </anime>
+  <anime anidbid="13269" tvdbid="111011" defaulttvdbseason="0" episodeoffset="20">
+    <name>Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryoutsu vs. Nakimushi Idol!? Nihon Isshu Dai Sugoroku Game!!</name>
+  </anime>
   <anime anidbid="13270" tvdbid="337936" defaulttvdbseason="1">
     <name>Karakai Jouzu no Takagi-san</name>
     <mapping-list>
@@ -28561,6 +28603,9 @@
   <anime anidbid="13441" tvdbid="353455" defaulttvdbseason="1" imdbid="tt11070000">
     <name>Z/X: Code Reunion</name>
   </anime>
+  <anime anidbid="13447" tvdbid="379282" defaulttvdbseason="1">
+    <name>Feng Ling Yu Xiu</name>
+  </anime>
   <anime anidbid="13469" tvdbid="328670" defaulttvdbseason="2">
     <name>Quanzhi Fashi 2</name>
   </anime>
@@ -28678,6 +28723,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="13526" tvdbid="340261" defaulttvdbseason="1">
+    <name>Hugtto! Precure</name>
+  </anime>
   <anime anidbid="13527" tvdbid="307375" defaulttvdbseason="0">
     <name>Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha</name>
     <mapping-list>
@@ -28762,6 +28810,9 @@
   </anime>
   <anime anidbid="13589" tvdbid="347468" defaulttvdbseason="1">
     <name>Sunohara-sou no Kanrinin-san</name>
+  </anime>
+  <anime anidbid="13591" tvdbid="197261" defaulttvdbseason="0" episodeoffset="5">
+    <name>Tantei Opera Milky Holmes: Arsene Karei Naru Yokubou</name>
   </anime>
   <anime anidbid="13592" tvdbid="341985" defaulttvdbseason="1">
     <name>Caligula</name>
@@ -28896,6 +28947,9 @@
   </anime>
   <anime anidbid="13676" tvdbid="343363" defaulttvdbseason="1">
     <name>Cutie Honey Universe</name>
+  </anime>
+  <anime anidbid="13688" tvdbid="340261" defaulttvdbseason="0">
+    <name>Eiga Precure Super Stars!</name>
   </anime>
   <anime anidbid="13691" tvdbid="102261" defaulttvdbseason="0">
     <name>Zoku Owarimonogatari</name>
@@ -29183,6 +29237,9 @@
   </anime>
   <anime anidbid="13925" tvdbid="351751" defaulttvdbseason="1">
     <name>Irozuku Sekai no Ashita kara</name>
+  </anime>
+  <anime anidbid="13926" tvdbid="340261" defaulttvdbseason="0" episodeoffset="1">
+    <name>Eiga Hugtto! Precure x Futari wa Precure: All Stars Memories</name>
   </anime>
   <anime anidbid="13934" tvdbid="354164" defaulttvdbseason="1">
     <name>W'z</name>
@@ -29895,8 +29952,17 @@
   <anime anidbid="14498" tvdbid="358154" defaulttvdbseason="1">
     <name>Fight League: Gear Gadget Generators</name>
   </anime>
+  <anime anidbid="14501" tvdbid="71863" defaulttvdbseason="0" episodeoffset="45">
+    <name>Lupin Sansei: Goodbye Partner</name>
+  </anime>
   <anime anidbid="14504" tvdbid="273005" defaulttvdbseason="3">
     <name>Dia no Ace: Act II</name>
+  </anime>
+  <anime anidbid="14506" tvdbid="76665" defaulttvdbseason="0">
+    <name>Yuu Yuu Hakusho Kanzen Shinsaku Animation</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-17+18;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14507" tvdbid="356032" defaulttvdbseason="1">
     <name>7 Seeds</name>
@@ -30075,6 +30141,9 @@
   </anime>
   <anime anidbid="14603" tvdbid="360502" defaulttvdbseason="1" imdbid="tt10362632">
     <name>Dumbbell Nan Kilo Moteru?</name>
+  </anime>
+  <anime anidbid="14616" tvdbid="71863" defaulttvdbseason="0" episodeoffset="46">
+    <name>Lupin the IIIrd: Mine Fujiko no Uso</name>
   </anime>
   <anime anidbid="14618" tvdbid="368905" defaulttvdbseason="1" imdbid="tt9635464">
     <name>Hataage! Kemonomichi</name>
@@ -30925,6 +30994,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="15297" tvdbid="388485" defaulttvdbseason="1">
+    <name>Inu to Neko Docchi mo Katteru to Mainichi Tanoshii</name>
   </anime>
   <anime anidbid="15298" tvdbid="391625" defaulttvdbseason="1">
     <name>Ousama Ranking</name>
@@ -31834,6 +31906,9 @@
   <anime anidbid="16007" tvdbid="395483" defaulttvdbseason="1">
     <name>Pui Pui Molcar</name>
   </anime>
+  <anime anidbid="16008" tvdbid="392944" defaulttvdbseason="0">
+    <name>Eiga Tropical-Rouge! Precure: Petit Tobikome! Collabo Dance Party!</name>
+  </anime>
   <anime anidbid="16009" tvdbid="325374" defaulttvdbseason="5">
     <name>Duel Masters King!</name>
   </anime>
@@ -31890,6 +31965,9 @@
   </anime>
   <anime anidbid="16041" tvdbid="396395" defaulttvdbseason="1">
     <name>Shan He Jian Xin</name>
+  </anime>
+  <anime anidbid="16047" tvdbid="hentai">
+    <name>Bitch na In'ane-sama</name>
   </anime>
   <anime anidbid="16048" tvdbid="397617" defaulttvdbseason="1">
     <name>Kuro Gal ni Natta kara Shin'yuu to Shite Mita.</name>
@@ -33295,6 +33373,9 @@
   <anime anidbid="17633" tvdbid="397280" defaulttvdbseason="2">
     <name>Tokyo Mew Mew New (2023)</name>
   </anime>
+  <anime anidbid="17634" tvdbid="71863" defaulttvdbseason="0" episodeoffset="51">
+    <name>Lupin Sansei vs Cat's Eye</name>
+  </anime>
   <anime anidbid="17636" tvdbid="436779" defaulttvdbseason="0">
     <name>Fate Strange Fake: Whispers of Dawn</name>
   </anime>
@@ -33573,5 +33654,8 @@
   </anime>
   <anime anidbid="18062" tvdbid="385077" defaulttvdbseason="0" episodeoffset="15">
     <name>Tonikaku Kawaii: Joshikou Hen</name>
+  </anime>
+  <anime anidbid="18159" tvdbid="379282" defaulttvdbseason="2">
+    <name>Feng Ling Yu Xiu Season2</name>
   </anime>
 </anime-list>
