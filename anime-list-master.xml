@@ -23800,7 +23800,7 @@
   <anime anidbid="8601" tvdbid="73532" defaulttvdbseason="8" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="45" />
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="45"/>
     </mapping-list>
   </anime>
   <anime anidbid="8602" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbid="358682" imdbid="">
