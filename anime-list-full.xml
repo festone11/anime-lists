@@ -33048,11 +33048,8 @@
   <anime anidbid="14396" tvdbid="367277" defaulttvdbseason="1">
     <name>Azur Lane the Animation</name>
   </anime>
-  <anime anidbid="14397" tvdbid="345596" defaulttvdbseason="0" imdbid="tt10472884">
+  <anime anidbid="14397" tvdbid="345596" defaulttvdbseason="0" episodeoffset="5" imdbid="tt10472884">
     <name>Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14398" tvdbid="361439" defaulttvdbseason="1">
     <name>Stand My Heroes: Piece of Truth</name>
@@ -36736,7 +36733,7 @@
   <anime anidbid="17639" tvdbid="426861" defaulttvdbseason="1">
     <name>UniteUp!</name>
   </anime>
-  <anime anidbid="17640" tvdbid="movie" tmdbid="1056803" imdbid="tt27348312">
+  <anime anidbid="17640" tvdbid="345596" defaulttvdbseason="0" episodeoffset="6" tmdbid="1056803" imdbid="tt27348312">
     <name>Seishun Buta Yarou wa Odekake Sister no Yume o Minai</name>
   </anime>
   <anime anidbid="17643" tvdbid="391005" defaulttvdbseason="2">
@@ -36918,6 +36915,9 @@
   </anime>
   <anime anidbid="17860" tvdbid="430925" defaulttvdbseason="1">
     <name>Toaru Ossan no VRMMO Katsudou Ki</name>
+  </anime>
+  <anime anidbid="17862" tvdbid="345596" defaulttvdbseason="0" episodeoffset="7" tmdbid="1086591" imdbid="tt28036417">
+    <name>Seishun Buta Yarou wa Ransel Girl no Yume o Minai</name>
   </anime>
   <anime anidbid="17867" tvdbid="431237" defaulttvdbseason="1">
     <name>Kuromi's Pretty Journey</name>
