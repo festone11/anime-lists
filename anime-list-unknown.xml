@@ -519,9 +519,6 @@
   <anime anidbid="2301" tvdbid="unknown" defaulttvdbseason="1">
     <name>Minami no Niji no Lucy</name>
   </anime>
-  <anime anidbid="2307" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou (1985, Movie)</name>
-  </anime>
   <anime anidbid="2309" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yama Nezumi Rocky Chuck</name>
   </anime>
@@ -2624,9 +2621,6 @@
   </anime>
   <anime anidbid="7465" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Midoriyama Koukou Koushien Hen (Gekijouban)</name>
-  </anime>
-  <anime anidbid="7472" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou (1968)</name>
   </anime>
   <anime anidbid="7474" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Gegege no Kitarou: Chisougan</name>
