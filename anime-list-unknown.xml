@@ -501,9 +501,6 @@
   <anime anidbid="2281" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>The Kabocha Wine: Nita no Aijou Monogatari</name>
   </anime>
-  <anime anidbid="2284" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou: Youkai Daisensou</name>
-  </anime>
   <anime anidbid="2289" tvdbid="unknown" defaulttvdbseason="1">
     <name>Meiken Lassie</name>
   </anime>
@@ -2621,9 +2618,6 @@
   </anime>
   <anime anidbid="7465" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Midoriyama Koukou Koushien Hen (Gekijouban)</name>
-  </anime>
-  <anime anidbid="7474" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou: Chisougan</name>
   </anime>
   <anime anidbid="7484" tvdbid="unknown" defaulttvdbseason="1">
     <name>Aki Sora: Yume no Naka</name>
