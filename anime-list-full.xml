@@ -8235,7 +8235,7 @@
   <anime anidbid="2417" tvdbid="tv special" defaulttvdbseason="1">
     <name>Doctor Mambo &amp; Kaitou Jibako: Uchuu yori Ai o Komete!!</name>
   </anime>
-  <anime anidbid="2418" tvdbid="74739" defaulttvdbseason="0">
+  <anime anidbid="2418" tvdbid="74739" defaulttvdbseason="0" imdbid="tt6264836">
     <name>Kaleido Star: Aratanaru Tsubasa - Extra Stage</name>
   </anime>
   <anime anidbid="2419" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0249984">
@@ -10034,7 +10034,7 @@
   <anime anidbid="3119" tvdbid="72281" defaulttvdbseason="0" episodeoffset="2" imdbid="unknown">
     <name>Black Jack: Heian Sento</name>
   </anime>
-  <anime anidbid="3120" tvdbid="74739" defaulttvdbseason="0">
+  <anime anidbid="3120" tvdbid="74739" defaulttvdbseason="0" imdbid="tt13904064">
     <name>Kaleido Star: Good Da yo! Goood!!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
@@ -12124,7 +12124,7 @@
   <anime anidbid="4122" tvdbid="100171" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0185338">
     <name>Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!</name>
   </anime>
-  <anime anidbid="4123" tvdbid="74739" defaulttvdbseason="0">
+  <anime anidbid="4123" tvdbid="74739" defaulttvdbseason="0" imdbid="tt10674772">
     <name>Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -15998,7 +15998,7 @@
   <anime anidbid="5728" tvdbid="other" defaulttvdbseason="1" imdbid="tt1280036">
     <name>Naked Youth</name>
   </anime>
-  <anime anidbid="5730" tvdbid="hentai" defaulttvdbseason="1">
+  <anime anidbid="5730" tvdbid="ova" defaulttvdbseason="1" tmdbid="686108">
     <name>Juliet</name>
   </anime>
   <anime anidbid="5731" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1615015">
@@ -16725,7 +16725,7 @@
   <anime anidbid="6084" tvdbid="unknown" defaulttvdbseason="2">
     <name>Noramimi 2</name>
   </anime>
-  <anime anidbid="6085" tvdbid="tv special" defaulttvdbseason="1">
+  <anime anidbid="6085" tvdbid="tv special" defaulttvdbseason="1" tmdbid="820879">
     <name>Kiku-chan to Ookami</name>
   </anime>
   <anime anidbid="6087" tvdbid="84591" defaulttvdbseason="1">
@@ -20460,7 +20460,7 @@
   <anime anidbid="7535" tvdbid="82832" defaulttvdbseason="3">
     <name>Bakugan Battle Brawlers: Gundalian Invaders</name>
   </anime>
-  <anime anidbid="7536" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="7536" tvdbid="OVA" defaulttvdbseason="1" tmdbid="328354" imdbid="unknown">
     <name>Kennel Tokorozawa</name>
   </anime>
   <anime anidbid="7537" tvdbid="72454" defaulttvdbseason="0">
@@ -24686,6 +24686,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="9205" tvdbid="ova" defaulttvdbseason="1" tmdbid="552122">
+    <name>Junkers Come Here: Memories of You</name>
   </anime>
   <anime anidbid="9206" tvdbid="251908" defaulttvdbseason="0" episodeoffset="1">
     <name>Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai</name>
@@ -34713,6 +34716,9 @@
   <anime anidbid="15530" tvdbid="387510" defaulttvdbseason="1">
     <name>King's Raid: Ishi o Tsugu Mono-tachi</name>
   </anime>
+  <anime anidbid="15540" tvdbid="movie" defaulttvdbseason="1" tmdbid="628964">
+    <name>Kamiarizuki no Kodomo</name>
+  </anime>
   <anime anidbid="15546" tvdbid="384485" defaulttvdbseason="1">
     <name>Han'you no Yashahime: Sengoku Otogizoushi</name>
   </anime>
@@ -35560,6 +35566,12 @@
   <anime anidbid="16256" tvdbid="401911" defaulttvdbseason="1">
     <name>Jahy-sama wa Kujikenai!</name>
   </anime>
+  <anime anidbid="16258" tvdbid="348545" defaulttvdbseason="0" episodeoffset="10" tmdbid="811948">
+    <name>Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen</name>
+  </anime>
+  <anime anidbid="16259" tvdbid="348545" defaulttvdbseason="0" episodeoffset="9" tmdbid="802401">
+    <name>Kimetsu no Yaiba: Natagumoyama Hen</name>
+  </anime>
   <anime anidbid="16261" tvdbid="401915" defaulttvdbseason="1">
     <name>Saihate no Paladin</name>
   </anime>
@@ -36321,6 +36333,9 @@
   </anime>
   <anime anidbid="17214" tvdbid="416998" defaulttvdbseason="1">
     <name>NieR:Automata Ver1.1a</name>
+  </anime>
+  <anime anidbid="17219" tvdbid="movie" defaulttvdbseason="1" tmdbid="942881">
+    <name>Kagami no Kojou</name>
   </anime>
   <anime anidbid="17222" tvdbid="417165" defaulttvdbseason="1">
     <name>Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.</name>

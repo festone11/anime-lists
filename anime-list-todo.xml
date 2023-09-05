@@ -829,9 +829,6 @@
   <anime anidbid="9201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatsumi</name>
   </anime>
-  <anime anidbid="9205" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Junkers Come Here: Memories of You</name>
-  </anime>
   <anime anidbid="9215" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Animeka</name>
   </anime>
@@ -8158,9 +8155,6 @@
   <anime anidbid="15538" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jintian Kaishi Zuo Mingxing</name>
   </anime>
-  <anime anidbid="15540" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kamiarizuki no Kodomo</name>
-  </anime>
   <anime anidbid="15541" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tai Yi Xian Mo Lu Zhi Ling Fei Ji</name>
   </anime>
@@ -9207,12 +9201,6 @@
   </anime>
   <anime anidbid="16255" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Taiban!</name>
-  </anime>
-  <anime anidbid="16258" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen</name>
-  </anime>
-  <anime anidbid="16259" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kimetsu no Yaiba: Natagumoyama Hen</name>
   </anime>
   <anime anidbid="16269" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mi Bao Zhi Guo</name>
@@ -11094,9 +11082,6 @@
   </anime>
   <anime anidbid="17218" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Feel the Fairies (2020)</name>
-  </anime>
-  <anime anidbid="17219" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kagami no Kojou</name>
   </anime>
   <anime anidbid="17220" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Grisaia: Phantom Trigger the Animation (TV)</name>
@@ -13100,4 +13085,4 @@
     <name>Kozukuri Bu!</name>
   </anime>
 </anime-list>
-<!--4360 titles remaining-->
+<!--4355 titles remaining-->
