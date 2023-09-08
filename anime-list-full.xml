@@ -18062,6 +18062,12 @@
   </anime>
   <anime anidbid="6662" tvdbid="114801" defaulttvdbseason="a">
     <name>Fairy Tail</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="48" offset="0"/>
+      <mapping anidbseason="1" tvdbseason="2" start="49" end="96" offset="-48"/>
+      <mapping anidbseason="1" tvdbseason="3" start="97" end="150" offset="-96"/>
+      <mapping anidbseason="1" tvdbseason="4" start="151" end="175" offset="-150"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6664" tvdbid="79474" defaulttvdbseason="0" imdbid="tt2535654">
     <name>Flag Director's Edition Issenman no Kufura no Kiroku</name>
@@ -24726,7 +24732,7 @@
       <mapping anidbseason="0" tvdbseason="0">;2-9;3-2;4-10;5-15;6-20;7-24;8-28;9-3;10-11;11-16;12-21;13-25;14-29;15-501;16-502;17-7;18-17;19-22;20-26;21-6;22-18;23-32;24-4;25-12;26-19;27-9;28-13;29-27;30-5;31-14;32-23;33-33;34-30;35-31;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9229" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="9229" tvdbid="286613" defaulttvdbseason="1">
     <name>Hori-san to Miyamura-kun</name>
   </anime>
   <anime anidbid="9230" tvdbid="262092" defaulttvdbseason="1">
@@ -27904,7 +27910,7 @@
   <anime anidbid="10669" tvdbid="276777" defaulttvdbseason="0">
     <name>Buddy Complex: Kanketsuhen - Ano Sora ni Kaeru Mirai de</name>
   </anime>
-  <anime anidbid="10672" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="10672" tvdbid="285031" defaulttvdbseason="1">
     <name>Nozo x Kimi</name>
   </anime>
   <anime anidbid="10673" tvdbid="290620" defaulttvdbseason="1">
@@ -30611,7 +30617,7 @@
   <anime anidbid="12386" tvdbid="hentai" defaulttvdbseason="1">
     <name>Seikatsu Shidou!! Anime Edition</name>
   </anime>
-  <anime anidbid="12387" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="12387" tvdbid="317866" defaulttvdbseason="1">
     <name>Hagane Orchestra</name>
   </anime>
   <anime anidbid="12394" tvdbid="245821" defaulttvdbseason="8">
@@ -37074,6 +37080,9 @@
   </anime>
   <anime anidbid="18062" tvdbid="385077" defaulttvdbseason="0" episodeoffset="15">
     <name>Tonikaku Kawaii: Joshikou Hen</name>
+  </anime>
+  <anime anidbid="18152" tvdbid="438096" defaulttvdbseason="1">
+    <name>Houkago no Breath</name>
   </anime>
   <anime anidbid="18159" tvdbid="379282" defaulttvdbseason="2">
     <name>Feng Ling Yu Xiu Season2</name>
