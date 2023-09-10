@@ -939,9 +939,6 @@
   <anime anidbid="3180" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kaitou Pride</name>
   </anime>
-  <anime anidbid="3184" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning</name>
-  </anime>
   <anime anidbid="3193" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mitsume ga Tooru</name>
   </anime>
@@ -2358,9 +2355,6 @@
   <anime anidbid="6770" tvdbid="unknown" defaulttvdbseason="1">
     <name>Souya Monogatari</name>
   </anime>
-  <anime anidbid="6782" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Aki Sora</name>
-  </anime>
   <anime anidbid="6806" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kyoufu Shinbun</name>
   </anime>
@@ -2600,12 +2594,6 @@
   </anime>
   <anime anidbid="7465" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Midoriyama Koukou Koushien Hen (Gekijouban)</name>
-  </anime>
-  <anime anidbid="7484" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Aki Sora: Yume no Naka</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-2;2-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7510" tvdbid="unknown" defaulttvdbseason="1">
     <name>Dotanba no Manners</name>
@@ -3221,9 +3209,6 @@
   </anime>
   <anime anidbid="12366" tvdbid="unknown" defaulttvdbseason="1">
     <name>3-nen D-gumi Glass no Kamen</name>
-  </anime>
-  <anime anidbid="12739" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Shiyan Pin Jiating</name>
   </anime>
   <anime anidbid="13616" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ningyou Rekishi Spectacle Heike Monogatari</name>
