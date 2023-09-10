@@ -33863,7 +33863,7 @@
     <name>Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi</name>
   </anime>
   <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt7833606,tt7834494,tt12286898">
-    <name>Girls und Panzer: Saishuushou</name>
+    <name>Girls und Panzer Saishuushou</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-46;2-52;3-43;4-47;5-53;6-50;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-41;2-45;3-51;</mapping>
@@ -47324,7 +47324,7 @@
     <name>Extreme Hearts</name>
   </anime>
   <anime anidbid="17190" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Zenryoku Usagi (Anime Project)</name>
+    <name>Zenryoku Usagi (2023)</name>
   </anime>
   <anime anidbid="17191" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Stars*Collection!</name>
@@ -50139,5 +50139,26 @@
   </anime>
   <anime anidbid="18178" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kozukuri Bu!</name>
+  </anime>
+  <anime anidbid="18179" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kimi ni Todoke 3rd Season</name>
+  </anime>
+  <anime anidbid="18180" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gintama on Theater 2D: Baragaki Hen</name>
+  </anime>
+  <anime anidbid="18181" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Beyblade X</name>
+  </anime>
+  <anime anidbid="18182" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ochibi-san</name>
+  </anime>
+  <anime anidbid="18183" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tonari no Onigiri-kun</name>
+  </anime>
+  <anime anidbid="18184" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>No Waifu No Life!</name>
+  </anime>
+  <anime anidbid="18185" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sweet and Hot</name>
   </anime>
 </anime-list>
