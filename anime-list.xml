@@ -7088,7 +7088,7 @@
   <anime anidbid="2216" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1073670">
     <name>Nagagutsu Sanjuushi</name>
   </anime>
-  <anime anidbid="2217" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="2217" tvdbid="movie" defaulttvdbseason="1" tmdbid="398334" imdbid="unknown">
     <name>Maken Liner 0011 Henshin Seyo!</name>
   </anime>
   <anime anidbid="2218" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2170561">
@@ -8530,7 +8530,7 @@
   <anime anidbid="2769" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt1874537">
     <name>Ichigatsu ni wa Christmas</name>
   </anime>
-  <anime anidbid="2771" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="2771" tvdbid="OVA" defaulttvdbseason="1" tmdbid="679068" imdbid="unknown">
     <name>Netrun-mon The Movie 1: Net no Sumi de Blog to Sakebu</name>
   </anime>
   <anime anidbid="2773" tvdbid="354231" defaulttvdbseason="1">
@@ -9227,6 +9227,15 @@
   </anime>
   <anime anidbid="3146" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0173840">
     <name>Final Fantasy: The Spirits Within</name>
+  </anime>
+  <anime anidbid="3148" tvdbid="tv special" defaulttvdbseason="2" tmdbid="701879">
+    <name>Nine 2: Koibito Sengen</name>
+  </anime>
+  <anime anidbid="3149" tvdbid="tv special" defaulttvdbseason="3" tmdbid="701881">
+    <name>Nine: Kanketsuhen</name>
+  </anime>
+  <anime anidbid="3150" tvdbid="movie" defaulttvdbseason="0" tmdbid="701874" imdbid="unknown">
+    <name>Nine (Original Ban)</name>
   </anime>
   <anime anidbid="3151" tvdbid="213411" defaulttvdbseason="1">
     <name>Uchuu Majin Daikengou</name>
@@ -13856,11 +13865,8 @@
   <anime anidbid="5709" tvdbid="85329" defaulttvdbseason="2">
     <name>Kodai Ouja Kyouryuu King D-Kids Adventure Yokuryuu Densetsu</name>
   </anime>
-  <anime anidbid="5714" tvdbid="80294" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="5714" tvdbid="80294" defaulttvdbseason="0" tmdbid="497537" imdbid="unknown">
     <name>Mirai Shounen Conan (1979)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="5718" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kafun Shoujo Chuuihou! The Animation</name>
@@ -15342,7 +15348,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;4-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6491" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="6491" tvdbid="OVA" defaulttvdbseason="1" tmdbid="789395" imdbid="unknown">
     <name>Milky Passion: Dougenzaka - Ai no Shiro</name>
   </anime>
   <anime anidbid="6493" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1473336">
@@ -15819,7 +15825,7 @@
   <anime anidbid="6704" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Koumori</name>
   </anime>
-  <anime anidbid="6705" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="6705" tvdbid="movie" defaulttvdbseason="1" tmdbid="165942" imdbid="unknown">
     <name>Mura Matsuri</name>
   </anime>
   <anime anidbid="6706" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418865">
@@ -18908,6 +18914,9 @@
   <anime anidbid="8065" tvdbid="web" defaulttvdbseason="1">
     <name>Space Neko Theater</name>
   </anime>
+  <anime anidbid="8066" tvdbid="OVA" defaulttvdbseason="1" tmdbid="421594">
+    <name>Nana to Kaoru</name>
+  </anime>
   <anime anidbid="8068" tvdbid="91431" defaulttvdbseason="1" tmdbid="837351">
     <name>Issho ni Training Ofuro: Bathtime with Hinako &amp; Hiyoko</name>
     <mapping-list>
@@ -20230,7 +20239,7 @@
   <anime anidbid="8594" tvdbid="197261" defaulttvdbseason="2">
     <name>Tantei Opera Milky Holmes Dai 2 Maku</name>
   </anime>
-  <anime anidbid="8595" tvdbid="70863" defaulttvdbseason="0" episodeoffset="7">
+  <anime anidbid="8595" tvdbid="70863" defaulttvdbseason="0" episodeoffset="7" tmdbid="145675,210227">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -27429,6 +27438,9 @@
   <anime anidbid="12398" tvdbid="71863" defaulttvdbseason="0" episodeoffset="43">
     <name>Lupin the IIIrd: Chikemuri no Ishikawa Goemon</name>
   </anime>
+  <anime anidbid="12399" tvdbid="movie" defaulttvdbseason="1" tmdbid="433366">
+    <name>Mori no Densetsu: Dai Ni Gakushou</name>
+  </anime>
   <anime anidbid="12400" tvdbid="320004" defaulttvdbseason="1">
     <name>Idol Jihen</name>
   </anime>
@@ -31384,6 +31396,9 @@
   <anime anidbid="15468" tvdbid="389082" defaulttvdbseason="1">
     <name>Wixoss Diva(A)Live</name>
   </anime>
+  <anime anidbid="15470" tvdbid="movie" defaulttvdbseason="1" tmdbid="690511">
+    <name>Monster Strike the Movie: Lucifer - Zetsubou no Yoake</name>
+  </anime>
   <anime anidbid="15472" tvdbid="370931" defaulttvdbseason="2">
     <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zen'ya</name>
   </anime>
@@ -33730,6 +33745,9 @@
   </anime>
   <anime anidbid="17899" tvdbid="music video" defaulttvdbseason="1" tmdbid="1102550">
     <name>Himitsu no Hana no Niwa</name>
+  </anime>
+  <anime anidbid="17900" tvdbid="music video" defaulttvdbseason="1" tmdbid="1102552">
+    <name>Neko to Wakai se na</name>
   </anime>
   <anime anidbid="17901" tvdbid="music video" defaulttvdbseason="1" tmdbid="1102556">
     <name>Detarame na Sekai no Melodrama</name>
