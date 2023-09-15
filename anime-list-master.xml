@@ -427,8 +427,8 @@
     <name>Fushigi Yuugi</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="26" />
-      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26" />
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
     </mapping-list>
   </anime>
   <anime anidbid="88" tvdbid="80790" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -1085,11 +1085,11 @@
   <anime anidbid="239" tvdbid="78857" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Naruto</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="35" />
-      <mapping anidbseason="1" tvdbseason="2" start="36" end="83" offset="-35" />
-      <mapping anidbseason="1" tvdbseason="3" start="84" end="131" offset="-83" />
-      <mapping anidbseason="1" tvdbseason="4" start="132" end="179" offset="-131" />
-      <mapping anidbseason="1" tvdbseason="5" start="180" end="220" offset="-179" />
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="35"/>
+      <mapping anidbseason="1" tvdbseason="2" start="36" end="83" offset="-35"/>
+      <mapping anidbseason="1" tvdbseason="3" start="84" end="131" offset="-83"/>
+      <mapping anidbseason="1" tvdbseason="4" start="132" end="179" offset="-131"/>
+      <mapping anidbseason="1" tvdbseason="5" start="180" end="220" offset="-179"/>
     </mapping-list>
   </anime>
   <anime anidbid="240" tvdbid="72726" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
