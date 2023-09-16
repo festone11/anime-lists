@@ -11002,7 +11002,7 @@
   <anime anidbid="3509" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nihon Tanjou</name>
   </anime>
-  <anime anidbid="3510" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="3510" tvdbid="76703" defaulttvdbseason="0" tmdbid="504309">
     <name>Pikachu no Natsumatsuri</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-34;</mapping>
@@ -13192,7 +13192,7 @@
       <studio>TMS Entertainment</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="4553" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="4553" tvdbid="76703" defaulttvdbseason="0" tmdbid="665578">
     <name>Pikachu no Obake Carnival</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-33;</mapping>
@@ -18459,7 +18459,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-25;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6800" tvdbid="76703" defaulttvdbseason="0" imdbid="unknown">
+  <anime anidbid="6800" tvdbid="76703" defaulttvdbseason="0" tmdbid="211814" imdbid="unknown">
     <name>Pika Pika Hoshizora Camp</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-26;</mapping>
@@ -18477,13 +18477,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-28;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6803" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="6803" tvdbid="76703" defaulttvdbseason="0" tmdbid="665580">
     <name>Pikachu Koori no Daibouken</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6804" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="6804" tvdbid="76703" defaulttvdbseason="0" tmdbid="665581">
     <name>Pikachu no Kirakira Daisousaku!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-35;</mapping>
@@ -19301,7 +19301,7 @@
   <anime anidbid="7108" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt2231511">
     <name>Shoujo Fight: Norainu-tachi no Odekake</name>
   </anime>
-  <anime anidbid="7109" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="7109" tvdbid="76703" defaulttvdbseason="0" tmdbid="36897">
     <name>Pocket Monsters: Mewtwo! Ware wa Koko ni Ari</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;4-4;</mapping>
@@ -19328,7 +19328,7 @@
   <anime anidbid="7116" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Dorami-chan: Mini-Dora SOS!!!</name>
   </anime>
-  <anime anidbid="7117" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="7117" tvdbid="76703" defaulttvdbseason="0" tmdbid="295613">
     <name>Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-42;2-42;3-42;4-42;5-42;6-42;</mapping>
@@ -21871,7 +21871,7 @@
   <anime anidbid="8138" tvdbid="259964" defaulttvdbseason="1">
     <name>Eiyuu Densetsu: Sora no Kiseki The Animation</name>
   </anime>
-  <anime anidbid="8139" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="8139" tvdbid="76703" defaulttvdbseason="0" tmdbid="665583">
     <name>Pikachu no Fushigi na Fushigi na Daibouken</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-39;</mapping>
@@ -23494,7 +23494,7 @@
   <anime anidbid="8734" tvdbid="hentai" defaulttvdbseason="1">
     <name>Doukyuusei: Natsu no Owari ni</name>
   </anime>
-  <anime anidbid="8735" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="8735" tvdbid="76703" defaulttvdbseason="0" tmdbid="665584">
     <name>Pikachu no Summer Bridge Story</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-43;</mapping>
@@ -25613,7 +25613,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9565" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="9565" tvdbid="76703" defaulttvdbseason="0" tmdbid="377909">
     <name>Pikachu to Eievui Friends</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
@@ -27245,7 +27245,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10319" tvdbid="76703" defaulttvdbseason="0">
+  <anime anidbid="10319" tvdbid="76703" defaulttvdbseason="0" tmdbid="332485">
     <name>Pikachu, Kore Nan no Kagi?</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
@@ -28066,6 +28066,9 @@
   <anime anidbid="10745" tvdbid="283963" defaulttvdbseason="1">
     <name>Absolute Duo</name>
   </anime>
+  <anime anidbid="10746" tvdbid="76703" defaulttvdbseason="0" episodeoffset="52" tmdbid="407482">
+    <name>Pocket Monsters XY: Koukoku no Princess Diancie</name>
+  </anime>
   <anime anidbid="10747" tvdbid="314031" defaulttvdbseason="0">
     <name>Chain Chronicle: Short Animation</name>
   </anime>
@@ -28726,6 +28729,9 @@
   </anime>
   <anime anidbid="11049" tvdbid="278818" defaulttvdbseason="2">
     <name>Gochuumon wa Usagi Desuka??</name>
+  </anime>
+  <anime anidbid="11050" tvdbid="76703" defaulttvdbseason="0" episodeoffset="68" tmdbid="389621">
+    <name>Pikachu to Pokemon Ongakutai</name>
   </anime>
   <anime anidbid="11053" tvdbid="294001" defaulttvdbseason="1">
     <name>Ushio to Tora (2015)</name>
