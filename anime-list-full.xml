@@ -8641,6 +8641,9 @@
   <anime anidbid="2549" tvdbid="405890" defaulttvdbseason="1">
     <name>Time Bokan Series: Gyakuten Ippatsuman</name>
   </anime>
+  <anime anidbid="2551" tvdbid="405892" defaulttvdbseason="1">
+    <name>Time Bokan 2000: Kaitou Kiramekiman</name>
+  </anime>
   <anime anidbid="2552" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sei Michaela Gakuen Hyouryuuki II</name>
   </anime>
@@ -9439,6 +9442,9 @@
   </anime>
   <anime anidbid="2844" tvdbid="82213" defaulttvdbseason="1">
     <name>Shuffle!</name>
+  </anime>
+  <anime anidbid="2845" tvdbid="other">
+    <name>Sotsugyou Next Graduation</name>
   </anime>
   <anime anidbid="2848" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0875609">
     <name>Gekijouban Pocket Monsters Advanced Generation: Mew to Hadou no Yuusha Lucario</name>
@@ -10593,6 +10599,9 @@
   </anime>
   <anime anidbid="3368" tvdbid="unknown" defaulttvdbseason="1">
     <name>Konchuu Monogatari Minashigo Hutch (1989)</name>
+  </anime>
+  <anime anidbid="3369" tvdbid="175991" defaulttvdbseason="1">
+    <name>Don Chuck Monogatari</name>
   </anime>
   <anime anidbid="3370" tvdbid="unknown" defaulttvdbseason="1">
     <name>Choubakumatsu Shounen Seiki Takamaru</name>
@@ -12517,6 +12526,12 @@
   </anime>
   <anime anidbid="4245" tvdbid="hentai" defaulttvdbseason="1">
     <name>True Blue Gaiden</name>
+  </anime>
+  <anime anidbid="4247" tvdbid="78722">
+    <name>Cubix</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="26" offset="-13"/>
+    </mapping-list>
   </anime>
   <anime anidbid="4248" tvdbid="tv special" defaulttvdbseason="1">
     <name>Michite Kuru Toki no Mukou ni</name>
@@ -17264,6 +17279,9 @@
   <anime anidbid="6320" tvdbid="hentai" defaulttvdbseason="1">
     <name>Musuko no Tomodachi ni Okasarete</name>
   </anime>
+  <anime anidbid="6321" tvdbid="343578" defaulttvdbseason="1">
+    <name>Saa Ikou! Tamagotchi</name>
+  </anime>
   <anime anidbid="6322" tvdbid="105361" defaulttvdbseason="1">
     <name>Denpateki na Kanojo</name>
   </anime>
@@ -17837,6 +17855,9 @@
   <anime anidbid="6578" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ojamanga Yamada-kun</name>
   </anime>
+  <anime anidbid="6580" tvdbid="tv special" tmdbid="60707" imdbid="unknown">
+    <name>Kawa no Hikari</name>
+  </anime>
   <anime anidbid="6582" tvdbid="252696" defaulttvdbseason="0" imdbid="tt1147526">
     <name>Doraemon: Nobita to Robot Kingdom</name>
     <mapping-list>
@@ -17950,6 +17971,9 @@
   </anime>
   <anime anidbid="6604" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Yukiwatari</name>
+  </anime>
+  <anime anidbid="6605" tvdbid="OVA" tmdbid="1087014" imdbid="tt21141014">
+    <name>Geba Geba Shou Time!</name>
   </anime>
   <anime anidbid="6607" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Pro Yakyuu o 10-bai Tanoshiku Miru Houhou</name>
@@ -32750,7 +32774,7 @@
   <anime anidbid="14047" tvdbid="250022" defaulttvdbseason="0" episodeoffset="8">
     <name>Yuru Yuri Ten</name>
   </anime>
-  <anime anidbid="14049" tvdbid="320002" defaulttvdbseason="0" episodeoffset="1">
+  <anime anidbid="14049" tvdbid="349219" defaulttvdbseason="1">
     <name>Pastel Life</name>
   </anime>
   <anime anidbid="14051" tvdbid="348002" defaulttvdbseason="1">
@@ -32786,8 +32810,14 @@
   <anime anidbid="14077" tvdbid="349497" defaulttvdbseason="1">
     <name>Bang Dream! Garupa Pico</name>
   </anime>
-  <anime anidbid="14086" tvdbid="347734" defaulttvdbseason="1">
+  <anime anidbid="14086" tvdbid="347734" defaulttvdbseason="a">
     <name>Super Dragon Ball Heroes</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="7" end="19" offset="-6"/>
+      <mapping anidbseason="1" tvdbseason="3" start="20" end="30" offset="-19"/>
+      <mapping anidbseason="1" tvdbseason="4" start="31" end="38" offset="-30"/>
+      <mapping anidbseason="1" tvdbseason="5" start="39" end="48" offset="-38"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14087" tvdbid="371193" defaulttvdbseason="1">
     <name>Oshi ga Budoukan Itte Kuretara Shinu</name>
