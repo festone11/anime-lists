@@ -413,6 +413,11 @@
   </anime>
   <anime anidbid="84" tvdbid="72905" defaulttvdbseason="a">
     <name>Hikaru no Go</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="30"/>
+      <mapping anidbseason="1" tvdbseason="2" start="31" end="60" offset="-30"/>
+      <mapping anidbseason="1" tvdbseason="3" start="61" end="30" offset="-60"/>
+    </mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
     </supplemental-info>
@@ -2966,6 +2971,9 @@
         <thumb dim="1280x720" colors="" preview="http://www.thetvdb.com/banners/_cache/fanart/original/191221-1.jpg">http://www.thetvdb.com/banners/fanart/original/191221-1.jpg</thumb>
       </fanart>
     </supplemental-info>
+  </anime>
+  <anime anidbid="742" tvdbid="351298" defaulttvdbseason="0">
+    <name>Fortune Quest: Yonimo Shiawase na Boukensha-tachi</name>
   </anime>
   <anime anidbid="743" tvdbid="351298" defaulttvdbseason="1">
     <name>Fortune Quest L</name>
@@ -9231,6 +9239,9 @@
   <anime anidbid="3057" tvdbid="251722" defaulttvdbseason="1">
     <name>Ai no Gakkou Cuore Monogatari</name>
   </anime>
+  <anime anidbid="3058" tvdbid="294871" defaulttvdbseason="1">
+    <name>Idol Tenshi Youkoso Youko</name>
+  </anime>
   <anime anidbid="3059" tvdbid="83105" defaulttvdbseason="0" episodeoffset="3" tmdbid="266116">
     <name>Touch: Miss Lonely Yesterday - Arekara, Kimi wa</name>
   </anime>
@@ -11109,6 +11120,9 @@
   </anime>
   <anime anidbid="4179" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1989450">
     <name>Aoi Kioku: Manmou Kaitaku to Shounen-tachi</name>
+  </anime>
+  <anime anidbid="4181" tvdbid="421777" defaulttvdbseason="1">
+    <name>Hayou no Tsurugi: Shikkoku no Mashou</name>
   </anime>
   <anime anidbid="4182" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Ajin Senshi</name>
@@ -27770,6 +27784,9 @@
   </anime>
   <anime anidbid="12451" tvdbid="329826" defaulttvdbseason="1">
     <name>Tenshi no Three Piece!</name>
+  </anime>
+  <anime anidbid="12460" tvdbid="413557" defaulttvdbseason="1">
+    <name>Escha Chron</name>
   </anime>
   <anime anidbid="12461" tvdbid="355576" defaulttvdbseason="1">
     <name>Meiji Tokyo Renka</name>

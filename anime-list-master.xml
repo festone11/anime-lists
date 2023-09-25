@@ -414,9 +414,9 @@
   <anime anidbid="84" tvdbid="72905" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Hikaru no Go</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="30" />
-      <mapping anidbseason="1" tvdbseason="2" start="31" end="60" offset="-30" />
-      <mapping anidbseason="1" tvdbseason="3" start="61" end="30" offset="-60" />
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="30"/>
+      <mapping anidbseason="1" tvdbseason="2" start="31" end="60" offset="-30"/>
+      <mapping anidbseason="1" tvdbseason="3" start="61" end="30" offset="-60"/>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
