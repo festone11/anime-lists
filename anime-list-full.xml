@@ -1409,7 +1409,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-5;2-5;3-5;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="321" tvdbid="77248" defaulttvdbseason="0" tmdbid="16990">
+  <anime anidbid="321" tvdbid="77248" defaulttvdbseason="0" tmdbid="16990" imdbid="tt0270933">
     <name>Escaflowne</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
@@ -32746,7 +32746,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="28"/>
     </mapping-list>
   </anime>
-  <anime anidbid="14011" tvdbid="movie" defaulttvdbseason="1" tmdbid="521296">
+  <anime anidbid="14011" tvdbid="movie" defaulttvdbseason="1" tmdbid="521296" imdbid="tt8328740">
     <name>Gekijouban Wakaokami wa Shougakusei!</name>
   </anime>
   <anime anidbid="14013" tvdbid="330139" defaulttvdbseason="0" episodeoffset="2" tmdbid="533514" imdbid="tt8652818">
@@ -36286,6 +36286,9 @@
   </anime>
   <anime anidbid="17040" tvdbid="movie" defaulttvdbseason="1" imdbid="tt17382524">
     <name>Natsu e no Tunnel, Sayonara no Deguchi</name>
+  </anime>
+  <anime anidbid="17041" tvdbid="movie" defaulttvdbseason="1" tmdbid="916224" imdbid="tt16428256">
+    <name>Suzume no Tojimari</name>
   </anime>
   <anime anidbid="17053" tvdbid="355774" defaulttvdbseason="3">
     <name>Dr. Stone: New World</name>
