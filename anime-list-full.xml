@@ -6629,7 +6629,7 @@
   <anime anidbid="1917" tvdbid="183801" defaulttvdbseason="1">
     <name>Wakusei Robo Danguard Ace</name>
   </anime>
-  <anime anidbid="1918" tvdbid="183801" defaulttvdbseason="0" imdbid="tt0142971">
+  <anime anidbid="1918" tvdbid="183801" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0142971">
     <name>Wakusei Robo Danguard Ace Tai Konchuu Robot Gundan</name>
   </anime>
   <anime anidbid="1919" tvdbid="85310" defaulttvdbseason="1">
@@ -7596,7 +7596,7 @@
   <anime anidbid="2227" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0204541">
     <name>Sekai Meisaku Douwa: Oyayubi Hime</name>
   </anime>
-  <anime anidbid="2228" tvdbid="183801" defaulttvdbseason="0" imdbid="tt0185757">
+  <anime anidbid="2228" tvdbid="183801" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0185757">
     <name>Wakusei Robo Danguard Ace: Uchuu Daikaisen</name>
   </anime>
   <anime anidbid="2229" tvdbid="85230" defaulttvdbseason="0" imdbid="tt0316540">
