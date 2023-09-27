@@ -416,7 +416,7 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="30"/>
       <mapping anidbseason="1" tvdbseason="2" start="31" end="60" offset="-30"/>
-      <mapping anidbseason="1" tvdbseason="3" start="61" end="30" offset="-60"/>
+      <mapping anidbseason="1" tvdbseason="3" start="61" end="75" offset="-60"/>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
@@ -3941,7 +3941,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-6;3-6;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1025" tvdbid="79835" defaulttvdbseason="a">
+  <anime anidbid="1025" tvdbid="79835" defaulttvdbseason="1">
     <name>Cat's Eye</name>
   </anime>
   <anime anidbid="1026" tvdbid="hentai" defaulttvdbseason="1">
@@ -4375,7 +4375,7 @@
   <anime anidbid="1165" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0374099">
     <name>Onkyou Seimeitai Noiseman</name>
   </anime>
-  <anime anidbid="1166" tvdbid="hentai" defaulttvdbseason="1">
+  <anime anidbid="1166" tvdbid="199571" defaulttvdbseason="0">
     <name>Kakyuusei</name>
   </anime>
   <anime anidbid="1167" tvdbid="199571" defaulttvdbseason="0" episodeoffset="4">
@@ -6422,6 +6422,9 @@
   <anime anidbid="1899" tvdbid="347316" defaulttvdbseason="1">
     <name>Kick no Oni</name>
   </anime>
+  <anime anidbid="1900" tvdbid="364782" defaulttvdbseason="1">
+    <name>Mahou no Mako-chan</name>
+  </anime>
   <anime anidbid="1901" tvdbid="323089" defaulttvdbseason="1">
     <name>Sarutobi Ecchan</name>
   </anime>
@@ -7589,6 +7592,9 @@
   </anime>
   <anime anidbid="2331" tvdbid="162971" defaulttvdbseason="1">
     <name>Gensou Jotan Ellcia</name>
+  </anime>
+  <anime anidbid="2332" tvdbid="292085" defaulttvdbseason="1">
+    <name>Mahou no Angel Sweet Mint</name>
   </anime>
   <anime anidbid="2333" tvdbid="172881" defaulttvdbseason="1">
     <name>Sukeban Deka</name>
@@ -10457,6 +10463,9 @@
   </anime>
   <anime anidbid="3652" tvdbid="84532" defaulttvdbseason="1">
     <name>Lady Georgie</name>
+  </anime>
+  <anime anidbid="3653" tvdbid="393958" defaulttvdbseason="1">
+    <name>Kinpatsu no Jeanie</name>
   </anime>
   <anime anidbid="3654" tvdbid="79202" defaulttvdbseason="1">
     <name>Ayakashi: Japanese Classic Horror</name>
@@ -15266,6 +15275,9 @@
   </anime>
   <anime anidbid="6340" tvdbid="88391" defaulttvdbseason="1">
     <name>Natsu no Arashi!</name>
+  </anime>
+  <anime anidbid="6348" tvdbid="345113" defaulttvdbseason="0" episodeoffset="2">
+    <name>Licca-chan Fushigi na Mahou no Ring</name>
   </anime>
   <anime anidbid="6350" tvdbid="web" defaulttvdbseason="1">
     <name>Oshiruko: The Summertime Mischief</name>
