@@ -33514,6 +33514,9 @@
   </anime>
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1">
     <name>Yoru wa Neko to Issho</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17337" tvdbid="419126" defaulttvdbseason="1">
     <name>Kaminaki Sekai no Kamisama Katsudou</name>
@@ -33988,6 +33991,9 @@
   </anime>
   <anime anidbid="17812" tvdbid="415677" defaulttvdbseason="2">
     <name>Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka Hen</name>
+  </anime>
+  <anime anidbid="17814" tvdbid="419448" defaulttvdbseason="2">
+    <name>Yoru wa Neko to Issho (2023)</name>
   </anime>
   <anime anidbid="17820" tvdbid="429634" defaulttvdbseason="1">
     <name>Suki na Ko ga Megane o Wasureta</name>
