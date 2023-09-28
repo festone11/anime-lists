@@ -47788,6 +47788,9 @@
   </anime>
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yoru wa Neko to Issho</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17337" tvdbid="419126" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaminaki Sekai no Kamisama Katsudou</name>
@@ -49145,7 +49148,7 @@
   <anime anidbid="17813" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pucca 2</name>
   </anime>
-  <anime anidbid="17814" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17814" tvdbid="419448" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Yoru wa Neko to Issho (2023)</name>
   </anime>
   <anime anidbid="17815" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
