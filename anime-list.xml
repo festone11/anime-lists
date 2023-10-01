@@ -1582,7 +1582,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="368" tvdbid="76932" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0104604">
-    <name>Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!</name>
+    <name>Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!!</name>
   </anime>
   <anime anidbid="369" tvdbid="71313" defaulttvdbseason="0" imdbid="tt0407924">
     <name>Kidou Senkan Nadesico: The Prince of Darkness</name>
@@ -3658,7 +3658,7 @@
     <name>Shoujo Koakuma Kei</name>
   </anime>
   <anime anidbid="941" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0096891">
-    <name>Baoh Raihousha</name>
+    <name>BAOH Raihousha</name>
   </anime>
   <anime anidbid="942" tvdbid="72877" defaulttvdbseason="1">
     <name>City Hunter</name>
@@ -8951,7 +8951,7 @@
     <name>Attacker You!</name>
   </anime>
   <anime anidbid="2853" tvdbid="79327" defaulttvdbseason="0">
-    <name>Shin Kidou Senki Gundam W: Operation Meteor</name>
+    <name>Shin Kidou Senki Gundam Wing: Operation Meteor</name>
   </anime>
   <anime anidbid="2854" tvdbid="129751" defaulttvdbseason="1">
     <name>Tokyo Juushouden</name>
@@ -9085,7 +9085,7 @@
     <name>Duel Masters</name>
   </anime>
   <anime anidbid="2911" tvdbid="261667" defaulttvdbseason="0" tmdbid="58186">
-    <name>Gekijouban Duel Masters: Curse of the Deathphoenix</name>
+    <name>Gekijouban Duel Masters: Curse of the Death Phoenix</name>
   </anime>
   <anime anidbid="2912" tvdbid="75097" defaulttvdbseason="0" imdbid="tt0961185">
     <name>Gekijouban Rockman.EXE: Hikari to Yami no Program</name>
@@ -9297,7 +9297,7 @@
     <name>Pasocon Travel Tanteidan</name>
   </anime>
   <anime anidbid="3087" tvdbid="256831" defaulttvdbseason="1">
-    <name>Kyouryuu Daisensou Aizenborg</name>
+    <name>Kyouryuu Daisensou Izenborg</name>
   </anime>
   <anime anidbid="3091" tvdbid="256835" defaulttvdbseason="1">
     <name>Manga Sarutobi Sasuke</name>
@@ -10323,7 +10323,7 @@
     <name>Bomberman B-Daman Bakugaiden Victory</name>
   </anime>
   <anime anidbid="3591" tvdbid="72454" defaulttvdbseason="0">
-    <name>Meitantei Conan: 16 Nin no Yougisha</name>
+    <name>Meitantei Conan: 16-nin no Yougisha!?</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -10401,7 +10401,7 @@
     <name>Rockman.EXE Beast</name>
   </anime>
   <anime anidbid="3622" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Love Position, Legend of the Halley</name>
+    <name>Love Position: The Legend of Halley</name>
   </anime>
   <anime anidbid="3623" tvdbid="tv special" defaulttvdbseason="1">
     <name>Helen Keller Monogatari: Ai to Hikari no Tenshi</name>
@@ -21191,7 +21191,7 @@
     <name>Oda Nobuna no Yabou</name>
   </anime>
   <anime anidbid="8870" tvdbid="257762" defaulttvdbseason="1">
-    <name>Sakamichi no Apollon: Kids on the Slope</name>
+    <name>Sakamichi no Apollon</name>
   </anime>
   <anime anidbid="8873" tvdbid="OVA" defaulttvdbseason="0" imdbid="tt3124800">
     <name>Asa made Jugyou Chu!</name>
@@ -32709,7 +32709,7 @@
     <name>Vanitas no Karte (2022)</name>
   </anime>
   <anime anidbid="16370" tvdbid="349497" defaulttvdbseason="3">
-    <name>BanG Dream! Garupa Pico: Fever!</name>
+    <name>Bang Dream! Garupa Pico: Fever!</name>
   </anime>
   <anime anidbid="16373" tvdbid="404525" defaulttvdbseason="1">
     <name>High Card</name>
@@ -33489,7 +33489,7 @@
     <name>Engage Kiss</name>
   </anime>
   <anime anidbid="17285" tvdbid="418376" defaulttvdbseason="1">
-    <name>4-nin wa Sorezore Uso o Tsuku</name>
+    <name>Yonin wa Sorezore Uso o Tsuku</name>
   </anime>
   <anime anidbid="17286" tvdbid="262954" defaulttvdbseason="5" episodeoffset="12">
     <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 2)</name>
@@ -34149,7 +34149,7 @@
     <name>Colors</name>
   </anime>
   <anime anidbid="17906" tvdbid="432050" defaulttvdbseason="1">
-    <name>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 Nin no Kanojo</name>
+    <name>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo</name>
   </anime>
   <anime anidbid="17907" tvdbid="432720" defaulttvdbseason="1">
     <name>Kibou no Chikara: Otona Precure '23</name>
