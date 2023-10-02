@@ -6008,6 +6008,9 @@
   </anime>
   <anime anidbid="1703" tvdbid="157211" defaulttvdbseason="a">
     <name>SD Gundam Force</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1">
     <name>Space Travelers The Animation</name>
@@ -10541,6 +10544,9 @@
   </anime>
   <anime anidbid="3344" tvdbid="157211" defaulttvdbseason="0" episodeoffset="24" imdbid="tt0203012">
     <name>Musha Knight Commando: SD Gundam Scramble</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3345" tvdbid="OVA" defaulttvdbseason="1" tmdbid="600056">
     <name>Growlanser IV: Wayfarer of the Time</name>
@@ -18001,8 +18007,17 @@
   <anime anidbid="6613" tvdbid="132941" defaulttvdbseason="1">
     <name>Katanagatari</name>
   </anime>
+  <anime anidbid="6619" tvdbid="270265" defaulttvdbseason="1">
+    <name>Kuruneko</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="51" end="100" offset="-50"/>
+    </mapping-list>
+  </anime>
   <anime anidbid="6621" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1492701">
     <name>Hachigatsu no Symphony: Shibuya 2002-2003</name>
+  </anime>
+  <anime anidbid="6622" tvdbid="hentai">
+    <name>Triangle Blue</name>
   </anime>
   <anime anidbid="6623" tvdbid="75112" defaulttvdbseason="0" imdbid="unknown">
     <name>Dr. Slump: Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare</name>
@@ -18114,6 +18129,9 @@
   </anime>
   <anime anidbid="6664" tvdbid="79474" defaulttvdbseason="0" imdbid="tt2535654">
     <name>Flag Director's Edition Issenman no Kufura no Kiroku</name>
+  </anime>
+  <anime anidbid="6669" tvdbid="71475" defaulttvdbseason="0">
+    <name>Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen</name>
   </anime>
   <anime anidbid="6670" tvdbid="OVA" defaulttvdbseason="1" tmdbid="73784">
     <name>Cherry no Manma</name>
