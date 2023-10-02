@@ -9491,10 +9491,10 @@
     </mapping-list>
     <before>;1-25;</before>
   </anime>
-  <anime anidbid="2859" tvdbid="235591" defaulttvdbseason="a">
+  <anime anidbid="2859" tvdbid="163721" defaulttvdbseason="a">
     <name>Otogi-Juushi Akazukin (2006)</name>
   </anime>
-  <anime anidbid="2860" tvdbid="235591" defaulttvdbseason="0" tmdbid="817334">
+  <anime anidbid="2860" tvdbid="163721" defaulttvdbseason="0" tmdbid="817334">
     <name>Otogi-Juushi Akazukin</name>
   </anime>
   <anime anidbid="2861" tvdbid="unknown" defaulttvdbseason="1">
@@ -36371,6 +36371,9 @@
   <anime anidbid="17093" tvdbid="392226" defaulttvdbseason="2">
     <name>Tunshi Xingkong Zhuangzhi Lingyun</name>
   </anime>
+  <anime anidbid="17094" tvdbid="414207" defaulttvdbseason="1">
+    <name>MF Ghost</name>
+  </anime>
   <anime anidbid="17096" tvdbid="414096" defaulttvdbseason="1">
     <name>Urusei Yatsura (2022)</name>
   </anime>
@@ -37253,6 +37256,9 @@
   <anime anidbid="17914" tvdbid="432531" defaulttvdbseason="1">
     <name>Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san</name>
   </anime>
+  <anime anidbid="17915" tvdbid="427239" defaulttvdbseason="1" episodeoffset="12">
+    <name>Dead Mount Death Play (2023)</name>
+  </anime>
   <anime anidbid="17920" tvdbid="432613" defaulttvdbseason="1">
     <name>Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega</name>
   </anime>
@@ -37301,6 +37307,9 @@
   <anime anidbid="17968" tvdbid="355966" defaulttvdbseason="0" episodeoffset="1" tmdbid="1153706">
     <name>Go-Toubun no Hanayome~</name>
   </anime>
+  <anime anidbid="17969" tvdbid="393478" defaulttvdbseason="3">
+    <name>Tokyo Revengers: Tenjiku Hen</name>
+  </anime>
   <anime anidbid="17979" tvdbid="415821" defaulttvdbseason="2">
     <name>Spy Kyoushitsu (2023)</name>
   </anime>
@@ -37318,6 +37327,9 @@
   </anime>
   <anime anidbid="18062" tvdbid="385077" defaulttvdbseason="0" episodeoffset="15">
     <name>Tonikaku Kawaii: Joshikou Hen</name>
+  </anime>
+  <anime anidbid="18064" tvdbid="355774" defaulttvdbseason="3" episodeoffset="11">
+    <name>Dr. Stone: New World (2023)</name>
   </anime>
   <anime anidbid="18076" tvdbid="316842" defaulttvdbseason="2" episodeoffset="12">
     <name>Mahou Tsukai no Yome Season 2 (2023)</name>
