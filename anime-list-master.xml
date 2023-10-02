@@ -6008,6 +6008,9 @@
   </anime>
   <anime anidbid="1703" tvdbid="157211" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>SD Gundam Force</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Space Travelers The Animation</name>
@@ -10559,6 +10562,9 @@
   </anime>
   <anime anidbid="3344" tvdbid="157211" defaulttvdbseason="0" episodeoffset="24" tmdbid="" imdbid="tt0203012">
     <name>Musha Knight Commando: SD Gundam Scramble</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3345" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="600056" imdbid="">
     <name>Growlanser IV: Wayfarer of the Time</name>
@@ -18058,13 +18064,16 @@
   <anime anidbid="6613" tvdbid="132941" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Katanagatari</name>
   </anime>
-  <anime anidbid="6619" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6619" tvdbid="270265" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kuruneko</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="51" end="100" offset="-50"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6621" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1492701">
     <name>Hachigatsu no Symphony: Shibuya 2002-2003</name>
   </anime>
-  <anime anidbid="6622" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6622" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Triangle Blue</name>
   </anime>
   <anime anidbid="6623" tvdbid="75112" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -18211,7 +18220,7 @@
   <anime anidbid="6666" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Fight Tension TV</name>
   </anime>
-  <anime anidbid="6669" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6669" tvdbid="71475" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen</name>
   </anime>
   <anime anidbid="6670" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="73784" imdbid="">
