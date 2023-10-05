@@ -13183,11 +13183,8 @@
   <anime anidbid="4529" tvdbid="84016" defaulttvdbseason="1">
     <name>Mamoru-kun ni Megami no Shukufuku o!</name>
   </anime>
-  <anime anidbid="4530" tvdbid="82484" defaulttvdbseason="0">
+  <anime anidbid="4530" tvdbid="82484" defaulttvdbseason="0" episodeoffset="7">
     <name>Strike Witches</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4531" tvdbid="110071" defaulttvdbseason="1">
     <name>Yoake Mae yori Ruriiro na: Crescent Love</name>
@@ -22285,7 +22282,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8272" tvdbid="82484" defaulttvdbseason="0" episodeoffset="1" imdbid="tt2322603">
+  <anime anidbid="8272" tvdbid="82484" defaulttvdbseason="0" episodeoffset="6" imdbid="tt2322603">
     <name>Strike Witches Gekijouban</name>
   </anime>
   <anime anidbid="8273" tvdbid="web" defaulttvdbseason="1">
@@ -27048,7 +27045,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2">
+  <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="8">
     <name>Strike Witches: Operation Victory Arrow</name>
   </anime>
   <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" tmdbid="257474">
@@ -37132,6 +37129,9 @@
   </anime>
   <anime anidbid="17726" tvdbid="427358" defaulttvdbseason="1">
     <name>Yumemiru Danshi wa Genjitsushugisha</name>
+  </anime>
+  <anime anidbid="17732" tvdbid="388317" defaulttvdbseason="0" episodeoffset="5">
+    <name>Love Live! Nijigasaki Gakuen School Idol Doukoukai: Next Sky</name>
   </anime>
   <anime anidbid="17733" tvdbid="hentai" defaulttvdbseason="1">
     <name>Imouto wa Gal Kawaii</name>
