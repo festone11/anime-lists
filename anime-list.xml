@@ -29022,6 +29022,13 @@
   <anime anidbid="13469" tvdbid="328670" defaulttvdbseason="2">
     <name>Quanzhi Fashi 2</name>
   </anime>
+  <anime anidbid="13473" tvdbid="343237" defaulttvdbseason="2">
+    <name>Ginga Eiyuu Densetsu: Die Neue These (2019)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
+      <mapping anidbseason="0" tvdbseason="2" start="401" end="412" offset="-400"/>
+    </mapping-list>
+  </anime>
   <anime anidbid="13475" tvdbid="movie" tmdbid="485942">
     <name>Batman Ninja</name>
   </anime>
@@ -32047,6 +32054,13 @@
   <anime anidbid="15727" tvdbid="389235" defaulttvdbseason="1">
     <name>Sore dake ga Neck</name>
   </anime>
+  <anime anidbid="15728" tvdbid="343237" defaulttvdbseason="3">
+    <name>Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="3">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
+      <mapping anidbseason="0" tvdbseason="3" start="401" end="412" offset="-400"/>
+    </mapping-list>
+  </anime>
   <anime anidbid="15731" tvdbid="399117" defaulttvdbseason="1">
     <name>Bara Ou no Souretsu</name>
   </anime>
@@ -33111,6 +33125,13 @@
   </anime>
   <anime anidbid="16855" tvdbid="378522" defaulttvdbseason="2">
     <name>Shadowverse Flame</name>
+  </anime>
+  <anime anidbid="16863" tvdbid="343237" defaulttvdbseason="4">
+    <name>Ginga Eiyuu Densetsu: Die Neue These - Sakubou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="4">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
+      <mapping anidbseason="0" tvdbseason="4" start="401" end="412" offset="-400"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16878" tvdbid="73532" defaulttvdbseason="9">
     <name>Shin Tennis no Ouji-sama: U-17 World Cup</name>
