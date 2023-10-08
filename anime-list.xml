@@ -11890,8 +11890,8 @@
   <anime anidbid="4530" tvdbid="82484" defaulttvdbseason="0">
     <name>Strike Witches</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8+6;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8+6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4531" tvdbid="110071" defaulttvdbseason="1">
@@ -29025,8 +29025,8 @@
   <anime anidbid="13473" tvdbid="343237" defaulttvdbseason="2">
     <name>Ginga Eiyuu Densetsu: Die Neue These (2019)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
       <mapping anidbseason="0" tvdbseason="2" start="401" end="412" offset="-400"/>
+      <mapping anidbseason="1" tvdbseason="2">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13475" tvdbid="movie" tmdbid="485942">
@@ -29835,8 +29835,8 @@
   <anime anidbid="14064" tvdbid="328827" defaulttvdbseason="0" episodeoffset="7" tmdbid="542507,843267,893250" imdbid="tt8354164,tt14031960,tt23638846">
     <name>Princess Principal: Crown Handler</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;3-12;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-10;2-11;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;3-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14066" tvdbid="hentai" defaulttvdbseason="1">
@@ -32057,8 +32057,8 @@
   <anime anidbid="15728" tvdbid="343237" defaulttvdbseason="3">
     <name>Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="3">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
       <mapping anidbseason="0" tvdbseason="3" start="401" end="412" offset="-400"/>
+      <mapping anidbseason="1" tvdbseason="3">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="15731" tvdbid="399117" defaulttvdbseason="1">
@@ -32533,7 +32533,7 @@
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II</name>
   </anime>
   <anime anidbid="16102" tvdbid="375927" defaulttvdbseason="2" episodeoffset="13">
-    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (2 Cour)</name>
+    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II (2024)</name>
   </anime>
   <anime anidbid="16103" tvdbid="398387" defaulttvdbseason="1">
     <name>Sabikui Bisco</name>
@@ -33129,8 +33129,8 @@
   <anime anidbid="16863" tvdbid="343237" defaulttvdbseason="4">
     <name>Ginga Eiyuu Densetsu: Die Neue These - Sakubou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="4">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
       <mapping anidbseason="0" tvdbseason="4" start="401" end="412" offset="-400"/>
+      <mapping anidbseason="1" tvdbseason="4">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="16878" tvdbid="73532" defaulttvdbseason="9">

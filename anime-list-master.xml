@@ -13216,8 +13216,8 @@
   <anime anidbid="4530" tvdbid="82484" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Strike Witches</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8+6;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8+6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4531" tvdbid="110071" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -37074,8 +37074,8 @@
   <anime anidbid="13473" tvdbid="343237" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginga Eiyuu Densetsu: Die Neue These (2019)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
       <mapping anidbseason="0" tvdbseason="2" start="401" end="412" offset="-400"/>
+      <mapping anidbseason="1" tvdbseason="2">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13474" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38766,8 +38766,8 @@
   <anime anidbid="14064" tvdbid="328827" defaulttvdbseason="0" episodeoffset="7" tmdbid="542507,843267,893250" imdbid="tt8354164,tt14031960,tt23638846">
     <name>Princess Principal: Crown Handler</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;3-12;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-10;2-11;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;3-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14065" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -43439,8 +43439,8 @@
   <anime anidbid="15728" tvdbid="343237" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="3">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
       <mapping anidbseason="0" tvdbseason="3" start="401" end="412" offset="-400"/>
+      <mapping anidbseason="1" tvdbseason="3">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="15729" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44491,7 +44491,7 @@
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II</name>
   </anime>
   <anime anidbid="16102" tvdbid="375927" defaulttvdbseason="2" episodeoffset="13" tmdbid="" imdbid="">
-    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (2 Cour)</name>
+    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II (2024)</name>
   </anime>
   <anime anidbid="16103" tvdbid="398387" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sabikui Bisco</name>
@@ -46485,8 +46485,8 @@
   <anime anidbid="16863" tvdbid="343237" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginga Eiyuu Densetsu: Die Neue These - Sakubou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="4">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
       <mapping anidbseason="0" tvdbseason="4" start="401" end="412" offset="-400"/>
+      <mapping anidbseason="1" tvdbseason="4">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="16864" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -50275,9 +50275,6 @@
   <anime anidbid="18197" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shu Tian Fu Mo Lu</name>
   </anime>
-  <anime anidbid="18198" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Si Ge Yongzhe</name>
-  </anime>
   <anime anidbid="18199" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Boku no Hero Academia: Yuuei Heroes Battle</name>
   </anime>
@@ -50337,5 +50334,47 @@
   </anime>
   <anime anidbid="18218" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tian Guan Cifu Di Er Ji</name>
+  </anime>
+  <anime anidbid="18219" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Meitantei Conan (2024)</name>
+  </anime>
+  <anime anidbid="18220" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bleach: Sennen Kessen Hen - Soukoku Tan</name>
+  </anime>
+  <anime anidbid="18221" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Journey to Bloom</name>
+  </anime>
+  <anime anidbid="18222" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shunka Shuutou</name>
+  </anime>
+  <anime anidbid="18223" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Alps to Kiken na Mori</name>
+  </anime>
+  <anime anidbid="18224" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>My Mother</name>
+  </anime>
+  <anime anidbid="18225" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>One Room, Hiatari Futsuu, Tenshi-tsuki.</name>
+  </anime>
+  <anime anidbid="18227" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Time Patrol Bon</name>
+  </anime>
+  <anime anidbid="18228" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Goukon ni Ittara Onna ga Inakatta Hanashi</name>
+  </anime>
+  <anime anidbid="18229" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou Sareru</name>
+  </anime>
+  <anime anidbid="18230" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yuusha-hime Miria</name>
+  </anime>
+  <anime anidbid="18231" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Betsu Sekai</name>
+  </anime>
+  <anime anidbid="18232" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattanda ga</name>
+  </anime>
+  <anime anidbid="18233" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Huoli Shaonian Wang: You Quan Yingxiong 2</name>
   </anime>
 </anime-list>
