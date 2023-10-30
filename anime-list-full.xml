@@ -12385,7 +12385,7 @@
   <anime anidbid="4194" tvdbid="hentai" defaulttvdbseason="1">
     <name>Cleavage</name>
   </anime>
-  <anime anidbid="4195" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="4195" tvdbid="81104" defaulttvdbseason="2">
     <name>Kidou Senshi Gundam MS Igloo: Mokushiroku 0079</name>
   </anime>
   <anime anidbid="4196" tvdbid="79796" defaulttvdbseason="1">
@@ -16482,7 +16482,7 @@
   <anime anidbid="5946" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>What's Michael?</name>
   </anime>
-  <anime anidbid="5949" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="5949" tvdbid="81104" defaulttvdbseason="3">
     <name>Kidou Senshi Gundam MS Igloo 2: Juuryoku Sensen</name>
   </anime>
   <anime anidbid="5950" tvdbid="hentai" defaulttvdbseason="1">
@@ -29850,7 +29850,7 @@
   <anime anidbid="11834" tvdbid="311832" defaulttvdbseason="1">
     <name>Rilu Rilu Fairilu: Yousei no Door</name>
   </anime>
-  <anime anidbid="11836" tvdbid="299491" defaulttvdbseason="1" episodeoffset="13">
+  <anime anidbid="11836" tvdbid="299491" defaulttvdbseason="2">
     <name>Concrete Revolutio: Choujin Gensou - The Last Song</name>
   </anime>
   <anime anidbid="11839" tvdbid="71863" defaulttvdbseason="0">
@@ -31513,7 +31513,7 @@
   <anime anidbid="13069" tvdbid="314284" defaulttvdbseason="2">
     <name>Classicaloid (2017)</name>
   </anime>
-  <anime anidbid="13070" tvdbid="291724" defaulttvdbseason="1">
+  <anime anidbid="13070" tvdbid="291724" defaulttvdbseason="2">
     <name>Musashino!</name>
   </anime>
   <anime anidbid="13071" tvdbid="283243" defaulttvdbseason="2">
@@ -32409,6 +32409,9 @@
   </anime>
   <anime anidbid="13706" tvdbid="344194" defaulttvdbseason="1">
     <name>Binan Koukou Chikyuu Bouei Bu Happy Kiss!</name>
+  </anime>
+  <anime anidbid="13713" tvdbid="246381" defaulttvdbseason="2">
+    <name>Tiger &amp; Bunny 2</name>
   </anime>
   <anime anidbid="13717" tvdbid="315500" defaulttvdbseason="0" tmdbid="553839" imdbid="tt9507276">
     <name>Youjo Senki (2019)</name>
@@ -36009,7 +36012,7 @@
   <anime anidbid="16531" tvdbid="402033" defaulttvdbseason="2">
     <name>Shiguang Dailiren II</name>
   </anime>
-  <anime anidbid="16533" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="16533" tvdbid="140751" defaulttvdbseason="2">
     <name>Yojouhan Time Machine Blues</name>
   </anime>
   <anime anidbid="16536" tvdbid="408734" defaulttvdbseason="1">
@@ -36376,6 +36379,9 @@
   <anime anidbid="17025" tvdbid="movie" tmdbid="912598" imdbid="tt16360006">
     <name>Bubble</name>
   </anime>
+  <anime anidbid="17027" tvdbid="402182" defaulttvdbseason="2">
+    <name>Megaton-kyuu Musashi (2022)</name>
+  </anime>
   <anime anidbid="17028" tvdbid="movie" tmdbid="955666" imdbid="tt16410438">
     <name>Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden</name>
   </anime>
@@ -36399,6 +36405,9 @@
   </anime>
   <anime anidbid="17053" tvdbid="355774" defaulttvdbseason="3">
     <name>Dr. Stone: New World</name>
+  </anime>
+  <anime anidbid="17057" tvdbid="271591" defaulttvdbseason="10">
+    <name>Yami Shibai 10</name>
   </anime>
   <anime anidbid="17061" tvdbid="405920" defaulttvdbseason="1" episodeoffset="12">
     <name>Spy x Family (2022)</name>
@@ -36729,6 +36738,9 @@
   </anime>
   <anime anidbid="17317" tvdbid="329992" defaulttvdbseason="2">
     <name>Isekai wa Smartphone to Tomo ni. 2</name>
+  </anime>
+  <anime anidbid="17322" tvdbid="356041" defaulttvdbseason="3">
+    <name>Ultraman Final</name>
   </anime>
   <anime anidbid="17328" tvdbid="419278" defaulttvdbseason="1">
     <name>Onii-chan wa Oshimai!</name>
@@ -37446,6 +37458,9 @@
   </anime>
   <anime anidbid="18015" tvdbid="434312" defaulttvdbseason="1">
     <name>Yuzuki-san Chi no Yon Kyoudai.</name>
+  </anime>
+  <anime anidbid="18020" tvdbid="271591" defaulttvdbseason="11">
+    <name>Yami Shibai 11</name>
   </anime>
   <anime anidbid="18022" tvdbid="music video" defaulttvdbseason="1" imdbid="tt27551813">
     <name>Idol</name>

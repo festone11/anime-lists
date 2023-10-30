@@ -1194,9 +1194,6 @@
   <anime anidbid="4190" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sekai Douwa Anime Zenshuu</name>
   </anime>
-  <anime anidbid="4195" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Kidou Senshi Gundam MS Igloo: Mokushiroku 0079</name>
-  </anime>
   <anime anidbid="4200" tvdbid="unknown" defaulttvdbseason="1">
     <name>Pure-tou no Nakama-tachi</name>
   </anime>
@@ -1940,9 +1937,6 @@
   </anime>
   <anime anidbid="5946" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>What's Michael?</name>
-  </anime>
-  <anime anidbid="5949" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Kidou Senshi Gundam MS Igloo 2: Juuryoku Sensen</name>
   </anime>
   <anime anidbid="5952" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>What's Michael? 2</name>
@@ -3071,8 +3065,5 @@
   </anime>
   <anime anidbid="16118" tvdbid="unknown">
     <name>Ryuusatsu no Kyoukotsu</name>
-  </anime>
-  <anime anidbid="16533" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Yojouhan Time Machine Blues</name>
   </anime>
 </anime-list>
