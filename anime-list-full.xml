@@ -33151,6 +33151,9 @@
   <anime anidbid="14259" tvdbid="350301" defaulttvdbseason="2">
     <name>Iya na Kao Sarenagara Opantsu Misete Moraitai 2</name>
   </anime>
+  <anime anidbid="14288" tvdbid="358612" defaulttvdbseason="1">
+    <name>Cike Wu Liuqi</name>
+  </anime>
   <anime anidbid="14289" tvdbid="359095" defaulttvdbseason="1">
     <name>Bokutachi wa Benkyou ga Dekinai</name>
   </anime>
@@ -34656,6 +34659,9 @@
   <anime anidbid="15377" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation</name>
   </anime>
+  <anime anidbid="15381" tvdbid="358612" defaulttvdbseason="2">
+    <name>Wu Liuqi: Zui Qiang Fa Xing Shi</name>
+  </anime>
   <anime anidbid="15382" tvdbid="381406" defaulttvdbseason="1">
     <name>Uzaki-chan wa Asobitai!</name>
   </anime>
@@ -35384,6 +35390,9 @@
   </anime>
   <anime anidbid="15957" tvdbid="400973" defaulttvdbseason="1">
     <name>Itazuraguma no Gloomy</name>
+  </anime>
+  <anime anidbid="15961" tvdbid="358612" defaulttvdbseason="3">
+    <name>Wu Liuqi: Xuanwu Guo Pian</name>
   </anime>
   <anime anidbid="15962" tvdbid="400099" defaulttvdbseason="1">
     <name>Dinosaur Biyori</name>
@@ -37314,6 +37323,9 @@
   </anime>
   <anime anidbid="17847" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kokuhaku......</name>
+  </anime>
+  <anime anidbid="17852" tvdbid="358612" defaulttvdbseason="4">
+    <name>Wu Liuqi: Anying Suming</name>
   </anime>
   <anime anidbid="17859" tvdbid="movie" defaulttvdbseason="1" tmdbid="1083862">
     <name>Biohazard: Death Island</name>
