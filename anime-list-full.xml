@@ -30117,7 +30117,7 @@
   <anime anidbid="11979" tvdbid="316814" defaulttvdbseason="1">
     <name>Watashi ga Motete Dou Sunda</name>
   </anime>
-  <anime anidbid="11980" tvdbid="movie" tmdbid="431821" imdbid="tt6580380">
+  <anime anidbid="11980" tvdbid="278329" defaulttvdbseason="0" episodeoffset="7" tmdbid="431821" imdbid="tt6580380">
     <name>Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo</name>
   </anime>
   <anime anidbid="11981" tvdbid="319410" defaulttvdbseason="1">
@@ -33878,6 +33878,9 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="29"/>
     </mapping-list>
   </anime>
+  <anime anidbid="14794" tvdbid="354636" defaulttvdbseason="0">
+    <name>Kouya no Kotobuki Hikoutai Gaiden: Oozora no Harukaze Hikoutai</name>
+  </anime>
   <anime anidbid="14795" tvdbid="368553" defaulttvdbseason="1">
     <name>Africa no Salaryman (2019)</name>
   </anime>
@@ -34022,6 +34025,9 @@
   </anime>
   <anime anidbid="14934" tvdbid="408919" defaulttvdbseason="1">
     <name>Muteking the Dancing Hero</name>
+  </anime>
+  <anime anidbid="14935" tvdbid="289884" defaulttvdbseason="3">
+    <name>Hibike! Euphonium 3</name>
   </anime>
   <anime anidbid="14939" tvdbid="377972" defaulttvdbseason="1">
     <name>Listeners</name>
@@ -34476,6 +34482,9 @@
   <anime anidbid="15283" tvdbid="278157" defaulttvdbseason="4" episodeoffset="13">
     <name>Haikyuu!! To the Top (2020)</name>
   </anime>
+  <anime anidbid="15284" tvdbid="312664" defaulttvdbseason="0" episodeoffset="1">
+    <name>Planetarian: Snow Globe</name>
+  </anime>
   <anime anidbid="15285" tvdbid="377679" defaulttvdbseason="1">
     <name>Shachou, Battle no Jikan Desu!</name>
   </anime>
@@ -34658,6 +34667,9 @@
   </anime>
   <anime anidbid="15377" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tenioha! 2: Limit Over - Mada Mada Ippai, Ecchi Shiyo? The Animation</name>
+  </anime>
+  <anime anidbid="15378" tvdbid="354636" defaulttvdbseason="0" episodeoffset="12">
+    <name>Kouya no Kotobuki Hikoutai Kanzenban</name>
   </anime>
   <anime anidbid="15381" tvdbid="358612" defaulttvdbseason="2">
     <name>Wu Liuqi: Zui Qiang Fa Xing Shi</name>
@@ -35577,7 +35589,7 @@
   <anime anidbid="16078" tvdbid="407519" defaulttvdbseason="1">
     <name>RPG Fudousan</name>
   </anime>
-  <anime anidbid="16081" tvdbid="tv special" tmdbid="1009176" imdbid="tt15497404">
+  <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="8" tmdbid="1009176" imdbid="tt15497404">
     <name>Mahouka Koukou no Rettousei: Tsuioku Hen</name>
   </anime>
   <anime anidbid="16084" tvdbid="400887" defaulttvdbseason="1">
@@ -36484,6 +36496,9 @@
   <anime anidbid="17097" tvdbid="414057" defaulttvdbseason="1">
     <name>Lycoris Recoil</name>
   </anime>
+  <anime anidbid="17098" tvdbid="278329" defaulttvdbseason="3">
+    <name>Mahouka Koukou no Rettousei (2024)</name>
+  </anime>
   <anime anidbid="17101" tvdbid="419405" defaulttvdbseason="1">
     <name>Huan You Lieren</name>
   </anime>
@@ -36838,7 +36853,7 @@
   <anime anidbid="17438" tvdbid="420867" defaulttvdbseason="1">
     <name>Bang Dream! Morfonication</name>
   </anime>
-  <anime anidbid="17441" tvdbid="movie" defaulttvdbseason="1" tmdbid="1108306">
+  <anime anidbid="17441" tvdbid="289884" defaulttvdbseason="0" episodeoffset="19" tmdbid="1108306">
     <name>Tokubetsu Hen Hibike! Euphonium: Ensemble Contest Hen</name>
   </anime>
   <anime anidbid="17443" tvdbid="420982" defaulttvdbseason="1">
