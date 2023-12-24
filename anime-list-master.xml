@@ -2899,7 +2899,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="721" tvdbid="71536" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Victory Gundam</name>
+    <name>Kidou Senshi V Gundam</name>
   </anime>
   <anime anidbid="723" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="63234" imdbid="">
     <name>Time Stranger Kyouko: Chocola ni Omakase!</name>
@@ -11093,7 +11093,7 @@
     <name>Nikuyome: Takayanagi Ke no Hitobito</name>
   </anime>
   <anime anidbid="3525" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Rinkan Gakuen: "Yamete! ...Okaasan, Minaide!"</name>
+    <name>Rinkan Gakuen</name>
   </anime>
   <anime anidbid="3527" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sora no Iro, Mizu no Iro</name>
@@ -15124,7 +15124,7 @@
     <name>Tsuyoshi Shikkari Shinasai</name>
   </anime>
   <anime anidbid="5252" tvdbid="80675" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Gundam 00</name>
+    <name>Kidou Senshi Gundam Double O</name>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -16410,7 +16410,7 @@
     <name>Shirouto Club: Hamedori Anime Kanzen Mushuusei!!</name>
   </anime>
   <anime anidbid="5903" tvdbid="80675" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Gundam 00 (2008)</name>
+    <name>Kidou Senshi Gundam Double O (2008)</name>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -19693,7 +19693,7 @@
     <name>Kitakaze to Taiyou</name>
   </anime>
   <anime anidbid="7183" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="25446" imdbid="">
-    <name>Kidou Senshi Gundam 00 Special Edition I: Celestial Being</name>
+    <name>Kidou Senshi Gundam Double O Special Edition I: Celestial Being</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -19702,7 +19702,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="7184" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="27837" imdbid="">
-    <name>Kidou Senshi Gundam 00 Special Edition II: End of World</name>
+    <name>Kidou Senshi Gundam Double O Special Edition II: End of World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
@@ -20355,7 +20355,7 @@
     <name>Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen</name>
   </anime>
   <anime anidbid="7403" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="30807" imdbid="">
-    <name>Kidou Senshi Gundam 00 Special Edition III: Return the World</name>
+    <name>Kidou Senshi Gundam Double O Special Edition III: Return the World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
@@ -20376,7 +20376,7 @@
     <name>Kachou no Koi</name>
   </anime>
   <anime anidbid="7408" tvdbid="80675" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1726286">
-    <name>Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer</name>
+    <name>Kidou Senshi Gundam Double O: A Wakening of the Trailblazer</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -21104,7 +21104,7 @@
     <name>Omae Umasou Da na</name>
   </anime>
   <anime anidbid="7656" tvdbid="195231" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yosuga no Sora: In Solitude, Where We Are Least Alone.</name>
+    <name>Yosuga no Sora</name>
   </anime>
   <anime anidbid="7658" tvdbid="82927" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Alps no Shoujo Heidi: Alm no Yama Hen</name>
@@ -43936,7 +43936,7 @@
     <name>Toilet no Hanako-san vs Kukkyou Taimashi: Akuochi Ma*ko Tenchuu Samen Renzoku-chuu Dashi</name>
   </anime>
   <anime anidbid="15910" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Code Geass: Dakkan no Z</name>
+    <name>Code Geass: Dakkan no Roze</name>
   </anime>
   <anime anidbid="15911" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Idol Land PriPara</name>
@@ -50127,7 +50127,7 @@
     <name>Jintian Kaishi Shanyao Dengchang</name>
   </anime>
   <anime anidbid="18145" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Boukyaku Battery (TV)</name>
+    <name>Boukyaku Battery (2024)</name>
   </anime>
   <anime anidbid="18146" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="1177096,1211716" imdbid="">
     <name>Oomuro-ke</name>
@@ -50176,9 +50176,6 @@
   </anime>
   <anime anidbid="18162" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon no Naka no Hito</name>
-  </anime>
-  <anime anidbid="18163" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Violence Voyager</name>
   </anime>
   <anime anidbid="18164" tvdbid="435005" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru</name>
@@ -50334,7 +50331,7 @@
     <name>Tadaima, Okaeri</name>
   </anime>
   <anime anidbid="18217" tvdbid="376751" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xian Wang de Richang Shenghuo 4</name>
+    <name>Xian Wang de Richang Shenghuo Di Si Ji</name>
   </anime>
   <anime anidbid="18218" tvdbid="388672" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Tian Guan Cifu Di Er Ji</name>
@@ -50585,9 +50582,6 @@
   <anime anidbid="18303" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Modaete yo, Adam-kun</name>
   </anime>
-  <anime anidbid="18304" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Fanren Xiu Xian Chuan:  Di Er Ji Nian Fan</name>
-  </anime>
   <anime anidbid="18305" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rising Impact</name>
   </anime>
@@ -50641,5 +50635,56 @@
   </anime>
   <anime anidbid="18322" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yakin Byoutou Kranke</name>
+  </anime>
+  <anime anidbid="18323" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran</name>
+  </anime>
+  <anime anidbid="18324" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Chainsaw Man: Reze Hen</name>
+  </anime>
+  <anime anidbid="18325" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>The One Piece</name>
+  </anime>
+  <anime anidbid="18327" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>MF Ghost (2024)</name>
+  </anime>
+  <anime anidbid="18328" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hyakushou Kizoku 2</name>
+  </anime>
+  <anime anidbid="18329" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shy 2</name>
+  </anime>
+  <anime anidbid="18330" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shixiong A Shixiong 2</name>
+  </anime>
+  <anime anidbid="18332" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fanren Xiu Xian Chuan: Di San Ji</name>
+  </anime>
+  <anime anidbid="18333" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Kage no Jitsuryokusha ni Naritakute! Zankyou Hen</name>
+  </anime>
+  <anime anidbid="18334" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kamierabi (2024)</name>
+  </anime>
+  <anime anidbid="18336" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dr. Stone: Science Future</name>
+  </anime>
+  <anime anidbid="18337" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yumemiru Otome</name>
+  </anime>
+  <anime anidbid="18338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zhen Dao Ge 2nd Season</name>
+  </anime>
+  <anime anidbid="18339" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiaoke de Huatu Xie Hua</name>
+  </anime>
+  <anime anidbid="18340" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zhen Wu Dianfeng</name>
+  </anime>
+  <anime anidbid="18341" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zhen Wu Dianfeng 2nd Season</name>
+  </anime>
+  <anime anidbid="18342" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zhen Wu Dianfeng 3rd Season</name>
   </anime>
 </anime-list>

@@ -2899,7 +2899,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="721" tvdbid="71536" defaulttvdbseason="1">
-    <name>Kidou Senshi Victory Gundam</name>
+    <name>Kidou Senshi V Gundam</name>
   </anime>
   <anime anidbid="723" tvdbid="OVA" defaulttvdbseason="1" tmdbid="63234">
     <name>Time Stranger Kyouko: Chocola ni Omakase!</name>
@@ -11072,7 +11072,7 @@
     <name>Nikuyome: Takayanagi Ke no Hitobito</name>
   </anime>
   <anime anidbid="3525" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Rinkan Gakuen: "Yamete! ...Okaasan, Minaide!"</name>
+    <name>Rinkan Gakuen</name>
   </anime>
   <anime anidbid="3527" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sora no Iro, Mizu no Iro</name>
@@ -15088,7 +15088,7 @@
     <name>Tsuyoshi Shikkari Shinasai</name>
   </anime>
   <anime anidbid="5252" tvdbid="80675" defaulttvdbseason="1">
-    <name>Kidou Senshi Gundam 00</name>
+    <name>Kidou Senshi Gundam Double O</name>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -16368,7 +16368,7 @@
     <name>Shirouto Club: Hamedori Anime Kanzen Mushuusei!!</name>
   </anime>
   <anime anidbid="5903" tvdbid="80675" defaulttvdbseason="2">
-    <name>Kidou Senshi Gundam 00 (2008)</name>
+    <name>Kidou Senshi Gundam Double O (2008)</name>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -19516,7 +19516,7 @@
     <name>Kitakaze to Taiyou</name>
   </anime>
   <anime anidbid="7183" tvdbid="80675" defaulttvdbseason="0" tmdbid="25446">
-    <name>Kidou Senshi Gundam 00 Special Edition I: Celestial Being</name>
+    <name>Kidou Senshi Gundam Double O Special Edition I: Celestial Being</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -19525,7 +19525,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="7184" tvdbid="80675" defaulttvdbseason="0" tmdbid="27837">
-    <name>Kidou Senshi Gundam 00 Special Edition II: End of World</name>
+    <name>Kidou Senshi Gundam Double O Special Edition II: End of World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
@@ -20151,7 +20151,7 @@
     <name>Bakugan Battle Brawlers: New Vestroia</name>
   </anime>
   <anime anidbid="7403" tvdbid="80675" defaulttvdbseason="0" tmdbid="30807">
-    <name>Kidou Senshi Gundam 00 Special Edition III: Return the World</name>
+    <name>Kidou Senshi Gundam Double O Special Edition III: Return the World</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
@@ -20169,7 +20169,7 @@
     <name>Hakuouki: Shinsengumi Kitan</name>
   </anime>
   <anime anidbid="7408" tvdbid="80675" defaulttvdbseason="0" imdbid="tt1726286">
-    <name>Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer</name>
+    <name>Kidou Senshi Gundam Double O: A Wakening of the Trailblazer</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
@@ -20882,7 +20882,7 @@
     <name>Omae Umasou Da na</name>
   </anime>
   <anime anidbid="7656" tvdbid="195231" defaulttvdbseason="1">
-    <name>Yosuga no Sora: In Solitude, Where We Are Least Alone.</name>
+    <name>Yosuga no Sora</name>
   </anime>
   <anime anidbid="7658" tvdbid="82927" defaulttvdbseason="0">
     <name>Alps no Shoujo Heidi: Alm no Yama Hen</name>
@@ -37662,7 +37662,7 @@
     <name>Gekkan Mousou Kagaku</name>
   </anime>
   <anime anidbid="18217" tvdbid="376751" defaulttvdbseason="4">
-    <name>Xian Wang de Richang Shenghuo 4</name>
+    <name>Xian Wang de Richang Shenghuo Di Si Ji</name>
   </anime>
   <anime anidbid="18218" tvdbid="388672" defaulttvdbseason="2">
     <name>Tian Guan Cifu Di Er Ji</name>
