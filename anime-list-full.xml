@@ -6905,7 +6905,7 @@
   <anime anidbid="2017" tvdbid="hentai" defaulttvdbseason="1">
     <name>Reinou Tantei Miko</name>
   </anime>
-  <anime anidbid="2018" tvdbid="tv special" defaulttvdbseason="1">
+  <anime anidbid="2018" tvdbid="tv special" defaulttvdbseason="1" tmdbid="763006">
     <name>Daisetsuzan no Yuusha Kibaou</name>
   </anime>
   <anime anidbid="2019" tvdbid="257308" defaulttvdbseason="1">
@@ -8237,7 +8237,7 @@
   <anime anidbid="2408" tvdbid="OVA" defaulttvdbseason="1">
     <name>Taiheiyou ni Kakeru Niji</name>
   </anime>
-  <anime anidbid="2409" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="2409" tvdbid="OVA" defaulttvdbseason="1" tmdbid="1031947">
     <name>Kimama ni Idol</name>
   </anime>
   <anime anidbid="2410" tvdbid="83403" defaulttvdbseason="1">
@@ -10132,7 +10132,7 @@
   <anime anidbid="3139" tvdbid="OVA" defaulttvdbseason="1" tmdbid="62454">
     <name>Space Fantasia 2001 Ya Monogatari</name>
   </anime>
-  <anime anidbid="3140" tvdbid="tv special" defaulttvdbseason="1">
+  <anime anidbid="3140" tvdbid="tv special" defaulttvdbseason="1" tmdbid="928691">
     <name>Sugata Sanshirou</name>
   </anime>
   <anime anidbid="3141" tvdbid="tv special" defaulttvdbseason="1">
@@ -11671,7 +11671,7 @@
   <anime anidbid="3964" tvdbid="music video" defaulttvdbseason="1">
     <name>Tsuki no Waltz</name>
   </anime>
-  <anime anidbid="3965" tvdbid="music video" defaulttvdbseason="1">
+  <anime anidbid="3965" tvdbid="music video" defaulttvdbseason="1" tmdbid="441687">
     <name>Space Station No. 9</name>
   </anime>
   <anime anidbid="3966" tvdbid="music video" defaulttvdbseason="1">
@@ -12578,7 +12578,7 @@
   <anime anidbid="4253" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kurai Mirai</name>
   </anime>
-  <anime anidbid="4254" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="4254" tvdbid="OVA" defaulttvdbseason="1" tmdbid="746255">
     <name>Sweet Spot</name>
   </anime>
   <anime anidbid="4255" tvdbid="hentai" defaulttvdbseason="1">
@@ -26394,7 +26394,7 @@
   <anime anidbid="9882" tvdbid="275581" defaulttvdbseason="1">
     <name>Nobunagun</name>
   </anime>
-  <anime anidbid="9885" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="9885" tvdbid="OVA" defaulttvdbseason="1" tmdbid="1023603">
     <name>Star Dust</name>
   </anime>
   <anime anidbid="9887" tvdbid="251982" defaulttvdbseason="0">
@@ -29354,6 +29354,9 @@
   <anime anidbid="11459" tvdbid="279980" defaulttvdbseason="2">
     <name>Garo: Guren no Tsuki</name>
   </anime>
+  <anime anidbid="11462" tvdbid="OVA" defaulttvdbseason="1" tmdbid="685308">
+    <name>Odemashi Shoumajin Hoopa</name>
+  </anime>
   <anime anidbid="11466" tvdbid="306152" defaulttvdbseason="1">
     <name>Tonkatsu DJ Agetarou</name>
   </anime>
@@ -30851,6 +30854,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="12482" tvdbid="music video" defaulttvdbseason="1" tmdbid="763762">
+    <name>Shelter.</name>
   </anime>
   <anime anidbid="12483" tvdbid="326337" defaulttvdbseason="1">
     <name>Idolmaster Cinderella Girls Gekijou</name>
@@ -37045,6 +37051,9 @@
   <anime anidbid="17561" tvdbid="hentai" defaulttvdbseason="1">
     <name>Succubus Yondara Haha ga Kita!?</name>
   </anime>
+  <anime anidbid="17562" tvdbid="music video" defaulttvdbseason="1" imdbid="tt21610088">
+    <name>Find Your One Way</name>
+  </anime>
   <anime anidbid="17564" tvdbid="423257" defaulttvdbseason="1">
     <name>Dungeon Meshi</name>
   </anime>
@@ -37374,6 +37383,9 @@
   </anime>
   <anime anidbid="17810" tvdbid="movie" defaulttvdbseason="1" tmdbid="1142115">
     <name>Eiga Sore Ike! Anpanman: Roboly to Pokapoka Present</name>
+  </anime>
+  <anime anidbid="17811" tvdbid="movie" defaulttvdbseason="1" imdbid="tt28055106">
+    <name>Ooyuki Umi no Kaina: Hoshi no Kenja</name>
   </anime>
   <anime anidbid="17812" tvdbid="415677" defaulttvdbseason="2">
     <name>Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka Hen</name>
