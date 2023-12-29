@@ -18,9 +18,6 @@
   <anime anidbid="1191" tvdbid="unknown" defaulttvdbseason="1">
     <name>Omoikkiri Kagaku Adventure Sou Nanda!</name>
   </anime>
-  <anime anidbid="1454" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Gegege no Kitarou: Jigoku Hen</name>
-  </anime>
   <anime anidbid="1529" tvdbid="unknown" defaulttvdbseason="1">
     <name>Dragon League</name>
   </anime>
@@ -318,12 +315,6 @@
   <anime anidbid="2296" tvdbid="unknown" defaulttvdbseason="1">
     <name>Shoukoushi Cedie</name>
   </anime>
-  <anime anidbid="2298" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Princess Sara</name>
-    <supplemental-info>
-      <studio>Nippon Animation</studio>
-    </supplemental-info>
-  </anime>
   <anime anidbid="2309" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yama Nezumi Rocky Chuck</name>
   </anime>
@@ -371,9 +362,6 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;</mapping>
     </mapping-list>
-  </anime>
-  <anime anidbid="2361" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Ginga Hyouryuu Vifam</name>
   </anime>
   <anime anidbid="2362" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ginga Hyouryuu Vifam 13</name>
@@ -1280,9 +1268,6 @@
   </anime>
   <anime anidbid="4417" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kinkyuu Hasshin Saver Kids</name>
-  </anime>
-  <anime anidbid="4428" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Licca-chan Fushigi na Fushigi na Yunia Monogatari</name>
   </anime>
   <anime anidbid="4445" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mujigen Hunter Fandora</name>
@@ -2651,9 +2636,6 @@
   </anime>
   <anime anidbid="8657" tvdbid="unknown" defaulttvdbseason="4">
     <name>Peeping Life: The Perfect Extension</name>
-  </anime>
-  <anime anidbid="8680" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Gensei Shugoshin P-hyoro Ikka</name>
   </anime>
   <anime anidbid="8710" tvdbid="unknown" defaulttvdbseason="1">
     <name>Justeen</name>

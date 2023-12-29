@@ -5236,6 +5236,9 @@
   <anime anidbid="1453" tvdbid="265216" defaulttvdbseason="3">
     <name>Gegege no Kitarou (1985)</name>
   </anime>
+  <anime anidbid="1454" tvdbid="433093" defaulttvdbseason="1">
+    <name>Gegege no Kitarou: Jigoku Hen</name>
+  </anime>
   <anime anidbid="1455" tvdbid="265216" defaulttvdbseason="4">
     <name>Gegege no Kitarou (1996)</name>
   </anime>
@@ -7513,6 +7516,12 @@
       <studio>Nippon Animation</studio>
     </supplemental-info>
   </anime>
+  <anime anidbid="2298" tvdbid="83483" defaulttvdbseason="1">
+    <name>Princess Sara</name>
+    <supplemental-info>
+      <studio>Nippon Animation</studio>
+    </supplemental-info>
+  </anime>
   <anime anidbid="2299" tvdbid="187481" defaulttvdbseason="1">
     <name>Makiba no Shoujo Katri</name>
   </anime>
@@ -7680,6 +7689,9 @@
   </anime>
   <anime anidbid="2360" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
     <name>Shiroi Kiba: White Fang Monogatari</name>
+  </anime>
+  <anime anidbid="2361" tvdbid="254903" defaulttvdbseason="1">
+    <name>Ginga Hyouryuu Vifam</name>
   </anime>
   <anime anidbid="2367" tvdbid="tv special" defaulttvdbseason="1">
     <name>Juugo Shounen Hyouryuuki</name>
@@ -11731,6 +11743,9 @@
   <anime anidbid="4427" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mahou Shoujo Sae</name>
   </anime>
+  <anime anidbid="4428" tvdbid="345113" defaulttvdbseason="0">
+    <name>Licca-chan Fushigi na Fushigi na Yunia Monogatari</name>
+  </anime>
   <anime anidbid="4434" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>California Crisis: Tsuigeki no Hibana</name>
   </anime>
@@ -15418,11 +15433,8 @@
       <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6393" tvdbid="76932" defaulttvdbseason="0">
+  <anime anidbid="6393" tvdbid="76932" defaulttvdbseason="0" episodeoffset="16">
     <name>Ranma 1/2: Nettou Uta Gassen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;2-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6394" tvdbid="72459" defaulttvdbseason="0" imdbid="tt1380954">
     <name>Sonic: Night of the WereHog - Sonic &amp; Chip Kyoufu no Kan</name>
@@ -20762,6 +20774,9 @@
   <anime anidbid="8679" tvdbid="255206" defaulttvdbseason="1">
     <name>Poyopoyo Kansatsu Nikki</name>
   </anime>
+  <anime anidbid="8680" tvdbid="440409" defaulttvdbseason="1">
+    <name>Gensei Shugoshin P-hyoro Ikka</name>
+  </anime>
   <anime anidbid="8681" tvdbid="257765" defaulttvdbseason="1">
     <name>Kuroko no Baske</name>
   </anime>
@@ -20998,7 +21013,7 @@
   <anime anidbid="8769" tvdbid="music video" defaulttvdbseason="1">
     <name>Evidence</name>
   </anime>
-  <anime anidbid="8770" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="8770" tvdbid="273042" defaulttvdbseason="0">
     <name>Dororo</name>
   </anime>
   <anime anidbid="8773" tvdbid="OVA" defaulttvdbseason="1">
@@ -31458,6 +31473,9 @@
   <anime anidbid="15278" tvdbid="399147" defaulttvdbseason="1">
     <name>Bishounen Tanteidan</name>
   </anime>
+  <anime anidbid="15279" tvdbid="78923" defaulttvdbseason="0" episodeoffset="16">
+    <name>Kimagure Orange Road: Futari no Koi no Repertoire</name>
+  </anime>
   <anime anidbid="15280" tvdbid="374495" defaulttvdbseason="1">
     <name>Hulaing Babies Petit</name>
   </anime>
@@ -34609,6 +34627,9 @@
   </anime>
   <anime anidbid="18196" tvdbid="389459" defaulttvdbseason="0" tmdbid="1179822">
     <name>Burn the Witch #0.8</name>
+  </anime>
+  <anime anidbid="18199" tvdbid="305074" defaulttvdbseason="0" episodeoffset="14">
+    <name>Boku no Hero Academia: Yuuei Heroes Battle</name>
   </anime>
   <anime anidbid="18202" tvdbid="439759" defaulttvdbseason="1">
     <name>Gekkan Mousou Kagaku</name>
