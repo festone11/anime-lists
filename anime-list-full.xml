@@ -5132,7 +5132,7 @@
   <anime anidbid="1405" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kaette Kita Court no Naka no Tenshi-tachi</name>
   </anime>
-  <anime anidbid="1406" tvdbid="OVA" defaulttvdbseason="1">
+  <anime anidbid="1406" tvdbid="OVA" defaulttvdbseason="1" tmdbid="172347">
     <name>Warau Hyouteki</name>
   </anime>
   <anime anidbid="1407" tvdbid="hentai" defaulttvdbseason="1">
@@ -9350,7 +9350,7 @@
   <anime anidbid="2796" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0141545">
     <name>Lightning Trap: Leina &amp; Laika</name>
   </anime>
-  <anime anidbid="2797" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="2797" tvdbid="OVA" defaulttvdbseason="1" tmdbid="171942">
     <name>X Densha de Ikou</name>
   </anime>
   <anime anidbid="2798" tvdbid="87031" defaulttvdbseason="1">
@@ -18416,7 +18416,7 @@
   <anime anidbid="6759" tvdbid="tv special" defaulttvdbseason="1" tmdbid="783187">
     <name>Aoi Hitomi no Onnanoko no Ohanashi</name>
   </anime>
-  <anime anidbid="6760" tvdbid="tv special" defaulttvdbseason="1">
+  <anime anidbid="6760" tvdbid="tv special" defaulttvdbseason="1" tmdbid="737073">
     <name>Yakeato no, Okashi no Ki</name>
   </anime>
   <anime anidbid="6761" tvdbid="tv special" defaulttvdbseason="1" tmdbid="795977">
@@ -23022,7 +23022,7 @@
   <anime anidbid="8523" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hakoiri Shoujo: Virgin Territory</name>
   </anime>
-  <anime anidbid="8524" tvdbid="other" defaulttvdbseason="1">
+  <anime anidbid="8524" tvdbid="other" defaulttvdbseason="1" tmdbid="744791">
     <name>Waza no Tabibito</name>
   </anime>
   <anime anidbid="8525" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
@@ -33044,6 +33044,9 @@
   <anime anidbid="14162" tvdbid="341295" defaulttvdbseason="1">
     <name>Mo Dao Zushi: Qianchen Pian</name>
   </anime>
+  <anime anidbid="14164" tvdbid="movie" defaulttvdbseason="1" tmdbid="600227">
+    <name>Yuukai Anna</name>
+  </anime>
   <anime anidbid="14165" tvdbid="342010" defaulttvdbseason="2">
     <name>3D Kanojo: Real Girl (2019)</name>
   </anime>
@@ -35102,6 +35105,9 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="2"/>
     </mapping-list>
   </anime>
+  <anime anidbid="15637" tvdbid="music video" defaulttvdbseason="1" imdbid="tt12723626">
+    <name>Xpice</name>
+  </anime>
   <anime anidbid="15644" tvdbid="388248" defaulttvdbseason="1">
     <name>Chuan Shu Zijiu Zhinan</name>
   </anime>
@@ -36871,6 +36877,9 @@
   </anime>
   <anime anidbid="17330" tvdbid="419283" defaulttvdbseason="1">
     <name>Cool Doji Danshi</name>
+  </anime>
+  <anime anidbid="17334" tvdbid="movie" defaulttvdbseason="1" tmdbid="1047041">
+    <name>Meitantei Conan: Kurogane no Submarine</name>
   </anime>
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1">
     <name>Yoru wa Neko to Issho</name>
