@@ -1745,7 +1745,7 @@
       <mapping anidbseason="1" tvdbseason="3" start="58" end="82" offset="-57"/>
       <mapping anidbseason="1" tvdbseason="4" start="83" end="109" offset="-82"/>
       <mapping anidbseason="1" tvdbseason="5" start="110" end="122" offset="-109"/>
-      <mapping anidbseason="1" tvdbseason="5" start="123" end="152" offset="-122">
+      <mapping anidbseason="1" tvdbseason="5" start="123" end="152" offset="-122"/>
     </mapping-list>
   </anime>
   <anime anidbid="387" tvdbid="73670" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
