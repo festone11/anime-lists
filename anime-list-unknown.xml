@@ -60,9 +60,6 @@
   <anime anidbid="1700" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sore Ike! Zukkoke Sanningumi</name>
   </anime>
-  <anime anidbid="1707" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Yuusha Exkaiser</name>
-  </anime>
   <anime anidbid="1710" tvdbid="unknown" defaulttvdbseason="1">
     <name>Densetsu no Yuusha Da Garn</name>
   </anime>
@@ -396,9 +393,6 @@
   <anime anidbid="2447" tvdbid="unknown" defaulttvdbseason="1">
     <name>Oira Uchuu no Tankoufu</name>
   </anime>
-  <anime anidbid="2459" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Yuusha Shirei Dagwon</name>
-  </anime>
   <anime anidbid="2460" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ikinari Dagon</name>
   </anime>
@@ -665,9 +659,6 @@
   </anime>
   <anime anidbid="3147" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nine</name>
-  </anime>
-  <anime anidbid="3153" tvdbid="unknown" defaulttvdbseason="0">
-    <name>Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen</name>
   </anime>
   <anime anidbid="3154" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ougon Yuusha Goldran</name>

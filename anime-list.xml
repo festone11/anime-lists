@@ -6016,6 +6016,9 @@
   <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1">
     <name>Space Travelers The Animation</name>
   </anime>
+  <anime anidbid="1707" tvdbid="351995" defaulttvdbseason="1">
+    <name>Yuusha Exkaiser</name>
+  </anime>
   <anime anidbid="1708" tvdbid="261468" defaulttvdbseason="1">
     <name>Pugyuru</name>
   </anime>
@@ -8047,6 +8050,9 @@
   <anime anidbid="2457" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0097411">
     <name>Hyper-Psychic Geo Garaga</name>
   </anime>
+  <anime anidbid="2459" tvdbid="335070" defaulttvdbseason="1">
+    <name>Yuusha Shirei Dagwon</name>
+  </anime>
   <anime anidbid="2461" tvdbid="82595" defaulttvdbseason="0">
     <name>Shin Seiki GPX Cyber Formula Earlydays Renewal</name>
   </anime>
@@ -9575,6 +9581,9 @@
   <anime anidbid="3152" tvdbid="93721" defaulttvdbseason="3">
     <name>Yuusha Ou GaoGaiGar Final Grand Glorious Gathering</name>
   </anime>
+  <anime anidbid="3153" tvdbid="335070" defaulttvdbseason="0">
+    <name>Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen</name>
+  </anime>
   <anime anidbid="3157" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kunoichi Gakuen Ninpou Chou</name>
   </anime>
@@ -10552,10 +10561,10 @@
   <anime anidbid="3630" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1740055">
     <name>Ushiro no Shoumen Daare</name>
   </anime>
-  <anime anidbid="3633" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0295420">
+  <anime anidbid="3633" tvdbid="195161" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0295420">
     <name>Adesugata Mahou no Sannin Musume</name>
   </anime>
-  <anime anidbid="3634" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0295412">
+  <anime anidbid="3634" tvdbid="157691" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0295412">
     <name>Majokko Club Yonin-gumi: A Kuukan kara no Alien X</name>
   </anime>
   <anime anidbid="3636" tvdbid="227501" defaulttvdbseason="1">
@@ -10824,23 +10833,20 @@
   <anime anidbid="4006" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken</name>
   </anime>
-  <anime anidbid="4011" tvdbid="74504" defaulttvdbseason="1">
+  <anime anidbid="4011" tvdbid="74504" defaulttvdbseason="2">
     <name>Mahou no Princess Minky Momo: Yume o Dakishimete</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-63;2-64;3-65;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="5"/>
     </mapping-list>
   </anime>
   <anime anidbid="4012" tvdbid="74504" defaulttvdbseason="0" imdbid="tt0160507">
     <name>Fairy Princess Minky Momo: Yume no Naka no Rondo</name>
   </anime>
-  <anime anidbid="4013" tvdbid="74504" defaulttvdbseason="0" imdbid="tt0160506">
+  <anime anidbid="4013" tvdbid="74504" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0160506">
     <name>Minky Momo in Yume ni Kakeru Hashi</name>
   </anime>
-  <anime anidbid="4014" tvdbid="74504" defaulttvdbseason="0" imdbid="tt0160505">
+  <anime anidbid="4014" tvdbid="74504" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0160505">
     <name>Minky Momo in Tabidachi no Eki</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4015" tvdbid="75112" defaulttvdbseason="0" imdbid="unknown">
     <name>Dr. Slump: Arale no Bikkuriman</name>
@@ -13220,11 +13226,8 @@
   <anime anidbid="5108" tvdbid="109061" defaulttvdbseason="1">
     <name>Shigurui</name>
   </anime>
-  <anime anidbid="5109" tvdbid="195161" defaulttvdbseason="0" imdbid="tt0291318">
+  <anime anidbid="5109" tvdbid="195161" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0291318">
     <name>Mahou no Tenshi Creamy Mami: Lovely Serenade</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="5110" tvdbid="OVA" defaulttvdbseason="1" tmdbid="62450">
     <name>Nasu: Suitcase no Wataridori</name>
@@ -13235,11 +13238,8 @@
   <anime anidbid="5113" tvdbid="80470" defaulttvdbseason="1">
     <name>Mononoke</name>
   </anime>
-  <anime anidbid="5114" tvdbid="195161" defaulttvdbseason="0" imdbid="tt0291122">
+  <anime anidbid="5114" tvdbid="195161" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0291122">
     <name>Mahou no Tenshi Creamy Mami: Curtain Call</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="1">
     <name>Aria the OVA: Arietta</name>
@@ -17190,9 +17190,6 @@
   </anime>
   <anime anidbid="7072" tvdbid="157691" defaulttvdbseason="0">
     <name>Mahou no Star Magical Emi Finale! Finale! Soushuuhen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7074" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Nihon Mukashi Banashi Warashibe Chouja</name>
@@ -17894,11 +17891,8 @@
   <anime anidbid="7387" tvdbid="72281" defaulttvdbseason="0" episodeoffset="1">
     <name>Black Jack: Sora kara Kita Kodomo</name>
   </anime>
-  <anime anidbid="7388" tvdbid="74504" defaulttvdbseason="0" imdbid="tt0314350">
+  <anime anidbid="7388" tvdbid="74504" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0314350">
     <name>Mahou no Princess Minky Momo vs Mahou no Tenshi Creamy Mami</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7389" tvdbid="141121" defaulttvdbseason="1">
     <name>Rainbow: Nisha Rokubou no Shichinin</name>
@@ -17996,11 +17990,8 @@
   <anime anidbid="7429" tvdbid="web" defaulttvdbseason="1" imdbid="unknown">
     <name>Superflat First Love</name>
   </anime>
-  <anime anidbid="7430" tvdbid="157691" defaulttvdbseason="0">
+  <anime anidbid="7430" tvdbid="157691" defaulttvdbseason="0" episodeoffset="2">
     <name>Mahou no Star Magical Emi: Kumo Hikaru</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7431" tvdbid="231961" defaulttvdbseason="0">
     <name>Henzemi</name>
