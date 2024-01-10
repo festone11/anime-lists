@@ -2,14 +2,15 @@ name: Validate XML
 on:
   pull_request:
     branches: ['master']
+    paths:
+      - anime-list-master.xml
+      - anime-movieset-list.xml
   workflow_dispatch:
 jobs:
   validate-xml:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
+      - uses: actions/checkout@v4
       - name: Validate XML
         run: |
           sudo apt-get update
