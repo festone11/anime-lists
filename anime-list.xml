@@ -29709,6 +29709,9 @@
       <mapping anidbseason="1" tvdbseason="0">;3-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="13806" tvdbid="345341" defaulttvdbseason="1">
+    <name>Amai Choubatsu: Watashi wa Kanshu Sen'you Pet</name>
+  </anime>
   <anime anidbid="13807" tvdbid="275582" defaulttvdbseason="4">
     <name>Youkai Watch: Shadow Side</name>
   </anime>
