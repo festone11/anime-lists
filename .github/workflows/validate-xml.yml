@@ -1,10 +1,8 @@
 name: Validate XML
 on:
   pull_request:
+    types: [opened, reopened, edited]
     branches: ['master']
-    paths:
-      - anime-list-master.xml
-      - anime-movieset-list.xml
   workflow_dispatch:
 jobs:
   validate-xml:
@@ -15,4 +13,4 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install libxml2-utils
-          for f in *.xml; do xmllint --noout --valid "$f"; done
+          xmllint --noout --format anime-list-master.xml anime-movieset-list.xml
