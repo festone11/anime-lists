@@ -6450,7 +6450,7 @@
   <anime anidbid="1853" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Olympus Guardian</name>
   </anime>
-  <anime anidbid="1854" tvdbid="403107" defaulttvdbseason="1">
+  <anime anidbid="1854" tvdbid="442146" defaulttvdbseason="1">
     <name>Akuma-kun</name>
   </anime>
   <anime anidbid="1855" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
@@ -10612,6 +10612,9 @@
   </anime>
   <anime anidbid="3630" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1740055">
     <name>Ushiro no Shoumen Daare</name>
+  </anime>
+  <anime anidbid="3631" tvdbid="445336" defaulttvdbseason="1">
+    <name>Space Oz no Bouken</name>
   </anime>
   <anime anidbid="3633" tvdbid="195161" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0295420">
     <name>Adesugata Mahou no Sannin Musume</name>
