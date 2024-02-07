@@ -29472,7 +29472,7 @@
   <anime anidbid="11455" tvdbid="hentai" defaulttvdbseason="1">
     <name>Busou Shoujotai: Blade Briders The Animation</name>
   </anime>
-  <anime anidbid="11459" tvdbid="279980" defaulttvdbseason="2">
+  <anime anidbid="11459" tvdbid="303145" defaulttvdbseason="1">
     <name>Garo: Guren no Tsuki</name>
   </anime>
   <anime anidbid="11462" tvdbid="OVA" defaulttvdbseason="1" tmdbid="685308">
@@ -35378,6 +35378,9 @@
   <anime anidbid="15795" tvdbid="390832" defaulttvdbseason="1">
     <name>Tsuki ga Michibiku Isekai Douchuu</name>
   </anime>
+  <anime anidbid="15801" tvdbid="movie" defaulttvdbseason="1" tmdbid="756234" imdbid="tt15420852">
+    <name>Gekijouban Tsurune: Hajimari no Issha</name>
+  </anime>
   <anime anidbid="15804" tvdbid="400245" defaulttvdbseason="1">
     <name>Hetalia: World Stars</name>
   </anime>
@@ -36987,6 +36990,9 @@
   <anime anidbid="17341" tvdbid="419502" defaulttvdbseason="1">
     <name>Hyouken no Majutsushi ga Sekai o Suberu</name>
   </anime>
+  <anime anidbid="17343" tvdbid="movie" defaulttvdbseason="1" tmdbid="968868,968870" imdbid="tt19861160,tt28284638">
+    <name>Gekijouban Bishoujo Senshi Sailor Moon Cosmos</name>
+  </anime>
   <anime anidbid="17344" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sleepless: A Midsummer Night's Dream The Animation</name>
   </anime>
@@ -37089,6 +37095,9 @@
   <anime anidbid="17473" tvdbid="421514" defaulttvdbseason="1">
     <name>Koori Zokusei Danshi to Cool na Douryou Joshi</name>
   </anime>
+  <anime anidbid="17474" tvdbid="movie" defaulttvdbseason="1" tmdbid="991190" imdbid="tt21105546">
+    <name>Kin no Kuni Mizu no Kuni</name>
+  </anime>
   <anime anidbid="17475" tvdbid="421676" defaulttvdbseason="1">
     <name>Akiba Meido Sensou</name>
   </anime>
@@ -37127,6 +37136,9 @@
   </anime>
   <anime anidbid="17498" tvdbid="422039" defaulttvdbseason="1">
     <name>Kanojo ga Koushaku-tei ni Itta Riyuu</name>
+  </anime>
+  <anime anidbid="17500" tvdbid="movie" defaulttvdbseason="1" tmdbid="1030587" imdbid="tt21223380">
+    <name>Eiga Doraemon: Nobita to Sora no Utopia</name>
   </anime>
   <anime anidbid="17501" tvdbid="421855" defaulttvdbseason="1">
     <name>Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su</name>
@@ -37627,7 +37639,7 @@
   <anime anidbid="17887" tvdbid="431804" defaulttvdbseason="1">
     <name>Kawagoe Boys Sing</name>
   </anime>
-  <anime anidbid="17890" tvdbid="movie" defaulttvdbseason="1" tmdbid="1094448">
+  <anime anidbid="17890" tvdbid="movie" defaulttvdbseason="1" tmdbid="1094448" imdbid="tt27187061">
     <name>Eiga Precure All Stars F</name>
   </anime>
   <anime anidbid="17898" tvdbid="music video" defaulttvdbseason="1" tmdbid="1102431">
@@ -37864,6 +37876,9 @@
   <anime anidbid="18229" tvdbid="440481" defaulttvdbseason="1">
     <name>Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou Sareru</name>
   </anime>
+  <anime anidbid="18248" tvdbid="245821" defaulttvdbseason="16">
+    <name>Cardfight!! Vanguard: DivineZ</name>
+  </anime>
   <anime anidbid="18279" tvdbid="294002" defaulttvdbseason="0" episodeoffset="59">
     <name>Ple Ple Pleiades x Kage Jitsu!</name>
   </anime>
@@ -37881,5 +37896,11 @@
   </anime>
   <anime anidbid="18336" tvdbid="355774" defaulttvdbseason="4">
     <name>Dr. Stone: Science Future</name>
+  </anime>
+  <anime anidbid="18402" tvdbid="271591" defaulttvdbseason="12">
+    <name>Yami Shibai 12</name>
+  </anime>
+  <anime anidbid="18409" tvdbid="444655" defaulttvdbseason="1">
+    <name>Wangzhe Rongyao: Rongyao Zhi Zhang</name>
   </anime>
 </anime-list>
