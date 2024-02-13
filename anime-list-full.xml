@@ -9477,13 +9477,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2812" tvdbid="71585" defaulttvdbseason="0" tmdbid="75177">
+  <anime anidbid="2812" tvdbid="71585" defaulttvdbseason="0" tmdbid="75177" imdbid="tt4130788">
     <name>Turn A Gundam II: Gekkou Chou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2813" tvdbid="71585" defaulttvdbseason="0" tmdbid="75175">
+  <anime anidbid="2813" tvdbid="71585" defaulttvdbseason="0" tmdbid="75175" imdbid="tt4130762">
     <name>Turn A Gundam I: Chikyuukou</name>
   </anime>
   <anime anidbid="2814" tvdbid="85230" defaulttvdbseason="0" imdbid="tt0204704">
@@ -37821,6 +37821,9 @@
   </anime>
   <anime anidbid="18127" tvdbid="380207" defaulttvdbseason="4">
     <name>Wan Sheng Jie 4</name>
+  </anime>
+  <anime anidbid="18132" tvdbid="420280" defaulttvdbseason="1">
+    <name>Ninja Kamui</name>
   </anime>
   <anime anidbid="18146" tvdbid="movie" defaulttvdbseason="1" tmdbid="1177096,1211716">
     <name>Oomuro-ke</name>
