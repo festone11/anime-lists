@@ -11463,7 +11463,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="3598" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Meitantei Conan: Hyouteki wa Kogoro! Shounen Tanteidan Maruhi Chousa</name>
+    <name>Meitantei Conan: Target wa Kogorou!! Shounen Tanteidan Maruhi Report</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
@@ -50356,9 +50356,6 @@
   <anime anidbid="18185" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sweet and Hot</name>
   </anime>
-  <anime anidbid="18186" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shen Lan Qi Yu Wushuang Zhu: Tianmo Pian - Ding Dang</name>
-  </anime>
   <anime anidbid="18187" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" tmdbid="1189199" imdbid="">
     <name>Kizumonogatari: Koyomi Vamp</name>
   </anime>
@@ -51228,5 +51225,29 @@
   </anime>
   <anime anidbid="18489" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dubu Wangu 2</name>
+  </anime>
+  <anime anidbid="18490" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kenka Dokugaku</name>
+  </anime>
+  <anime anidbid="18491" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>NEET Kunoichi to Naze ka Dousei Hajimemashita</name>
+  </anime>
+  <anime anidbid="18492" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shibuya Hachi</name>
+  </anime>
+  <anime anidbid="18493" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Look Back</name>
+  </anime>
+  <anime anidbid="18494" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Midareuchi</name>
+  </anime>
+  <anime anidbid="18495" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Brand New Day</name>
+  </anime>
+  <anime anidbid="18496" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shiunji-ke no Kodomo-tachi</name>
+  </anime>
+  <anime anidbid="18497" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tensei Akujo no Kurorekishi</name>
   </anime>
 </anime-list>
