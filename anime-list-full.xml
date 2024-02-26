@@ -37901,6 +37901,12 @@
   <anime anidbid="18279" tvdbid="294002" defaulttvdbseason="0" episodeoffset="59">
     <name>Ple Ple Pleiades x Kage Jitsu!</name>
   </anime>
+  <anime anidbid="18280" tvdbid="376144" defaulttvdbseason="0" tmdbid="1220441" imdbid="tt30827040">
+    <name>Great Pretender: Razbliuto</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="18288" tvdbid="442690" defaulttvdbseason="1">
     <name>Meitou "Isekai no Yu" Kaitaku-ki: Arafou Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku Deshita</name>
   </anime>
