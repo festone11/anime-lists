@@ -50633,8 +50633,11 @@
   <anime anidbid="18279" tvdbid="294002" defaulttvdbseason="0" episodeoffset="59" tmdbid="" imdbid="">
     <name>Ple Ple Pleiades x Kage Jitsu!</name>
   </anime>
-  <anime anidbid="18280" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18280" tvdbid="376144" defaulttvdbseason="0" episodeoffset="" tmdbid="1220441" imdbid="tt30827040">
     <name>Great Pretender: Razbliuto</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="18281" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Debu to Love to Ayamachi to!</name>
