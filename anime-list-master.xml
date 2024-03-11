@@ -16251,8 +16251,11 @@
   <anime anidbid="5746" tvdbid="81849" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Golgo 13 (2008)</name>
   </anime>
-  <anime anidbid="5747" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5747" tvdbid="267881" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koala Boy Kocky</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="3">;1-1+2;2-3+4;3-5+6;4-7+8;5-9+10;6-11+12;7-13+14;8-15+16;9-17+18;10-19+20;11-21+22;12-23+24;13-25+26;14-27+28;15-29+30;16-31+32;17-33+34;18-35+36;19-37+38;20-39+40;21-41+42;22-43+44;23-45+46;24-47+48;25-49+50;26-51+52;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5749" tvdbid="80158" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Ikkitousen: Great Guardians</name>
@@ -26207,7 +26210,7 @@
   <anime anidbid="9395" tvdbid="267705" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Choujigen Game Neptune The Animation</name>
   </anime>
-  <anime anidbid="9396" tvdbid="other" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9396" tvdbid="195161" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Pony Metal U-GAIM Promotion Film</name>
   </anime>
   <anime anidbid="9397" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
