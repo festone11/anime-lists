@@ -37444,6 +37444,12 @@
   <anime anidbid="17706" tvdbid="344220" defaulttvdbseason="3">
     <name>Uma Musume: Pretty Derby Season 3</name>
   </anime>
+  <anime anidbid="17709" tvdbid="352408" defaulttvdbseason="3">
+    <name>Tensei Shitara Slime Datta Ken (2024)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-13;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="17711" tvdbid="427027" defaulttvdbseason="1">
     <name>The Marginal Service</name>
   </anime>
