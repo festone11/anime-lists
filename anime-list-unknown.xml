@@ -1038,9 +1038,6 @@
   <anime anidbid="4007" tvdbid="unknown" defaulttvdbseason="1">
     <name>Maji</name>
   </anime>
-  <anime anidbid="4009" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Moeru! Onii-san</name>
-  </anime>
   <anime anidbid="4010" tvdbid="unknown" defaulttvdbseason="0">
     <name>Moeru! Onii-san (1989)</name>
   </anime>
@@ -2309,9 +2306,6 @@
   </anime>
   <anime anidbid="7455" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Gegege no Kitarou: Kitarou no Yuurei Densha</name>
-  </anime>
-  <anime anidbid="7463" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Ipponbouchou Mantarou</name>
   </anime>
   <anime anidbid="7464" tvdbid="unknown" defaulttvdbseason="1">
     <name>Midoriyama Koukou Koushien Hen</name>
