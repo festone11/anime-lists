@@ -37789,6 +37789,9 @@
   </anime>
   <anime anidbid="17931" tvdbid="305074" defaulttvdbseason="7">
     <name>Boku no Hero Academia (2024)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="15"/>
+    </mapping-list>
   </anime>
   <anime anidbid="17936" tvdbid="432805" defaulttvdbseason="1">
     <name>Kono Sekai wa Fukanzen Sugiru</name>
