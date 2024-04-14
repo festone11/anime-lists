@@ -10138,7 +10138,7 @@
     <name>Manga Mitokoumon</name>
   </anime>
   <anime anidbid="3093" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ijiwaru Baa-san (1996)</name>
+    <name>Ijiwaru Baasan (1996)</name>
   </anime>
   <anime anidbid="3094" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ippatsu Kanta-kun</name>
@@ -12078,7 +12078,7 @@
     <name>Shippuu! Iron Leaguer</name>
   </anime>
   <anime anidbid="4038" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ijiwaru Baa-san</name>
+    <name>Ijiwaru Baasan</name>
   </anime>
   <anime anidbid="4039" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Itsumo Kokoro ni Taiyou o!</name>
@@ -28111,7 +28111,7 @@
     <name>Koe o Kikasete</name>
   </anime>
   <anime anidbid="10105" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Genkichi Jii-san to Kogitsune</name>
+    <name>Genkichi Jiisan to Kogitsune</name>
   </anime>
   <anime anidbid="10107" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ikitemasu, 15-sai.</name>
@@ -42439,7 +42439,7 @@
     <name>Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun</name>
   </anime>
   <anime anidbid="15316" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Komatta Jii-san</name>
+    <name>Komatta Jiisan</name>
   </anime>
   <anime anidbid="15317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Marumaru Manul</name>
@@ -44006,9 +44006,6 @@
   </anime>
   <anime anidbid="15882" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bite-Choicar</name>
-  </anime>
-  <anime anidbid="15883" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Fanren Xiuxian Chuan: Fanren Feng Qi Tian Nan Er</name>
   </anime>
   <anime anidbid="15884" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Haruko no Bouken</name>
@@ -49322,7 +49319,7 @@
     <name>Yoru wa Neko to Issho (2023)</name>
   </anime>
   <anime anidbid="17815" tvdbid="429536" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kaii to Otome to Kamigakushi</name>
+    <name>Kaii to Otome to Kamikakushi</name>
   </anime>
   <anime anidbid="17816" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Fei Ren Zai Di Er Ji</name>
@@ -50289,7 +50286,7 @@
     <name>Houkago no Breath</name>
   </anime>
   <anime anidbid="18153" tvdbid="438124" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Jii-san Baa-san Wakagaeru</name>
+    <name>Jiisan Baasan Wakagaeru</name>
   </anime>
   <anime anidbid="18154" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rekishi ni Nokoru Akujo ni Naru zo</name>
@@ -51356,9 +51353,6 @@
   <anime anidbid="18525" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>OVA Kyonyuu Onna Shikan Sennou Saimin</name>
   </anime>
-  <anime anidbid="18526" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shuumatsu Hospital ~ Tenshi no Koto ~</name>
-  </anime>
   <anime anidbid="18527" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tensui no Sakuna-hime</name>
   </anime>
@@ -51517,5 +51511,20 @@
   </anime>
   <anime anidbid="18583" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Teogonia</name>
+  </anime>
+  <anime anidbid="18584" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Meitantei Conan vs. Kaitou Kid</name>
+  </anime>
+  <anime anidbid="18585" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>San Xiuzhi Wang</name>
+  </anime>
+  <anime anidbid="18586" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hu Yao Xiao Hongniang (2024)</name>
+  </anime>
+  <anime anidbid="18587" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Boku ni Harem Sexfriend ga Dekita Riyuu</name>
+  </anime>
+  <anime anidbid="18588" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ito o Yoru</name>
   </anime>
 </anime-list>
