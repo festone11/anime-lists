@@ -5627,7 +5627,7 @@
     <name>Korogashi-ya no Pun</name>
   </anime>
   <anime anidbid="13864" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>UFO Nitsukamatta Kodomo-tachi</name>
+    <name>UFO ni Tsukamatta Kodomo-tachi</name>
   </anime>
   <anime anidbid="13865" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Suna Asobi</name>
@@ -10397,7 +10397,7 @@
     <name>Renjian Zui Deyi</name>
   </anime>
   <anime anidbid="16988" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yao Shen Ji 5</name>
+    <name>Yao Shen Ji Di Wu Ji</name>
   </anime>
   <anime anidbid="16989" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xie Wang Zhui Qi: Shennu Guilai</name>
@@ -10625,7 +10625,7 @@
     <name>Yuan Long Di San Ji</name>
   </anime>
   <anime anidbid="17119" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xiao Bing Chuanqi</name>
+    <name>Xiaobing Chuanqi</name>
   </anime>
   <anime anidbid="17120" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xin Qin Shi Mingyue: Bai Bu Fei Jian</name>
@@ -11720,10 +11720,10 @@
     <name>Chao Xian Lie Bing-kai Neng</name>
   </anime>
   <anime anidbid="17835" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yao Shen Ji 6</name>
+    <name>Yao Shen Ji Di Liu Ji</name>
   </anime>
   <anime anidbid="17836" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yao Shen Ji 7</name>
+    <name>Yao Shen Ji Di Qi Ji</name>
   </anime>
   <anime anidbid="17837" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ensemble Stars!! Tsuioku Selection "Element"</name>
@@ -11912,7 +11912,7 @@
     <name>Trigun Stampede (Kanketsuhen)</name>
   </anime>
   <anime anidbid="17954" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Blue Lock 2</name>
+    <name>Blue Lock (2024)</name>
   </anime>
   <anime anidbid="17956" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>One Piece Special Edition</name>
@@ -13016,7 +13016,7 @@
     <name>Sheng Zu</name>
   </anime>
   <anime anidbid="18447" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Rennyu Order The Animation</name>
+    <name>Rennyu Order: Okawari The Animation</name>
   </anime>
   <anime anidbid="18448" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mebuki The Animation</name>
@@ -13451,7 +13451,7 @@
     <name>Enter the Garden</name>
   </anime>
   <anime anidbid="18606" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yao Shen Ji 8</name>
+    <name>Yao Shen Ji Di Ba Ji</name>
   </anime>
   <anime anidbid="18607" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kakuriyo no Yadomeshi (2025)</name>
@@ -13465,5 +13465,44 @@
   <anime anidbid="18610" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ikoku Nikki</name>
   </anime>
+  <anime anidbid="18612" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yaiba</name>
+  </anime>
+  <anime anidbid="18613" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kokokara Hajimeru Monogatari</name>
+  </anime>
+  <anime anidbid="18614" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiuluo Wu Shen</name>
+  </anime>
+  <anime anidbid="18615" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tougen Anki</name>
+  </anime>
+  <anime anidbid="18616" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shin Yaranai ka</name>
+  </anime>
+  <anime anidbid="18618" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Awajima Hyakkei</name>
+  </anime>
+  <anime anidbid="18619" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Rennyuu Order: Okawari The Animation</name>
+  </anime>
+  <anime anidbid="18620" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Izure Saikyou no Renkinjutsushi?</name>
+  </anime>
+  <anime anidbid="18621" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kakushite! Makina-san!!</name>
+  </anime>
+  <anime anidbid="18622" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kujima Utaeba Ie Hororo</name>
+  </anime>
+  <anime anidbid="18623" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Harinezumi no Ruchika</name>
+  </anime>
+  <anime anidbid="18624" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hui Ming: Fenghuo San Yue</name>
+  </anime>
+  <anime anidbid="18625" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bubble de House de *** The Animation</name>
+  </anime>
 </anime-list>
-<!--4482 titles remaining-->
+<!--4495 titles remaining-->
