@@ -34815,7 +34815,7 @@
     <name>Anata wa Watashi no Mono: Do S Kanojo to Do M Kareshi</name>
   </anime>
   <anime anidbid="12636" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Toriko no Kusari: Shojo-tachi o Yogosu Midara na Kusabi</name>
+    <name>Toriko no Kusari: Shojo-tachi o Kegasu Midara na Kusabi</name>
   </anime>
   <anime anidbid="12637" tvdbid="327597" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Centaur no Nayami</name>
@@ -49737,7 +49737,7 @@
     <name>Blockbusters</name>
   </anime>
   <anime anidbid="17962" tvdbid="305075" defaulttvdbseason="3" episodeoffset="13" tmdbid="" imdbid="">
-    <name>Bungou Stray Dogs (2023, TV)</name>
+    <name>Bungou Stray Dogs (2023) TV</name>
   </anime>
   <anime anidbid="17963" tvdbid="433088" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Wind Breaker</name>
@@ -51117,7 +51117,7 @@
     <name>Sheng Zu</name>
   </anime>
   <anime anidbid="18447" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Rennyu Order: Okawari The Animation</name>
+    <name>Rennyuu Order: Okawari The Animation</name>
   </anime>
   <anime anidbid="18448" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mebuki The Animation</name>
@@ -51602,9 +51602,6 @@
   <anime anidbid="18618" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Awajima Hyakkei</name>
   </anime>
-  <anime anidbid="18619" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Rennyuu Order: Okawari The Animation</name>
-  </anime>
   <anime anidbid="18620" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Izure Saikyou no Renkinjutsushi?</name>
   </anime>
@@ -51652,5 +51649,53 @@
   </anime>
   <anime anidbid="18635" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hong Huang Ling Zun</name>
+  </anime>
+  <anime anidbid="18636" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hanazakari no Kimitachi e</name>
+  </anime>
+  <anime anidbid="18637" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Maarui Kanojo to Zannen na Kareshi</name>
+  </anime>
+  <anime anidbid="18638" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dia no Ace (Zokuhen)</name>
+  </anime>
+  <anime anidbid="18639" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Muzik Tiger</name>
+  </anime>
+  <anime anidbid="18640" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sanguo Yanyi Di San Ji</name>
+  </anime>
+  <anime anidbid="18641" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shen Ji Long Wei (Xia Ji)</name>
+  </anime>
+  <anime anidbid="18642" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yong Zhe Da Maoxian</name>
+  </anime>
+  <anime anidbid="18643" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sayonara Lara</name>
+  </anime>
+  <anime anidbid="18644" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ninja Skooler</name>
+  </anime>
+  <anime anidbid="18645" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fengyun Bian</name>
+  </anime>
+  <anime anidbid="18646" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Darwin Jihen</name>
+  </anime>
+  <anime anidbid="18647" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Reginetta-san no Bouken</name>
+  </anime>
+  <anime anidbid="18648" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hyaku m.</name>
+  </anime>
+  <anime anidbid="18649" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hikari ga Shinda Natsu</name>
+  </anime>
+  <anime anidbid="18650" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Housenka</name>
+  </anime>
+  <anime anidbid="18651" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiehou Ta de Shaonu Shidai</name>
   </anime>
 </anime-list>
