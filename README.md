@@ -2,15 +2,14 @@ Anime Lists
 ===========
 
 Anime mapping lists used by:
-  - [AniDB.net [MOD] scrapers](https://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](https://kodi.tv/)
   - [HTTP Anidb Metadata Agent (HAMA)](https://github.com/ZeroQI/Hama.bundle) for [Plex](https://plex.tv)
-  - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
-  - [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
-  - [Ani-Sync Jellyfin Plugin](https://github.com/vosmiic/jellyfin-ani-sync) for [Jellyfin](https://jellyfin.org/)
-  - [JellySeer](https://github.com/Fallenbagel/jellyseerr)
-  - [Overseer](https://github.com/sct/overseerr)
+  - [Ani-Sync](https://github.com/vosmiic/jellyfin-ani-sync) for [Jellyfin](https://jellyfin.org/)
+  - [Kometa](https://github.com/Kometa-Team/Kometa/) (formerly Plex Meta Manager)
+  - [Overseer](https://github.com/sct/overseerr) / [JellySeer](https://github.com/Fallenbagel/jellyseerr)
+  - Fribb's [anime-lists](https://github.com/Fribb/anime-lists) and [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
+  - [AniDB.net Scraper](https://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](https://kodi.tv/)
   
-These lists map information between [AniDB](https://anidb.net), [TheTVDB](https://www.thetvdb.com), [TMDB](https://www.themoviedb.org) and [IMDB](https://www.imdb.com).
+The lists map information from [AniDB](https://anidb.net) to series on [TheTVDB](https://www.thetvdb.com) and movies on [TMDB](https://www.themoviedb.org) and [IMDB](https://www.imdb.com).
 
 The Lists
 ---------
