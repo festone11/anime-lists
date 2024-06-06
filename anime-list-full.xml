@@ -36919,13 +36919,8 @@
   <anime anidbid="17271" tvdbid="406152" defaulttvdbseason="2">
     <name>Hanma Baki: Son of Ogre 2</name>
   </anime>
-  <anime anidbid="17273" tvdbid="418123" defaulttvdbseason="1" tmdbid="1172228,1172229" imdbid="tt28813303,tt28813376">
+  <anime anidbid="17273" tvdbid="movie" defaulttvdbseason="1" tmdbid="1172228,1172229" imdbid="tt28813303,tt28813376">
     <name>Dead Dead Demon's Dededededestruction</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;401-1;</mapping>
-      <mapping anidbseason="0" tvdbseason="1" start="402" end="418" offset="-401"/>
-      <mapping anidbseason="1" tvdbseason="1">;1-1+2+3+4+5+6+7+8+9;2-10+11+12+13+14+15+16+17+18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="17275" tvdbid="402475" defaulttvdbseason="1" episodeoffset="12">
     <name>Orient (2022)</name>
@@ -38148,5 +38143,8 @@
   </anime>
   <anime anidbid="18557" tvdbid="movie" defaulttvdbseason="1" tmdbid="1263421">
     <name>Hanma Baki VS Kengan Ashura</name>
+  </anime>
+  <anime anidbid="18670" tvdbid="418123" defaulttvdbseason="1">
+    <name>Dead Dead Demon's Dededededestruction (Web)</name>
   </anime>
 </anime-list>
