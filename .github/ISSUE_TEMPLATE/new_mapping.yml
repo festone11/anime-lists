@@ -43,6 +43,10 @@ body:
 - type: markdown
   attributes:
     value: 'Search for it: https://www.imdb.com/find?s=tt&ttype=ft&q= _`<movie name>`_'
+- type: textarea
+  attributes:
+    label: Additional Info
+    description: Optional
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
