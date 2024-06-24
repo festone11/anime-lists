@@ -300,9 +300,6 @@
   <anime anidbid="2267" tvdbid="unknown" defaulttvdbseason="3">
     <name>Wagamama Fairy Mirumo de Pon! Wonderful</name>
   </anime>
-  <anime anidbid="2278" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Patalliro! Stardust Keikaku</name>
-  </anime>
   <anime anidbid="2281" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>The Kabocha Wine: Nita no Aijou Monogatari</name>
   </anime>
@@ -1034,9 +1031,6 @@
   </anime>
   <anime anidbid="4007" tvdbid="unknown" defaulttvdbseason="1">
     <name>Maji</name>
-  </anime>
-  <anime anidbid="4010" tvdbid="unknown" defaulttvdbseason="0">
-    <name>Moeru! Onii-san (1989)</name>
   </anime>
   <anime anidbid="4034" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yuukan Club</name>

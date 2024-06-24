@@ -7577,6 +7577,9 @@
   <anime anidbid="2277" tvdbid="95671" defaulttvdbseason="1">
     <name>Manga Aesop Monogatari (1983)</name>
   </anime>
+  <anime anidbid="2278" tvdbid="movie" defaulttvdbseason="1" tmdbid="391590" imdbid="unknown">
+    <name>Patalliro! Stardust Keikaku</name>
+  </anime>
   <anime anidbid="2279" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0125494">
     <name>Shounen Kenya</name>
   </anime>
@@ -10907,11 +10910,14 @@
   <anime anidbid="4005" tvdbid="movie" defaulttvdbseason="0" imdbid="unknown">
     <name>Gekkou no Pierce: Yumemi to Gin no Bara Kishidan</name>
   </anime>
-  <anime anidbid="4006" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="4006" tvdbid="movie" defaulttvdbseason="1" tmdbid="763776" imdbid="unknown">
     <name>Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken</name>
   </anime>
   <anime anidbid="4009" tvdbid="330514" defaulttvdbseason="1">
     <name>Moeru! Onii-san</name>
+  </anime>
+  <anime anidbid="4010" tvdbid="330514" defaulttvdbseason="0" episodeoffset="1">
+    <name>Moeru! Onii-san (1989)</name>
   </anime>
   <anime anidbid="4011" tvdbid="74504" defaulttvdbseason="2">
     <name>Mahou no Princess Minky Momo: Yume o Dakishimete</name>
@@ -11365,7 +11371,7 @@
   <anime anidbid="4185" tvdbid="85153" defaulttvdbseason="1">
     <name>Yume Tsukai</name>
   </anime>
-  <anime anidbid="4186" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="4186" tvdbid="movie" defaulttvdbseason="1" tmdbid="447389" imdbid="unknown">
     <name>Raiyantsuuri no Uta</name>
   </anime>
   <anime anidbid="4187" tvdbid="72454" defaulttvdbseason="0" imdbid="tt0498536">
@@ -11762,7 +11768,7 @@
   <anime anidbid="4353" tvdbid="hentai" defaulttvdbseason="1">
     <name>Seikoujo: Haitoku no Biden Dorei</name>
   </anime>
-  <anime anidbid="4356" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="4356" tvdbid="OVA" defaulttvdbseason="1" tmdbid="166690" imdbid="unknown">
     <name>Nayuta</name>
   </anime>
   <anime anidbid="4357" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
@@ -17220,7 +17226,7 @@
   <anime anidbid="7047" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Mittsu no Kumo</name>
   </anime>
-  <anime anidbid="7048" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="7048" tvdbid="OVA" defaulttvdbseason="1" tmdbid="1227707" imdbid="unknown">
     <name>Mellow</name>
   </anime>
   <anime anidbid="7049" tvdbid="75141" defaulttvdbseason="0" imdbid="unknown">
@@ -35089,6 +35095,9 @@
   </anime>
   <anime anidbid="18303" tvdbid="442084" defaulttvdbseason="1">
     <name>Modaete yo, Adam-kun</name>
+  </anime>
+  <anime anidbid="18305" tvdbid="443124" defaulttvdbseason="1">
+    <name>Rising Impact</name>
   </anime>
   <anime anidbid="18307" tvdbid="movie" defaulttvdbseason="1" tmdbid="1250784">
     <name>Kuramerukagari</name>
