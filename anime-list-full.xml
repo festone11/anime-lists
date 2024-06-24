@@ -37573,6 +37573,9 @@
   <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
     <name>Oemo Jisang Juui</name>
   </anime>
+  <anime anidbid="17760" tvdbid="428168" defaulttvdbseason="1">
+    <name>2.5 Jigen no Ririsa</name>
+  </anime>
   <anime anidbid="17762" tvdbid="movie" defaulttvdbseason="1" tmdbid="1059572">
     <name>Shin Jigen! Crayon Shin-chan the Movie: Chounouryoku Daikessen - Tobe Tobe Temakizushi</name>
   </anime>
@@ -37823,6 +37826,9 @@
   <anime anidbid="17944" tvdbid="432815" defaulttvdbseason="1">
     <name>Kikansha no Mahou wa Tokubetsu Desu</name>
   </anime>
+  <anime anidbid="17945" tvdbid="432845" defaulttvdbseason="1">
+    <name>Senpai wa Otokonoko</name>
+  </anime>
   <anime anidbid="17946" tvdbid="436124" defaulttvdbseason="1">
     <name>Horimiya: Piece</name>
   </anime>
@@ -37850,6 +37856,9 @@
   <anime anidbid="17963" tvdbid="433088" defaulttvdbseason="1">
     <name>Wind Breaker</name>
   </anime>
+  <anime anidbid="17965" tvdbid="433155" defaulttvdbseason="1">
+    <name>Shinmai Ossan Boukensha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.</name>
+  </anime>
   <anime anidbid="17966" tvdbid="433251" defaulttvdbseason="1">
     <name>Bikkurimen</name>
   </anime>
@@ -37864,6 +37873,9 @@
   </anime>
   <anime anidbid="17981" tvdbid="433560" defaulttvdbseason="1">
     <name>Bang Dream! It's MyGo!!!!!</name>
+  </anime>
+  <anime anidbid="17982" tvdbid="433527" defaulttvdbseason="1">
+    <name>Giji Harem</name>
   </anime>
   <anime anidbid="17998" tvdbid="434127" defaulttvdbseason="1">
     <name>Girls Band Cry</name>
@@ -37928,14 +37940,26 @@
   <anime anidbid="18076" tvdbid="316842" defaulttvdbseason="2" episodeoffset="12">
     <name>Mahou Tsukai no Yome Season 2 (2023)</name>
   </anime>
+  <anime anidbid="18080" tvdbid="424435" defaulttvdbseason="2">
+    <name>Megami no Cafe Terrace (2024)</name>
+  </anime>
   <anime anidbid="18082" tvdbid="436603" defaulttvdbseason="1">
     <name>Hime-sama "Goumon" no Jikan Desu</name>
   </anime>
   <anime anidbid="18083" tvdbid="427074" defaulttvdbseason="2">
     <name>Kizuna no Allele (2023)</name>
   </anime>
+  <anime anidbid="18086" tvdbid="421069" defaulttvdbseason="2">
+    <name>"Oshi no Ko" (2024)</name>
+  </anime>
   <anime anidbid="18088" tvdbid="421737" defaulttvdbseason="2">
     <name>Mashle: Shinkakusha Kouho Senbatsu Shiken Hen</name>
+  </anime>
+  <anime anidbid="18097" tvdbid="436836" defaulttvdbseason="1">
+    <name>Tasogare Outfocus</name>
+  </anime>
+  <anime anidbid="18098" tvdbid="436846" defaulttvdbseason="1">
+    <name>Isekai Suicide Squad</name>
   </anime>
   <anime anidbid="18100" tvdbid="83996" defaulttvdbseason="4">
     <name>Kuroshitsuji: Kishuku Gakkou Hen</name>
@@ -37976,11 +38000,17 @@
   <anime anidbid="18132" tvdbid="420280" defaulttvdbseason="1">
     <name>Ninja Kamui</name>
   </anime>
+  <anime anidbid="18134" tvdbid="416998" defaulttvdbseason="2">
+    <name>NieR:Automata Ver1.1a (2024)</name>
+  </anime>
   <anime anidbid="18145" tvdbid="437896" defaulttvdbseason="1">
     <name>Boukyaku Battery (2024)</name>
   </anime>
   <anime anidbid="18146" tvdbid="movie" defaulttvdbseason="1" tmdbid="1177096,1211716">
     <name>Oomuro-ke</name>
+  </anime>
+  <anime anidbid="18147" tvdbid="438005" defaulttvdbseason="1">
+    <name>Grendizer U</name>
   </anime>
   <anime anidbid="18152" tvdbid="438096" defaulttvdbseason="1">
     <name>Houkago no Breath</name>
@@ -37997,6 +38027,9 @@
   <anime anidbid="18160" tvdbid="music video" defaulttvdbseason="1" tmdbid="1158787">
     <name>"Fate/Grand Order" Memorial Movie 2023</name>
   </anime>
+  <anime anidbid="18162" tvdbid="438420" defaulttvdbseason="1">
+    <name>Dungeon no Naka no Hito</name>
+  </anime>
   <anime anidbid="18164" tvdbid="435005" defaulttvdbseason="1">
     <name>Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru</name>
   </anime>
@@ -38008,6 +38041,9 @@
   </anime>
   <anime anidbid="18177" tvdbid="438986" defaulttvdbseason="1">
     <name>Matsuinu</name>
+  </anime>
+  <anime anidbid="18180" tvdbid="movie" defaulttvdbseason="1" tmdbid="1266097">
+    <name>Gintama on Theater 2D: Baragaki Hen</name>
   </anime>
   <anime anidbid="18181" tvdbid="435020" defaulttvdbseason="1">
     <name>Beyblade X</name>
@@ -38069,6 +38105,9 @@
   <anime anidbid="18260" tvdbid="441563" defaulttvdbseason="1">
     <name>Vampire Dormitory</name>
   </anime>
+  <anime anidbid="18266" tvdbid="441727" defaulttvdbseason="1">
+    <name>Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai</name>
+  </anime>
   <anime anidbid="18270" tvdbid="442045" defaulttvdbseason="1">
     <name>The New Gate</name>
   </anime>
@@ -38086,6 +38125,9 @@
   </anime>
   <anime anidbid="18288" tvdbid="442690" defaulttvdbseason="1">
     <name>Meitou "Isekai no Yu" Kaitaku-ki: Arafou Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku Deshita</name>
+  </anime>
+  <anime anidbid="18289" tvdbid="443733" defaulttvdbseason="1">
+    <name>Ramen Aka Neko</name>
   </anime>
   <anime anidbid="18294" tvdbid="442938" defaulttvdbseason="1">
     <name>Wonderful Precure!</name>
@@ -38107,6 +38149,9 @@
   </anime>
   <anime anidbid="18314" tvdbid="movie" defaulttvdbseason="1" tmdbid="1216623">
     <name>Trapezium</name>
+  </anime>
+  <anime anidbid="18329" tvdbid="425474" defaulttvdbseason="2">
+    <name>Shy (2024)</name>
   </anime>
   <anime anidbid="18336" tvdbid="355774" defaulttvdbseason="4">
     <name>Dr. Stone: Science Future</name>
@@ -38132,8 +38177,17 @@
   <anime anidbid="18409" tvdbid="444655" defaulttvdbseason="1">
     <name>Wangzhe Rongyao: Rongyao Zhi Zhang</name>
   </anime>
+  <anime anidbid="18427" tvdbid="444916" defaulttvdbseason="1">
+    <name>Maou Gun Saikyou no Majutsushi wa Ningen datta</name>
+  </anime>
+  <anime anidbid="18438" tvdbid="445011" defaulttvdbseason="1">
+    <name>Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made</name>
+  </anime>
   <anime anidbid="18452" tvdbid="445261" defaulttvdbseason="1">
     <name>Himitsu no AiPri</name>
+  </anime>
+  <anime anidbid="18453" tvdbid="445253" defaulttvdbseason="1">
+    <name>Tasuu Ketsu</name>
   </anime>
   <anime anidbid="18475" tvdbid="446660" defaulttvdbseason="1">
     <name>Science Saru x MBS Original Short Anime Daisakusen!</name>
@@ -38144,11 +38198,26 @@
   <anime anidbid="18492" tvdbid="446097" defaulttvdbseason="1">
     <name>Shibuya Hachi</name>
   </anime>
+  <anime anidbid="18493" tvdbid="movie" defaulttvdbseason="1" tmdbid="1244492">
+    <name>Look Back</name>
+  </anime>
+  <anime anidbid="18518" tvdbid="446876" defaulttvdbseason="1">
+    <name>Boku no Tsuma wa Kanjou ga Nai</name>
+  </anime>
+  <anime anidbid="18534" tvdbid="447450" defaulttvdbseason="1">
+    <name>Shikanoko Nokonoko Koshitantan</name>
+  </anime>
   <anime anidbid="18538" tvdbid="movie" defaulttvdbseason="1" tmdbid="1231574">
     <name>Suki demo Kirai na Amanojaku</name>
   </anime>
+  <anime anidbid="18555" tvdbid="439507" defaulttvdbseason="2">
+    <name>Hari Maware! Koinu (2024)</name>
+  </anime>
   <anime anidbid="18557" tvdbid="movie" defaulttvdbseason="1" tmdbid="1263421">
     <name>Hanma Baki VS Kengan Ashura</name>
+  </anime>
+  <anime anidbid="18633" tvdbid="450707" defaulttvdbseason="1">
+    <name>Atashinchi Next</name>
   </anime>
   <anime anidbid="18670" tvdbid="418123" defaulttvdbseason="1">
     <name>Dead Dead Demon's Dededededestruction (Web)</name>
