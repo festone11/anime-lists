@@ -8249,7 +8249,7 @@
     <name>Aniyome</name>
   </anime>
   <anime anidbid="2508" tvdbid="80009" defaulttvdbseason="1">
-    <name>Tenchi Muyou! Ryououki Omatsuri Zen'ya no Yoru!</name>
+    <name>Tenchi Muyou! Ryououki: Omatsuri Zen'ya no Yoru!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-7;2-7;3-7;</mapping>
     </mapping-list>
@@ -35250,10 +35250,10 @@
     <name>Monogatari Series: Off &amp; Monster Season</name>
   </anime>
   <anime anidbid="18427" tvdbid="444916" defaulttvdbseason="1">
-    <name>Maou Gun Saikyou no Majutsushi wa Ningen datta</name>
+    <name>Maou Gun Saikyou no Majutsushi wa Ningen Datta</name>
   </anime>
   <anime anidbid="18438" tvdbid="445011" defaulttvdbseason="1">
-    <name>Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made</name>
+    <name>Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made</name>
   </anime>
   <anime anidbid="18452" tvdbid="445261" defaulttvdbseason="1">
     <name>Himitsu no AiPri</name>
