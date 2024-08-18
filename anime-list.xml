@@ -3943,7 +3943,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="987" tvdbid="71863" defaulttvdbseason="0" imdbid="tt0479746">
-    <name>Lupin Sansei: Russia yori Ai o Komete</name>
+    <name>Lupin Sansei: Rossiya yori Ai o Komete</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
     </mapping-list>
@@ -11391,7 +11391,7 @@
     <name>Toumei Ningen</name>
   </anime>
   <anime anidbid="4193" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0495596">
-    <name>Ged Senki: Tales from Earthsea</name>
+    <name>Ged Senki</name>
   </anime>
   <anime anidbid="4194" tvdbid="hentai" defaulttvdbseason="1">
     <name>Cleavage</name>
@@ -20127,7 +20127,7 @@
     <name>The Epic of Zektbach</name>
   </anime>
   <anime anidbid="8344" tvdbid="73532" defaulttvdbseason="0" tmdbid="408973" imdbid="tt1107335">
-    <name>Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri</name>
+    <name>Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennipri Matsuri</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
@@ -34343,7 +34343,7 @@
     <name>Dekoboko Majo no Oyako Jijou</name>
   </anime>
   <anime anidbid="17615" tvdbid="357019" defaulttvdbseason="3">
-    <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
+    <name>Arifureta Shokugyou de Sekai Saikyou Season 3</name>
   </anime>
   <anime anidbid="17616" tvdbid="424535" defaulttvdbseason="1">
     <name>Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi.</name>

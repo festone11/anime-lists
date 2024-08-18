@@ -3949,7 +3949,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="987" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0479746">
-    <name>Lupin Sansei: Russia yori Ai o Komete</name>
+    <name>Lupin Sansei: Rossiya yori Ai o Komete</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
     </mapping-list>
@@ -12555,7 +12555,7 @@
     <name>Toumei Ningen</name>
   </anime>
   <anime anidbid="4193" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0495596">
-    <name>Ged Senki: Tales from Earthsea</name>
+    <name>Ged Senki</name>
   </anime>
   <anime anidbid="4194" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Cleavage</name>
@@ -23253,7 +23253,7 @@
     <name>The Epic of Zektbach</name>
   </anime>
   <anime anidbid="8344" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="408973" imdbid="tt1107335">
-    <name>Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri</name>
+    <name>Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennipri Matsuri</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
@@ -48743,7 +48743,7 @@
     <name>Dekoboko Majo no Oyako Jijou</name>
   </anime>
   <anime anidbid="17615" tvdbid="357019" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
-    <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
+    <name>Arifureta Shokugyou de Sekai Saikyou Season 3</name>
   </anime>
   <anime anidbid="17616" tvdbid="424535" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi.</name>
@@ -51999,7 +51999,7 @@
     <name>Bai Fa Shen La</name>
   </anime>
   <anime anidbid="18760" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shiroi Buta Kizoku Desu ga Zense no Kioku ga Haeta no de Hiyoko na Otouto Sodatemasu</name>
+    <name>Shirobuta Kizoku Desu ga Zense no Kioku ga Haeta no de Hiyoko na Otouto Sodatemasu</name>
   </anime>
   <anime anidbid="18762" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kengan Ashura (2024)</name>
@@ -52150,5 +52150,23 @@
   </anime>
   <anime anidbid="18812" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mazome Soap de Aimashou!</name>
+  </anime>
+  <anime anidbid="18813" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Guai Xiang Shou</name>
+  </anime>
+  <anime anidbid="18814" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hamidashi Creative</name>
+  </anime>
+  <anime anidbid="18815" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ganbare! Nakamura-kun!!</name>
+  </anime>
+  <anime anidbid="18816" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Witch Watch</name>
+  </anime>
+  <anime anidbid="18817" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho</name>
+  </anime>
+  <anime anidbid="18818" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Arafou Otoko no Isekai Tsuuhan</name>
   </anime>
 </anime-list>
