@@ -1258,7 +1258,7 @@
   <anime anidbid="266" tvdbid="72454" defaulttvdbseason="a">
     <name>Meitantei Conan</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-73;5-75;</mapping>
       <mapping anidbseason="1" tvdbseason="2" start="29" end="54" offset="-28"/>
       <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="4" start="83" end="106" offset="-82"/>
@@ -13977,7 +13977,7 @@
   <anime anidbid="4753" tvdbid="149911" defaulttvdbseason="2">
     <name>Koi Suru Tenshi Angelique: Kagayaki no Ashita</name>
   </anime>
-  <anime anidbid="4755" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="4755" tvdbid="452956" defaulttvdbseason="1">
     <name>Asatte Dance</name>
   </anime>
   <anime anidbid="4756" tvdbid="unknown" defaulttvdbseason="1">
@@ -14230,7 +14230,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4864" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="4864" tvdbid="OVA" defaulttvdbseason="1" tmdbid="421930" imdbid="unknown">
     <name>Satsujin Kippu wa Heart-iro</name>
   </anime>
   <anime anidbid="4867" tvdbid="hentai" defaulttvdbseason="1">
@@ -16236,7 +16236,7 @@
   <anime anidbid="5750" tvdbid="73532" defaulttvdbseason="0" episodeoffset="29">
     <name>Tennis no Ouji-sama: Zenkoku Taikai Hen - Final</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-29;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5751" tvdbid="249865" defaulttvdbseason="0">
@@ -24846,7 +24846,7 @@
   <anime anidbid="9167" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Dosukoi! Wanpaku Dohyou</name>
   </anime>
-  <anime anidbid="9168" tvdbid="unknown" defaulttvdbseason="0">
+  <anime anidbid="9168" tvdbid="ova" defaulttvdbseason="1" tmdbid="806075">
     <name>Heart Cocktail Again</name>
   </anime>
   <anime anidbid="9169" tvdbid="music video" defaulttvdbseason="1">
@@ -31580,6 +31580,9 @@
   <anime anidbid="12990" tvdbid="hentai" defaulttvdbseason="1">
     <name>Daraku Reijou The Animation</name>
   </anime>
+  <anime anidbid="12991" tvdbid="web" defaulttvdbseason="1" tmdbid="511008">
+    <name>Kimi no Hikari: Asagao to Kase-san.</name>
+  </anime>
   <anime anidbid="12993" tvdbid="286853" defaulttvdbseason="0">
     <name>Binan Koukou Chikyuu Bouei Bu Love! Love! Love!</name>
   </anime>
@@ -32370,6 +32373,9 @@
   </anime>
   <anime anidbid="13570" tvdbid="79880" defaulttvdbseason="0" episodeoffset="10">
     <name>Utawarerumono: Tusukuru-koujo no Karei Naru Hibi</name>
+  </anime>
+  <anime anidbid="13571" tvdbid="262098" defaulttvdbseason="0" episodeoffset="41">
+    <name>Girls und Panzer: Dai 63-kai Sensha-dou Zenkoku Koukousei Taikai - Soushuuhen</name>
   </anime>
   <anime anidbid="13573" tvdbid="340518" defaulttvdbseason="1">
     <name>Hataraku Onii-san!</name>
@@ -35412,6 +35418,9 @@
   <anime anidbid="15788" tvdbid="368358" defaulttvdbseason="2">
     <name>Rikei ga Koi ni Ochita no de Shoumei Shite Mita. Heart</name>
   </anime>
+  <anime anidbid="15794" tvdbid="ova" defaulttvdbseason="1" tmdbid="755094">
+    <name>Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix</name>
+  </anime>
   <anime anidbid="15795" tvdbid="390832" defaulttvdbseason="1">
     <name>Tsuki ga Michibiku Isekai Douchuu</name>
   </anime>
@@ -36342,6 +36351,9 @@
   <anime anidbid="16637" tvdbid="410031" defaulttvdbseason="1">
     <name>Fairy Tail: 100 Years Quest</name>
   </anime>
+  <anime anidbid="16664" tvdbid="367277" defaulttvdbseason="0" episodeoffset="3">
+    <name>Azur Lane: Queen's Orders</name>
+  </anime>
   <anime anidbid="16681" tvdbid="400398" defaulttvdbseason="3">
     <name>Cardfight!! Vanguard: Will+Dress</name>
   </anime>
@@ -36463,6 +36475,9 @@
       <mapping anidbseason="1" tvdbseason="4">;1-1+2+3;2-4+5+6;3-7+8+9;4-10+11+12;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="16876" tvdbid="movie" defaulttvdbseason="1" tmdbid="883095">
+    <name>Rakudai Majo: Fuuka to Yami no Majo</name>
+  </anime>
   <anime anidbid="16878" tvdbid="73532" defaulttvdbseason="9">
     <name>Shin Tennis no Ouji-sama: U-17 World Cup</name>
   </anime>
@@ -36513,6 +36528,9 @@
   </anime>
   <anime anidbid="16937" tvdbid="411850" defaulttvdbseason="1">
     <name>Shine Post</name>
+  </anime>
+  <anime anidbid="16938" tvdbid="movie" defaulttvdbseason="1" tmdbid="641951">
+    <name>Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari</name>
   </anime>
   <anime anidbid="16940" tvdbid="411914" defaulttvdbseason="1">
     <name>Birdie Wing: Golf Girls' Story</name>
@@ -36868,6 +36886,9 @@
   <anime anidbid="17226" tvdbid="419457" defaulttvdbseason="1">
     <name>Yuki Hodokishi Futaai</name>
   </anime>
+  <anime anidbid="17229" tvdbid="ova" defaulttvdbseason="1" tmdbid="980692">
+    <name>Sekai ga Horobiru Mae ni Kimi ni Aitai</name>
+  </anime>
   <anime anidbid="17236" tvdbid="371310" defaulttvdbseason="2">
     <name>Mushoku Tensei II: Isekai Ittara Honki Dasu</name>
     <mapping-list>
@@ -37084,6 +37105,9 @@
   <anime anidbid="17421" tvdbid="420225" defaulttvdbseason="1">
     <name>Saikin Yatotta Maid ga Ayashii</name>
   </anime>
+  <anime anidbid="17422" tvdbid="420279" defaulttvdbseason="1">
+    <name>Rick and Morty: The Anime</name>
+  </anime>
   <anime anidbid="17423" tvdbid="420550" defaulttvdbseason="1">
     <name>Dekiru Neko wa Kyou mo Yuuutsu</name>
   </anime>
@@ -37131,6 +37155,9 @@
   </anime>
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
     <name>Obey Me! (2022)</name>
+  </anime>
+  <anime anidbid="17458" tvdbid="427822" defaulttvdbseason="1">
+    <name>Murai no Koi</name>
   </anime>
   <anime anidbid="17460" tvdbid="421273" defaulttvdbseason="1">
     <name>Edomae Elf</name>
@@ -38087,6 +38114,12 @@
   <anime anidbid="18177" tvdbid="438986" defaulttvdbseason="1">
     <name>Matsuinu</name>
   </anime>
+  <anime anidbid="18179" tvdbid="117801" defaulttvdbseason="3">
+    <name>Kimi ni Todoke 3rd Season</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="18180" tvdbid="movie" defaulttvdbseason="1" tmdbid="1266097">
     <name>Gintama on Theater 2D: Baragaki Hen</name>
   </anime>
@@ -38300,6 +38333,9 @@
   <anime anidbid="18543" tvdbid="438151" defaulttvdbseason="1" episodeoffset="13">
     <name>Sengoku Youko (2024)</name>
   </anime>
+  <anime anidbid="18545" tvdbid="418665" defaulttvdbseason="0">
+    <name>Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi</name>
+  </anime>
   <anime anidbid="18555" tvdbid="439507" defaulttvdbseason="2">
     <name>Hari Maware! Koinu (2024)</name>
   </anime>
@@ -38309,10 +38345,16 @@
   <anime anidbid="18564" tvdbid="movie" defaulttvdbseason="1" tmdbid="1266536">
     <name>Gekijouban SutoPuri: Hajimari no Monogatari - Strawberry School Festival!!!</name>
   </anime>
+  <anime anidbid="18598" tvdbid="movie" defaulttvdbseason="1" tmdbid="1211650">
+    <name>Paripi Koumei: Road to Summer Sonia</name>
+  </anime>
   <anime anidbid="18633" tvdbid="450707" defaulttvdbseason="1">
     <name>Atashinchi Next</name>
   </anime>
   <anime anidbid="18670" tvdbid="418123" defaulttvdbseason="1">
     <name>Dead Dead Demon's Dededededestruction (Web)</name>
+  </anime>
+  <anime anidbid="18805" tvdbid="443124" defaulttvdbseason="2">
+    <name>Rising Impact (2024)</name>
   </anime>
 </anime-list>
