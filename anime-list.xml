@@ -351,7 +351,7 @@
   <anime anidbid="69" tvdbid="81797" defaulttvdbseason="a">
     <name>One Piece</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-27;2-3;3-9;4-10;5-14;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-31;17-23;18-24;19-28;20-29;21-30;22-0;23-32;24-34;25-0;26-36;27-37;28-40;29-41;30-42;31-43;32-44;33-45;34-47;35-48;36-49;37-50;38-51;39-52;40-53;41-54;42-55;43-56;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-27;2-3;3-9;4-10;5-14;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-31;17-23;18-24;19-28;20-29;21-30;22-0;23-32;24-34;25-0;26-36;27-37;28-40;29-41;30-42;31-43;32-44;33-45;34-47;35-48;36-49;37-50;38-51;39-52;40-53;41-54;42-55;43-56;44-57;</mapping>
       <mapping anidbseason="1" tvdbseason="2" start="9" end="30" offset="-8"/>
       <mapping anidbseason="1" tvdbseason="3" start="31" end="47" offset="-30"/>
       <mapping anidbseason="1" tvdbseason="4" start="48" end="60" offset="-47"/>
@@ -12450,6 +12450,9 @@
       <studio>Sunrise</studio>
     </supplemental-info>
   </anime>
+  <anime anidbid="4710" tvdbid="456129" defaulttvdbseason="1">
+    <name>Youkaiden Nekome Kozou</name>
+  </anime>
   <anime anidbid="4711" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kigyou Senshi Yamazaki Long Distance Call</name>
   </anime>
@@ -15042,6 +15045,9 @@
   </anime>
   <anime anidbid="6101" tvdbid="hentai" defaulttvdbseason="1">
     <name>Teleclub no Himitsu</name>
+  </anime>
+  <anime anidbid="6102" tvdbid="456511" defaulttvdbseason="1">
+    <name>Gakkou no Yuurei</name>
   </anime>
   <anime anidbid="6103" tvdbid="83653" defaulttvdbseason="1">
     <name>Skip Beat!</name>
@@ -27928,11 +27934,11 @@
   <anime anidbid="12359" tvdbid="324355" defaulttvdbseason="1">
     <name>Ryuu no Haisha</name>
   </anime>
-  <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" imdbid="tt7833606,tt7834494,tt12286898">
+  <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" imdbid="tt7833606,tt7834494,tt12286898,tt28821523">
     <name>Girls und Panzer Saishuushou</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-46;2-52;3-43;4-47;5-53;6-50;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-41;2-45;3-51;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-41;2-45;3-51;4-62;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12362" tvdbid="349498" defaulttvdbseason="1">
@@ -34526,6 +34532,9 @@
   </anime>
   <anime anidbid="17676" tvdbid="330692" defaulttvdbseason="3">
     <name>Yuru Camp Season 3</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="19"/>
+    </mapping-list>
   </anime>
   <anime anidbid="17679" tvdbid="426355" defaulttvdbseason="1">
     <name>Lupin Zero</name>
@@ -35542,6 +35551,9 @@
   <anime anidbid="18521" tvdbid="446908" defaulttvdbseason="1">
     <name>Duel Masters Lost: Tsuioku no Suishou</name>
   </anime>
+  <anime anidbid="18523" tvdbid="432624" defaulttvdbseason="2">
+    <name>The Idolmaster Shiny Colors 2nd Season</name>
+  </anime>
   <anime anidbid="18527" tvdbid="447240" defaulttvdbseason="1">
     <name>Tensui no Sakuna-hime</name>
   </anime>
@@ -35703,5 +35715,8 @@
   </anime>
   <anime anidbid="18934" tvdbid="404525" defaulttvdbseason="0">
     <name>High Card: The Flowers Bloom</name>
+  </anime>
+  <anime anidbid="18978" tvdbid="456511" defaulttvdbseason="1" episodeoffset="6">
+    <name>Shin Gakkou no Yuurei</name>
   </anime>
 </anime-list>
