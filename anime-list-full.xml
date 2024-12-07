@@ -719,7 +719,8 @@
       <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="4" start="83" end="110" offset="-82"/>
       <mapping anidbseason="1" tvdbseason="5" start="111" end="139" offset="-110"/>
-      <mapping anidbseason="1" tvdbseason="6" start="140" end="167" offset="-139"/>
+      <mapping anidbseason="1" tvdbseason="6" start="140" end="159" offset="-139"/>
+      <mapping anidbseason="1" tvdbseason="7" start="160" end="167" offset="-159"/>
     </mapping-list>
   </anime>
   <anime anidbid="145" tvdbid="70900" defaulttvdbseason="2">
@@ -18394,7 +18395,7 @@
   <anime anidbid="6715" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0418984">
     <name>Oira no Yakyuu</name>
   </anime>
-  <anime anidbid="6716" tvdbid="71361" defaulttvdbseason="7">
+  <anime anidbid="6716" tvdbid="71361" defaulttvdbseason="8">
     <name>Inuyasha Kanketsuhen</name>
   </anime>
   <anime anidbid="6717" tvdbid="186071" defaulttvdbseason="1">
