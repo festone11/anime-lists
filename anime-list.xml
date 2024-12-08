@@ -34501,12 +34501,6 @@
   <anime anidbid="17646" tvdbid="425368" defaulttvdbseason="1">
     <name>Ars no Kyojuu</name>
   </anime>
-  <anime anidbid="17647" tvdbid="357019" defaulttvdbseason="0" episodeoffset="7">
-    <name>Arifureta Shokugyou de Sekai Saikyou 2nd Season: Maboroshi no Bouken to Kiseki no Kaikou</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
-    </mapping-list>
-  </anime>
   <anime anidbid="17648" tvdbid="418364" defaulttvdbseason="1" episodeoffset="12">
     <name>Kidou Senshi Gundam: Suisei no Majo (2023)</name>
   </anime>
