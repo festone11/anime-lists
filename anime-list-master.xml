@@ -10274,7 +10274,7 @@
   <anime anidbid="3135" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Shizukanaru Don: Yakuza Side Story</name>
   </anime>
-  <anime anidbid="3136" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3136" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="884005" imdbid="unknown">
     <name>OL Kaizou Kouza</name>
   </anime>
   <anime anidbid="3137" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -20724,7 +20724,7 @@
   <anime anidbid="7481" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Pokemon Ranger: Hikari no Kiseki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-40;2-40;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-40;2-81;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7483" tvdbid="79824" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1703048">
@@ -38854,7 +38854,7 @@
   <anime anidbid="14047" tvdbid="250022" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="">
     <name>Yuru Yuri Ten</name>
   </anime>
-  <anime anidbid="14048" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14048" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="1088937" imdbid="">
     <name>Mahjong Hishouden: Naki no Ryuu - Hiryuu no Shou</name>
   </anime>
   <anime anidbid="14049" tvdbid="349219" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38918,7 +38918,7 @@
   <anime anidbid="14070" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko Kikaku</name>
   </anime>
-  <anime anidbid="14071" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14071" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="608085" imdbid="">
     <name>Bokura no Nanokakan Sensou</name>
   </anime>
   <anime anidbid="14072" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39078,7 +39078,7 @@
   <anime anidbid="14123" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gaikan Chiba</name>
   </anime>
-  <anime anidbid="14124" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14124" tvdbid="341434" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Devils' Line: Anytime Anywhere</name>
   </anime>
   <anime anidbid="14125" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
