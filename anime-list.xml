@@ -7964,6 +7964,10 @@
   </anime>
   <anime anidbid="2400" tvdbid="78916" defaulttvdbseason="a">
     <name>Gantz</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="26" offset="-13"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2401" tvdbid="OVA" defaulttvdbseason="1">
     <name>Seikimatsu Darling</name>
@@ -35848,6 +35852,9 @@
   <anime anidbid="18750" tvdbid="452091" defaulttvdbseason="1">
     <name>Magic Maker: Isekai Mahou no Tsukurikata</name>
   </anime>
+  <anime anidbid="18754" tvdbid="271591" defaulttvdbseason="13">
+    <name>Yami Shibai 13</name>
+  </anime>
   <anime anidbid="18756" tvdbid="hentai" defaulttvdbseason="1">
     <name>OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi</name>
   </anime>
@@ -35940,5 +35947,11 @@
   </anime>
   <anime anidbid="19059" tvdbid="movie" defaulttvdbseason="1" tmdbid="1406240">
     <name>Eiga Oshiri Tantei: Star and Moon</name>
+  </anime>
+  <anime anidbid="19078" tvdbid="402033" defaulttvdbseason="3">
+    <name>Shiguang Dailiren: Yingdu Pian</name>
+  </anime>
+  <anime anidbid="19086" tvdbid="271591" defaulttvdbseason="14">
+    <name>Yami Shibai 14</name>
   </anime>
 </anime-list>
