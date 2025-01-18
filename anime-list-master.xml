@@ -8348,6 +8348,10 @@
   </anime>
   <anime anidbid="2400" tvdbid="78916" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Gantz</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="26" offset="-13"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2401" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Seikimatsu Darling</name>
@@ -51952,7 +51956,7 @@
   <anime anidbid="18753" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kanojo, Okarishimasu (2025)</name>
   </anime>
-  <anime anidbid="18754" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18754" tvdbid="271591" defaulttvdbseason="13" episodeoffset="" tmdbid="" imdbid="">
     <name>Yami Shibai 13</name>
   </anime>
   <anime anidbid="18756" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -52888,7 +52892,7 @@
   <anime anidbid="19077" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Fermat no Ryouri</name>
   </anime>
-  <anime anidbid="19078" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="19078" tvdbid="402033" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Shiguang Dailiren: Yingdu Pian</name>
   </anime>
   <anime anidbid="19079" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -52912,7 +52916,7 @@
   <anime anidbid="19085" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Aldnoah.Zero (Re+)</name>
   </anime>
-  <anime anidbid="19086" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="19086" tvdbid="271591" defaulttvdbseason="14" episodeoffset="" tmdbid="" imdbid="">
     <name>Yami Shibai 14</name>
   </anime>
   <anime anidbid="19087" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
