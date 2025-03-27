@@ -49826,8 +49826,11 @@
   <anime anidbid="17999" tvdbid="433034" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oroka na Tenshi wa Akuma to Odoru</name>
   </anime>
-  <anime anidbid="18000" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18000" tvdbid="433634" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Aishang Ta de Liyou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="18001" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="1117609" imdbid="">
     <name>Hokkyoku Hyakkaten no Concierge-san</name>
@@ -51707,7 +51710,7 @@
   <anime anidbid="18662" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xuwu Bianjing</name>
   </anime>
-  <anime anidbid="18663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18663" tvdbid="433634" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Aishang Ta de Liyou Fanwai: Yueding de Weilai</name>
   </anime>
   <anime anidbid="18664" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
