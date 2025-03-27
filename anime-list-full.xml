@@ -38051,6 +38051,12 @@
   <anime anidbid="17999" tvdbid="433034" defaulttvdbseason="1">
     <name>Oroka na Tenshi wa Akuma to Odoru</name>
   </anime>
+  <anime anidbid="18000" tvdbid="433634" defaulttvdbseason="1">
+    <name>Aishang Ta de Liyou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="18001" tvdbid="movie" defaulttvdbseason="1" tmdbid="1117609">
     <name>Hokkyoku Hyakkaten no Concierge-san</name>
   </anime>
@@ -38779,6 +38785,9 @@
   </anime>
   <anime anidbid="18654" tvdbid="423732" defaulttvdbseason="1">
     <name>Sakamoto Days</name>
+  </anime>
+  <anime anidbid="18663" tvdbid="433634" defaulttvdbseason="0">
+    <name>Aishang Ta de Liyou Fanwai: Yueding de Weilai</name>
   </anime>
   <anime anidbid="18670" tvdbid="418123" defaulttvdbseason="1">
     <name>Dead Dead Demon's Dededededestruction (Web)</name>
