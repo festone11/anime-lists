@@ -33219,6 +33219,9 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="12"/>
     </mapping-list>
   </anime>
+  <anime anidbid="16392" tvdbid="315500" defaulttvdbseason="2">
+    <name>Youjo Senki II</name>
+  </anime>
   <anime anidbid="16393" tvdbid="315500" defaulttvdbseason="0" episodeoffset="16">
     <name>Youjo Senki: Sabaku no Pasta Daisakusen</name>
   </anime>
@@ -35234,6 +35237,9 @@
   <anime anidbid="18089" tvdbid="82788" defaulttvdbseason="7">
     <name>Natsume Yuujinchou Shichi</name>
   </anime>
+  <anime anidbid="18090" tvdbid="402474" defaulttvdbseason="2">
+    <name>Jigokuraku Dai Ni Ki</name>
+  </anime>
   <anime anidbid="18093" tvdbid="436779" defaulttvdbseason="1">
     <name>Fate Strange Fake</name>
   </anime>
@@ -35753,6 +35759,9 @@
   <anime anidbid="18528" tvdbid="447246" defaulttvdbseason="1">
     <name>Isshun de Chiryou Shiteita no ni Yakudatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru</name>
   </anime>
+  <anime anidbid="18531" tvdbid="412374" defaulttvdbseason="2">
+    <name>Yofukashi no Uta Season 2</name>
+  </anime>
   <anime anidbid="18532" tvdbid="447354" defaulttvdbseason="1">
     <name>Neko ni Tensei Shita Ojisan</name>
   </anime>
@@ -35893,6 +35902,12 @@
   </anime>
   <anime anidbid="18683" tvdbid="451128" defaulttvdbseason="1">
     <name>Hana wa Saku, Shura no Gotoku</name>
+  </anime>
+  <anime anidbid="18686" tvdbid="450537" defaulttvdbseason="1">
+    <name>Gachiakuta</name>
+  </anime>
+  <anime anidbid="18687" tvdbid="423257" defaulttvdbseason="2">
+    <name>Dungeon Meshi 2</name>
   </anime>
   <anime anidbid="18689" tvdbid="451195" defaulttvdbseason="1">
     <name>Guilty Gear Strive: Dual Rulers</name>
@@ -36056,6 +36071,9 @@
   <anime anidbid="18864" tvdbid="444609" defaulttvdbseason="2">
     <name>Shoushimin Series (2025)</name>
   </anime>
+  <anime anidbid="18866" tvdbid="454529" defaulttvdbseason="1">
+    <name>Virgin Punk</name>
+  </anime>
   <anime anidbid="18872" tvdbid="432531" defaulttvdbseason="2">
     <name>Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2</name>
   </anime>
@@ -36071,6 +36089,12 @@
   <anime anidbid="18883" tvdbid="movie" defaulttvdbseason="1" tmdbid="1372489">
     <name>Eiga Doraemon: Nobita no E Sekai Monogatari</name>
   </anime>
+  <anime anidbid="18884" tvdbid="352408" defaulttvdbseason="4">
+    <name>Tensei Shitara Slime Datta Ken Dai 4 Ki</name>
+  </anime>
+  <anime anidbid="18889" tvdbid="445829" defaulttvdbseason="2">
+    <name>Tsue to Tsurugi no Wistoria 2</name>
+  </anime>
   <anime anidbid="18894" tvdbid="455062" defaulttvdbseason="1">
     <name>Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimau kara.</name>
   </anime>
@@ -36085,6 +36109,9 @@
   </anime>
   <anime anidbid="18935" tvdbid="455684" defaulttvdbseason="1">
     <name>Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru?</name>
+  </anime>
+  <anime anidbid="18937" tvdbid="455708" defaulttvdbseason="1">
+    <name>Blade &amp; Bastard</name>
   </anime>
   <anime anidbid="18939" tvdbid="455710" defaulttvdbseason="1">
     <name>Ore wa Seikan Kokka no Akutoku Ryoushu!</name>
@@ -36137,6 +36164,9 @@
   <anime anidbid="19059" tvdbid="movie" defaulttvdbseason="1" tmdbid="1406240">
     <name>Eiga Oshiri Tantei: Star and Moon</name>
   </anime>
+  <anime anidbid="19060" tvdbid="432832" defaulttvdbseason="2">
+    <name>Dan Da Dan (2025)</name>
+  </anime>
   <anime anidbid="19069" tvdbid="458058" defaulttvdbseason="1">
     <name>Vigilante: Boku no Hero Academia Illegals</name>
   </anime>
@@ -36157,6 +36187,9 @@
   </anime>
   <anime anidbid="19197" tvdbid="459332" defaulttvdbseason="1">
     <name>Nmeneko</name>
+  </anime>
+  <anime anidbid="19249" tvdbid="429934" defaulttvdbseason="2">
+    <name>Ao no Hako 2</name>
   </anime>
   <anime anidbid="19253" tvdbid="web" defaulttvdbseason="1" tmdbid="1455360">
     <name>Nomo no Kuni</name>
