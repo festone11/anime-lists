@@ -47498,7 +47498,7 @@
     <name>Minna no Douyou Shabondama ~Oyako de Utau Uta~</name>
   </anime>
   <anime anidbid="17181" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>The Legend of Sealed Book</name>
+    <name>Tian Shu Qi Tan</name>
   </anime>
   <anime anidbid="17182" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko Jockey</name>
@@ -48212,7 +48212,7 @@
     <name>Pui Pui Molcar: Driving School</name>
   </anime>
   <anime anidbid="17434" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Lighter &amp; Skirt</name>
+    <name>Dahuoji Yu Gongzhu Qun</name>
   </anime>
   <anime anidbid="17435" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gu Du De Li Li</name>
@@ -51426,7 +51426,7 @@
     <name>Winter Wonder Wander</name>
   </anime>
   <anime anidbid="18566" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Hime-sama "Goumon" no Jikan Desu 2</name>
+    <name>Hime-sama "Goumon" no Jikan Desu (2026)</name>
   </anime>
   <anime anidbid="18567" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hina</name>
@@ -53354,18 +53354,6 @@
   <anime anidbid="19242" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu 4</name>
   </anime>
-  <anime anidbid="19243" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Mayonaka no Boitore Danshi</name>
-  </anime>
-  <anime anidbid="19244" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Poutaun no Nakama-tachi</name>
-  </anime>
-  <anime anidbid="19245" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Nocturne Boogie</name>
-  </anime>
-  <anime anidbid="19246" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Takkyuu Shoujo: Senkou no Kanata e</name>
-  </anime>
   <anime anidbid="19247" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sono Keisatsukan, Tokidoki Yajuu!</name>
   </anime>
@@ -53377,12 +53365,6 @@
   </anime>
   <anime anidbid="19250" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Douse, Koishite Shimaunda. 2</name>
-  </anime>
-  <anime anidbid="19251" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>SINoALICE: Ichiban Saigo no Monogatari</name>
-  </anime>
-  <anime anidbid="19252" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Eiga Shimajiro: Miracle-jima no Nanairo Carnation</name>
   </anime>
   <anime anidbid="19253" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="1455360" imdbid="">
     <name>Nomo no Kuni</name>
@@ -53545,5 +53527,47 @@
   </anime>
   <anime anidbid="19309" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Slime Boukenki</name>
+  </anime>
+  <anime anidbid="19310" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>"Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai</name>
+  </anime>
+  <anime anidbid="19311" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jib-i eobs-eo</name>
+  </anime>
+  <anime anidbid="19312" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Yogoreta Kanojo</name>
+  </anime>
+  <anime anidbid="19313" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Tonari Kanojo</name>
+  </anime>
+  <anime anidbid="19314" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kyou wa Yubiwa o Hazusu kara......</name>
+  </anime>
+  <anime anidbid="19315" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mawangnim-eun Juggo Sip-eo</name>
+  </anime>
+  <anime anidbid="19316" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tiandu Yilu</name>
+  </anime>
+  <anime anidbid="19317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>TarZAN</name>
+  </anime>
+  <anime anidbid="19318" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ao Ashi (2026)</name>
+  </anime>
+  <anime anidbid="19319" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi</name>
+  </anime>
+  <anime anidbid="19320" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Umayuru: Pretty Gray</name>
+  </anime>
+  <anime anidbid="19321" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jigoku Sensei Nube (2026)</name>
+  </anime>
+  <anime anidbid="19322" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yeon-aejehanguyeog</name>
+  </anime>
+  <anime anidbid="19323" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kun Tun Tianxia Zhi Zhang Men Guilai</name>
   </anime>
 </anime-list>
