@@ -8369,7 +8369,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2405" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0834584">
-    <name>Lupin Sansei: Nusumareta Lupin</name>
+    <name>Lupin Sansei: Nusumareta Lupin - Copycat wa Manatsu no Chou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-26;</mapping>
     </mapping-list>
@@ -49803,7 +49803,7 @@
     <name>Wonky Monkey</name>
   </anime>
   <anime anidbid="17993" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Monster But Wild</name>
+    <name>Ququ Bucai, Zaixia Yeguai</name>
   </anime>
   <anime anidbid="17994" tvdbid="432632" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Amagami-san Chi no Enmusubi</name>
@@ -50856,7 +50856,7 @@
     <name>Tunshi Xingkong 3</name>
   </anime>
   <anime anidbid="18365" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Tunshi Xingkong 4</name>
+    <name>Tunshi Xingkong (2023)</name>
   </anime>
   <anime anidbid="18366" tvdbid="443906" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Akuyaku Reijou Tensei Ojisan</name>
@@ -51621,7 +51621,7 @@
     <name>Maarui Kanojo to Zannen na Kareshi</name>
   </anime>
   <anime anidbid="18638" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Dia no Ace (Zokuhen)</name>
+    <name>Dia no Ace: Act II Second Season</name>
   </anime>
   <anime anidbid="18639" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Muzik Tiger: In the Forest</name>
@@ -53572,5 +53572,44 @@
   </anime>
   <anime anidbid="19325" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Uruwashi no Yoi no Tsuki</name>
+  </anime>
+  <anime anidbid="19326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ququ Bucai, Zaixia Yeguai Di Er Ji</name>
+  </anime>
+  <anime anidbid="19327" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Heroine? Seijo? Iie, All Works Maid Desu (Ko)!</name>
+  </anime>
+  <anime anidbid="19328" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jishou Akuyaku Reijou na Kon'yakusha no Kansatsu Kiroku.</name>
+  </anime>
+  <anime anidbid="19329" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Koushoku no Chuugi Kunoichi Botan</name>
+  </anime>
+  <anime anidbid="19330" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Android wa Keiken Ninzuu ni Hairimasu ka??</name>
+  </anime>
+  <anime anidbid="19331" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tsurezure Popipa</name>
+  </anime>
+  <anime anidbid="19332" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nakazaki Tatsuya Super Gag Theater</name>
+  </anime>
+  <anime anidbid="19333" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yoiko no Tanoshii Christmas</name>
+  </anime>
+  <anime anidbid="19334" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kingdom Hearts X Back Cover</name>
+  </anime>
+  <anime anidbid="19335" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Saigo no Kuushuu Kumagaya</name>
+  </anime>
+  <anime anidbid="19336" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Catch! Tiniping</name>
+  </anime>
+  <anime anidbid="19337" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>I Byeol-e Pil-yohan</name>
+  </anime>
+  <anime anidbid="19338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Lupin the IIIrd: Zenigata to 2-nin no Lupin</name>
   </anime>
 </anime-list>
