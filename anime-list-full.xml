@@ -36450,6 +36450,9 @@
   <anime anidbid="16720" tvdbid="379528" defaulttvdbseason="2">
     <name>Han Hua Ri Ji Di Er Ji</name>
   </anime>
+  <anime anidbid="16727" tvdbid="371437" defaulttvdbseason="0" episodeoffset="19" tmdbid="997086" imdbid="tt15447084">
+    <name>Gekijouban Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...</name>
+  </anime>
   <anime anidbid="16732" tvdbid="410147" defaulttvdbseason="1">
     <name>Shinmai Renkinjutsushi no Tenpo Keiei</name>
   </anime>
@@ -39125,6 +39128,9 @@
   <anime anidbid="19027" tvdbid="457473" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam GQuuuuuuX</name>
   </anime>
+  <anime anidbid="19038" tvdbid="457645" defaulttvdbseason="1">
+    <name>Takopi no Genzai</name>
+  </anime>
   <anime anidbid="19044" tvdbid="movie" defaulttvdbseason="1" tmdbid="1397163">
     <name>Kidou Senshi Gundam GQuuuuuuX: Beginning</name>
   </anime>
@@ -39172,5 +39178,8 @@
   </anime>
   <anime anidbid="19253" tvdbid="web" defaulttvdbseason="1" tmdbid="1455360">
     <name>Nomo no Kuni</name>
+  </anime>
+  <anime anidbid="19357" tvdbid="464419" defaulttvdbseason="1">
+    <name>Guimi Zhi Zhu</name>
   </anime>
 </anime-list>
