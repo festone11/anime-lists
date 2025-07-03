@@ -38441,6 +38441,9 @@
   <anime anidbid="18238" tvdbid="440820" defaulttvdbseason="1">
     <name>Dragon Ball Daima</name>
   </anime>
+  <anime anidbid="18242" tvdbid="440861" defaulttvdbseason="1">
+    <name>Koujo Denka no Kateikyoushi</name>
+  </anime>
   <anime anidbid="18247" tvdbid="440897" defaulttvdbseason="1">
     <name>Lv2 kara Cheat Datta Moto Yuusha Kouho no Mattari Isekai Life</name>
   </anime>
@@ -38534,6 +38537,9 @@
   <anime anidbid="18297" tvdbid="442878" defaulttvdbseason="1">
     <name>Astro Note</name>
   </anime>
+  <anime anidbid="18300" tvdbid="345596" defaulttvdbseason="2">
+    <name>Seishun Buta Yarou wa Santa Claus no Yume o Minai</name>
+  </anime>
   <anime anidbid="18301" tvdbid="movie" defaulttvdbseason="1" tmdbid="1214138">
     <name>Fureru.</name>
   </anime>
@@ -38566,6 +38572,9 @@
   </anime>
   <anime anidbid="18323" tvdbid="413578" defaulttvdbseason="2">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran</name>
+  </anime>
+  <anime anidbid="18324" tvdbid="397934" defaulttvdbseason="2">
+    <name>Gekijouban Chainsaw Man: Reze Hen</name>
   </anime>
   <anime anidbid="18327" tvdbid="414207" defaulttvdbseason="2">
     <name>MF Ghost 2nd Season</name>
@@ -38942,6 +38951,9 @@
   <anime anidbid="18728" tvdbid="451767" defaulttvdbseason="1">
     <name>Classic Stars</name>
   </anime>
+  <anime anidbid="18731" tvdbid="451821" defaulttvdbseason="1">
+    <name>Mikadono San Shimai wa Angai, Choroi.</name>
+  </anime>
   <anime anidbid="18735" tvdbid="248035" defaulttvdbseason="5">
     <name>Ao no Exorcist: Yosuga Hen</name>
   </anime>
@@ -38950,6 +38962,9 @@
   </anime>
   <anime anidbid="18750" tvdbid="452091" defaulttvdbseason="1">
     <name>Magic Maker: Isekai Mahou no Tsukurikata</name>
+  </anime>
+  <anime anidbid="18753" tvdbid="380654" defaulttvdbseason="4">
+    <name>Kanojo, Okarishimasu (2025)</name>
   </anime>
   <anime anidbid="18754" tvdbid="271591" defaulttvdbseason="13">
     <name>Yami Shibai 13</name>
@@ -38980,6 +38995,9 @@
   </anime>
   <anime anidbid="18780" tvdbid="movie" defaulttvdbseason="1" tmdbid="1322752">
     <name>Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku</name>
+  </anime>
+  <anime anidbid="18782" tvdbid="452713" defaulttvdbseason="1">
+    <name>Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru</name>
   </anime>
   <anime anidbid="18786" tvdbid="452741" defaulttvdbseason="1">
     <name>NegaPosi Angler</name>
@@ -39056,6 +39074,9 @@
   <anime anidbid="18866" tvdbid="454529" defaulttvdbseason="1">
     <name>Virgin Punk</name>
   </anime>
+  <anime anidbid="18867" tvdbid="454524" defaulttvdbseason="1">
+    <name>Kaoru Hana wa Rin to Saku</name>
+  </anime>
   <anime anidbid="18872" tvdbid="432531" defaulttvdbseason="2">
     <name>Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2</name>
   </anime>
@@ -39106,6 +39127,9 @@
   </anime>
   <anime anidbid="18978" tvdbid="456511" defaulttvdbseason="1" episodeoffset="6">
     <name>Shin Gakkou no Yuurei</name>
+  </anime>
+  <anime anidbid="18984" tvdbid="423732" defaulttvdbseason="1" episodeoffset="11">
+    <name>Sakamoto Days (2025)</name>
   </anime>
   <anime anidbid="18985" tvdbid="456678" defaulttvdbseason="1">
     <name>Ballpark de Tsukamaete!</name>
@@ -39164,6 +39188,9 @@
   <anime anidbid="19086" tvdbid="271591" defaulttvdbseason="14">
     <name>Yami Shibai 14</name>
   </anime>
+  <anime anidbid="19097" tvdbid="456435" defaulttvdbseason="1">
+    <name>Mizu Zokusei no Mahou Tsukai</name>
+  </anime>
   <anime anidbid="19182" tvdbid="web" defaulttvdbseason="1" tmdbid="1430394">
     <name>Kairyuu to Yuubin'ya-san</name>
   </anime>
@@ -39173,11 +39200,17 @@
   <anime anidbid="19197" tvdbid="459332" defaulttvdbseason="1">
     <name>Nmeneko</name>
   </anime>
+  <anime anidbid="19248" tvdbid="355774" defaulttvdbseason="4" episodeoffset="12">
+    <name>Dr. Stone: Science Future (2025)</name>
+  </anime>
   <anime anidbid="19249" tvdbid="429934" defaulttvdbseason="2">
     <name>Ao no Hako 2</name>
   </anime>
   <anime anidbid="19253" tvdbid="web" defaulttvdbseason="1" tmdbid="1455360">
     <name>Nomo no Kuni</name>
+  </anime>
+  <anime anidbid="19262" tvdbid="368364" defaulttvdbseason="2" episodeoffset="12">
+    <name>Jibaku Shounen Hanako-kun 2 (2025)</name>
   </anime>
   <anime anidbid="19357" tvdbid="464419" defaulttvdbseason="1">
     <name>Guimi Zhi Zhu</name>
