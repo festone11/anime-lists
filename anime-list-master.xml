@@ -6832,7 +6832,7 @@
     <name>Akai Hayate</name>
   </anime>
   <anime anidbid="1940" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Onna Kyoushi Yumi no Houkago</name>
+    <name>Onna Kyoushi: Yumi no Houkago</name>
   </anime>
   <anime anidbid="1941" tvdbid="71863" defaulttvdbseason="0" episodeoffset="21" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0326092">
     <name>Lupin Sansei: Alcatraz Connection</name>
@@ -49319,7 +49319,7 @@
     <name>Shuwawan!</name>
   </anime>
   <anime anidbid="17824" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Made in Abyss (Zokuhen)</name>
+    <name>Made in Abyss (2026)</name>
   </anime>
   <anime anidbid="17825" tvdbid="429895" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Rokudou no Onna-tachi</name>
@@ -49678,9 +49678,6 @@
   </anime>
   <anime anidbid="17948" tvdbid="432838" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Rinkai!</name>
-  </anime>
-  <anime anidbid="17949" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>CHUUKOU IKKAN!! KIMETSU GAKUEN MONOGATARI: KIMETSU NO UTAGE TOKUBETSU-HEN</name>
   </anime>
   <anime anidbid="17950" tvdbid="373275" defaulttvdbseason="2" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Hypnosis Mic: Division Rap Battle - Rhyme Anima +</name>
@@ -53361,7 +53358,7 @@
     <name>Ao no Hako 2</name>
   </anime>
   <anime anidbid="19250" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Douse, Koishite Shimaunda. 2</name>
+    <name>Douse, Koishite Shimaunda. (2026)</name>
   </anime>
   <anime anidbid="19253" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1455360" imdbid="">
     <name>Nomo no Kuni</name>
@@ -53990,9 +53987,6 @@
   <anime anidbid="19469" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mao</name>
   </anime>
-  <anime anidbid="19470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Chuukou Ikkan! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu hen</name>
-  </anime>
   <anime anidbid="19471" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kaijuu 8 Gou Dai 1 Ki Soushuuhen</name>
   </anime>
@@ -54109,5 +54103,47 @@
   </anime>
   <anime anidbid="19509" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Usahana: Yumemiru Ballerina</name>
+  </anime>
+  <anime anidbid="19510" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Reika wa Karei na Boku no Joou The Animation</name>
+  </anime>
+  <anime anidbid="19511" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kinnikuman: Perfect Origin Hen Season 3</name>
+  </anime>
+  <anime anidbid="19512" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru</name>
+  </anime>
+  <anime anidbid="19513" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Akane-banashi</name>
+  </anime>
+  <anime anidbid="19514" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>OVA Sister Breeder</name>
+  </anime>
+  <anime anidbid="19515" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Seikon no Aria</name>
+  </anime>
+  <anime anidbid="19516" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kuro Neko to Majo no Kyoushitsu</name>
+  </anime>
+  <anime anidbid="19517" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Xiangzhe Xingchen De Changzheng</name>
+  </anime>
+  <anime anidbid="19518" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>2200-nen Neko no Kuni Nippon</name>
+  </anime>
+  <anime anidbid="19519" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Akuyaku Reijou no Tsuihougo! Kyoukai Kaikaku Gohan de Yuuyuu Sister Kurashi</name>
+  </anime>
+  <anime anidbid="19520" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Gwang-jang</name>
+  </anime>
+  <anime anidbid="19521" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shitakedo Suterare Sounanode Dungeon o Seiha Suru</name>
+  </anime>
+  <anime anidbid="19522" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Paris ni Saku Etoile</name>
+  </anime>
+  <anime anidbid="19523" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Shen Mu Di San Ji</name>
   </anime>
 </anime-list>
