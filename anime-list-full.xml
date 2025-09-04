@@ -31596,7 +31596,7 @@
   <anime anidbid="15107" tvdbid="379923" defaulttvdbseason="1" tmdbtv="99080" tmdbseason="1" imdbid="tt12464204">
     <name>Peter Grill to Kenja no Jikan</name>
   </anime>
-  <anime anidbid="15110" tvdbid="354179" defaulttvdbseason="2" tmdbtv="90660" tmdbseason="2">
+  <anime anidbid="15110" tvdbid="354179" defaulttvdbseason="1" episodeoffset="12" tmdbtv="90660" tmdbseason="1" tmdboffset="12">
     <name>Kengan Ashura (2019)</name>
   </anime>
   <anime anidbid="15111" tvdbid="289882" defaulttvdbseason="3" tmdbtv="62745" tmdbseason="3">
