@@ -28068,7 +28068,7 @@
   <anime anidbid="12430" tvdbid="293088" defaulttvdbseason="2" tmdbtv="63926" tmdbseason="2">
     <name>One Punch Man (2019)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-11;5-12;6-13;7-14</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-11;5-12;6-13;7-14;</mapping>
     </mapping-list>
     <before>;1-1;2-3;</before>
   </anime>
@@ -34473,6 +34473,9 @@
   </anime>
   <anime anidbid="17576" tvdbid="293088" defaulttvdbseason="3" tmdbtv="63926" tmdbseason="3">
     <name>One Punch Man (2025)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-17;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17578" tvdbid="418001" defaulttvdbseason="1" tmdbtv="195530" tmdbseason="1">
     <name>Tekken: Bloodline</name>
