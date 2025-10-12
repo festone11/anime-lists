@@ -36404,7 +36404,7 @@
   <anime anidbid="19072" tvdbid="443345" defaulttvdbseason="2" tmdbtv="241811" tmdbseason="2">
     <name>Puniru wa Kawaii Slime (2025)</name>
   </anime>
-  <anime anidbid="19075" tvdbid="446389" defaulttvdbseason="2" tmdbtv="258579" tmdbseason="2">
+  <anime anidbid="19075" tvdbid="446389" defaulttvdbseason="1" episodeoffset="13" tmdbtv="258579" tmdbseason="1" tmdboffset="13">
     <name>Nageki no Bourei wa Intai Shitai (2025)</name>
   </anime>
   <anime anidbid="19077" tvdbid="458232" defaulttvdbseason="1" tmdbtv="283704" tmdbseason="1">
@@ -36487,6 +36487,9 @@
   </anime>
   <anime anidbid="19262" tvdbid="368364" defaulttvdbseason="2" episodeoffset="12" tmdbtv="95269" tmdbseason="2" tmdboffset="12">
     <name>Jibaku Shounen Hanako-kun 2 (2025)</name>
+  </anime>
+  <anime anidbid="19295" tvdbid="259635" defaulttvdbseason="6" tmdbtv="46437" tmdbseason="6">
+    <name>Kingdom (2025)</name>
   </anime>
   <anime anidbid="19357" tvdbid="464419" defaulttvdbseason="1" tmdbtv="232230" tmdbseason="1">
     <name>Guimi Zhi Zhu</name>
